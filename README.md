@@ -2,7 +2,7 @@
 ## Louisiana Cyber Investigators Alliance-Lists
 ### Data gathered through proactive cyber intelligence work
 
-#Passwords
+**Passwords**
 Password Lists gathered through proactive cyber intelligence gathering. All passwords in these lists were 
 were used in hacking or malicious activity. 
  
@@ -10,7 +10,7 @@ were used in hacking or malicious activity.
 .CSV : comma seperated values: <password>, <count>
 - count is the number of times it has been attempted or we have seen in our investigations
 
-#Usernames
+**Usernames**
 Username List gathered through proactive cyber intelligence gathering. All usernames in these lists were 
 were used in hacking or malicious activity. 
   
