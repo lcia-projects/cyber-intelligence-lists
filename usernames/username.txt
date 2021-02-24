@@ -843,6 +843,7 @@ mnbvcxz
 112233
 1122334
 11223344
+1122334455
 112233445566
 11223344556677
 11223344qqwweerr
@@ -1215,6 +1216,7 @@ mnbvcxz
 1234Qwe
 1234QwerAsdfZxcv
 1234Qwerty
+1234Root
 1234[
 1234_QWER
 1234abcd
@@ -1366,6 +1368,7 @@ mnbvcxz
 123Asd@789
 123Asdqwe$%^
 123Asdqwe789!
+123Azerty
 123Cin353
 123Dennis
 123Diego
@@ -2335,6 +2338,7 @@ mnbvcxz
 1q2w3e4r5!@#
 1q2w3e4r5t
 1q2w3e4r5t!@
+1q2w3e4r5t!@#
 1q2w3e4r5t!@12
 1q2w3e4r5t#
 1q2w3e4r5t$
@@ -2649,6 +2653,7 @@ mnbvcxz
 2016@qwe~~
 2019
 201977
+2019@2019
 202
 202.21.35.82
 202.4.237.94
@@ -2692,6 +2697,7 @@ mnbvcxz
 21122112
 212
 212.162.14.85
+212.227.137.105
 212.237.45.76
 212.64.215.50
 212121
@@ -3570,6 +3576,7 @@ mnbvcxz
 55w0rd
 56
 562810
+56525652
 5667%^&
 567856789
 5678956789
@@ -3623,6 +3630,7 @@ mnbvcxz
 65.151.136.46
 654321
 654321Aa
+654321a
 66
 66.113.250.8
 66.23.201.66
@@ -4037,6 +4045,7 @@ AA1
 AA123321
 AA@1234
 AA@12345
+AA@123456
 AAA@123
 AAAaaa111
 AASSDDFFGGHH
@@ -4443,6 +4452,7 @@ Admin@123!@#
 Admin@123$
 Admin@123.
 Admin@123456!
+Admin@1234567
 Admin@12345678
 Admin@1234567890
 Admin@17
@@ -4508,6 +4518,7 @@ Adminvps@123
 Admin~1234
 Admin~123@
 Adriano
+Ael2009&
 AfXNtpa38x
 Affordable
 Afra@Net
@@ -4559,6 +4570,7 @@ Anna
 Anni
 Annie
 Anonymous
+Anonymous@123
 Antal
 Anthony
 Antonia
@@ -5296,6 +5308,7 @@ Izolda
 Izso
 J158nd7J
 J342736#(*@3d
+J@nroe
 JMFT
 JOcerimeJo
 JULBXOfw
@@ -5964,6 +5977,7 @@ P@$VVORD
 P@$VVORD!
 P@$VVORD12
 P@$VVORD321
+P@$sw0rd
 P@$sw0rd!
 P@$sw0rd1
 P@$sw0rd123
@@ -6801,6 +6815,7 @@ Pass
 Pass!!!
 Pass!@#
 Pass!@#$
+Pass!@#123
 Pass!Word
 Pass#0p;/
 Pass#1qaz
@@ -7585,6 +7600,7 @@ QazWsx
 QazWsxEdc#
 Qazwsx!@#123
 Qazwsx123
+Qazwsx123!@#
 Qazwsx123456!@#$%^
 Qazwsx@123#
 Qazxsw2
@@ -7853,6 +7869,7 @@ Root@111
 Root@123
 Root@1234
 Root@1qazXSW@
+Root@2018
 Root@2019
 RootP@ss2017
 RoscoP
@@ -8449,6 +8466,7 @@ ZzZzZ1
 _apt
 _ftp
 `1234qwer
+a!123456
 a'
 a's;dlfk
 a's;dlfkgj
@@ -8553,6 +8571,7 @@ a_pai
 aa
 aa1122
 aa11bb
+aa123!@#
 aa123321
 aa123445
 aa123456
@@ -8786,6 +8805,7 @@ abcd123!@#
 abcd1231abd
 abcd1234
 abcd1234!
+abcd1234#
 abcd1234$
 abcd1234%
 abcd1234..+
@@ -9229,6 +9249,7 @@ admin####
 admin#10
 admin#12
 admin#123
+admin#1234
 admin#2008
 admin$
 admin$123
@@ -11202,6 +11223,7 @@ apx
 apy
 apz
 aq
+aq12wsde34rf
 aq1sw2de3fr4gt5hy6ju7ki8lo9
 aqa
 aqb
@@ -11846,6 +11868,7 @@ atlasmaritime
 atlbitbucket
 atm
 atmob
+atmosphere
 atn
 ato
 atom
@@ -16503,6 +16526,7 @@ cox-sftp
 coxinhabar
 coy
 coyo
+coyote
 coz
 cp
 cp1
@@ -18212,6 +18236,7 @@ devonshop
 devontrez
 devop
 devops
+devops123
 devopsuser
 devor
 devora
@@ -25441,6 +25466,7 @@ heg
 hegger
 heh
 hehe
+hehehe
 hei
 heidi
 heidrun
@@ -27654,6 +27680,7 @@ independence
 index
 india
 indiana
+indians
 indiantravel
 indic
 indicus
@@ -27794,6 +27821,7 @@ instalador
 instale
 install
 installer
+instant
 instavc
 instead
 instinct
@@ -33342,6 +33370,7 @@ linux1
 linux123
 linux123321
 linux321
+linux4ever
 linux8
 linux@123
 linux@12345
@@ -33754,6 +33783,7 @@ lmx
 lmy
 lmz
 ln
+ln5203344***
 lna
 lnadmin
 lnb
@@ -33813,6 +33843,7 @@ lode
 loe
 loes
 lof
+lofasz
 log
 log4j
 logable
@@ -34978,6 +35009,7 @@ manticore
 mantis
 manu
 manuel
+manuel123
 manuel@cox.net
 manuela
 manuf
@@ -35860,6 +35892,7 @@ mendez
 mendy
 meneses
 meng
+meng123456
 mengbin
 mengdonghong
 menge
@@ -37320,6 +37353,7 @@ mudrui
 mue
 muellner
 muf
+mufasa
 mug
 mugala
 mugihiko
@@ -41262,6 +41296,7 @@ p@ssw0rd!!
 p@ssw0rd$
 p@ssw0rd//SOLD
 p@ssw0rd123!
+p@ssw0rd1234
 p@ssw0rd123456
 p@ssw0rd1234567
 p@ssw0rd1234567.
@@ -41280,6 +41315,7 @@ p@ssw0rt@123
 p@ssw7rd
 p@sswOrd
 p@sswd123
+p@sswd1234
 p@ssword
 p@ssword!
 p@ssword-1
@@ -41731,6 +41767,7 @@ password
 password
 password!
 password!*
+password!@
 password!@#
 password!@#$%^&*
 password!@#$%^&*()
@@ -44759,6 +44796,7 @@ qwerty1
 qwerty100
 qwerty11
 qwerty111111
+qwerty12
 qwerty12#
 qwerty123
 qwerty123!@#
@@ -46482,6 +46520,7 @@ roodt
 rookie
 rool
 roooooooooooooooooooooooooooooooooooot
+roooot
 rooot
 roopa
 roopesh
@@ -46525,6 +46564,7 @@ root12345
 root123456
 root123456654321
 root12345678
+root123456789
 root1234567890
 root123456@
 root12345l
@@ -47271,6 +47311,7 @@ s3curity
 s3user
 s3x
 s4les
+s654321
 s7C9Cx.rLsWFA
 s8
 sIJaxmfX
@@ -53337,6 +53378,7 @@ thall
 thamson
 thanasis
 thang
+thanh123
 thanks
 thankyou
 thao
@@ -55553,6 +55595,7 @@ user2123
 user22
 user2@cox.net
 user3
+user321
 user33
 user4
 user5
@@ -57568,6 +57611,7 @@ wax
 way
 wayan
 wayne
+wayoflife11
 waz
 wazaki
 wazne
@@ -62342,6 +62386,7 @@ zephyr
 zeppelin
 zeq
 zer
+zeratul
 zeriam
 zero
 zeronet
@@ -62714,6 +62759,7 @@ zhanglc
 zhangle
 zhanglei
 zhangli
+zhangli123
 zhanglijun
 zhanglin
 zhanglingxiao
