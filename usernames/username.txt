@@ -1571,6 +1571,7 @@ mnbvcxz
 123qwe!@#$
 123qwe!@#QWE
 123qwe!@#qwe
+123qwe
 123qwe./
 123qwe.
 123qwe098poi
@@ -3886,6 +3887,7 @@ mnbvcxz
 @!QAZXSW
 @#$%^&
 @#$`^&
+@#QWAS68
 @#QWE123qwe
 @#qwe123
 @$$word
@@ -4981,6 +4983,7 @@ Enes123
 English123
 English123.
 English123:
+Enterprise
 Enterprise1
 Enterprise123
 Epin
@@ -5050,6 +5053,7 @@ From: <sip:nm@nm>;tag=root
 Front242
 Froschi
 Fruzsina
+Ft05ab
 FuJianDX
 FullSpeed
 Fulop
@@ -5306,6 +5310,7 @@ Jamie
 Jana
 Janet
 Janice
+Jaydell98
 Jd8kxaWF
 Jdk3)S92!w3S
 Jeff
@@ -5573,6 +5578,7 @@ NeimengguDX
 Neptun
 NetLinx
 Network1
+NewPass
 Newton
 Newton1
 Nguyen@
@@ -7054,6 +7060,7 @@ Password!!!!!!
 Password!!@@##
 Password!0
 Password!1*
+Password!123
 Password!2
 Password!2#
 Password!2021
@@ -9461,6 +9468,7 @@ adminpass123@!
 adminpc123
 adminphp
 adminpsw
+adminpwd
 adminradio
 adminrig
 adminroot
@@ -10163,6 +10171,7 @@ aldrich
 ale
 alea
 aleah
+alealeale
 alec
 alecia
 alecu
@@ -10460,6 +10469,7 @@ amartinez@sbcglobal.net
 amaryllis
 amasuda
 amat
+amaterasu
 amaur
 amavis
 amavis1
@@ -11830,6 +11840,7 @@ atkin
 atkina
 atl
 atlantic
+atlantis
 atlas
 atlasmaritime
 atlbitbucket
@@ -14975,6 +14986,7 @@ centos3
 centos5svm
 centos65
 centos6svm.admin123
+centos8svm
 centos@123
 centos@1234
 centosadmin
@@ -15897,6 +15909,7 @@ cloud123
 cloud2
 cloud3
 cloud321
+cloud@123456
 cloud_user
 cloudadmin
 cloudbot
@@ -16172,6 +16185,7 @@ com
 com!@#
 com!@#123
 com1
+comanche
 combo12345
 combobass
 comcast
@@ -17287,6 +17301,7 @@ dae
 daegu
 daehwan
 daemon
+daemon12345
 daewon
 daf
 dafes
@@ -18918,6 +18933,7 @@ dogg
 doggie
 doggiedog
 doghouse
+dogs
 doh
 doht
 doi
@@ -22871,6 +22887,7 @@ futureweb
 fuu
 fuw
 fuwen
+fuwuqi
 fux
 fuxi
 fuy
@@ -38927,6 +38944,7 @@ north
 norton
 norway
 noseborra
+nosoup4u
 nospam
 nosql
 nostra
@@ -41237,6 +41255,7 @@ p@ss123
 p@ss123456
 p@ssW0rD
 p@ssw0RD
+p@ssw0Rd
 p@ssw0rD
 p@ssw0rd
 p@ssw0rd!!
@@ -41611,6 +41630,7 @@ pass!@
 pass!@#
 pass!@#$%^
 pass!@#123
+pass#word1
 pass&gt;
 pass0000
 pass0819
@@ -43748,6 +43768,7 @@ q_!
 qa
 qa12
 qa123
+qa123456
 qa@123
 qa_test
 qaa
@@ -44563,6 +44584,7 @@ qw63822421
 qw@12
 qwa
 qwang
+qwasyx21
 qwaszx
 qwaszx!@
 qwaszx1
@@ -46542,6 +46564,7 @@ root@admin
 root@cox.net
 root@qwe
 root@qwe123
+root@r00t
 root@sbcglobal.net
 rootLinux
 rootOnm0bile
@@ -47244,6 +47267,7 @@ s2005
 s2admin
 s3
 s3V6R2y1
+s3curity
 s3user
 s3x
 s4les
@@ -48394,6 +48418,7 @@ server1#
 server12
 server123
 server123$
+server123123
 server1234!
 server1234567890
 server123server321
@@ -50592,6 +50617,7 @@ sql!@#123
 sql2003
 sql2005
 sql2008!@#
+sql@123
 sql@2010
 sqladmin
 sqladmin123!

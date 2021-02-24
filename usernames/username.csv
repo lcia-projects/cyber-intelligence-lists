@@ -667,7 +667,7 @@ mnbvcxz,4
 000000000,2
 000000a,1
 01,30
-0101,2591
+0101,2593
 010101010101,3
 0108,1
 0123,1
@@ -908,7 +908,7 @@ mnbvcxz,4
 1221,1
 12222,1
 1225,2
-123,468
+123,469
 123,1
 123!,2
 123!@#,4
@@ -1099,7 +1099,7 @@ mnbvcxz,4
 123456789aA,2
 123456789ab,1
 123456789jqk.a,2
-123456789qwe,1
+123456789qwe,2
 123456789vasile,1
 12345678@Ab,3
 12345678aA,3
@@ -1145,7 +1145,7 @@ mnbvcxz,4
 123456aa,1
 123456aa!!,1
 123456aaa,1
-123456ab,1
+123456ab,2
 123456abcABC,1
 123456abcdef,3
 123456admzxcvbnm!@,2
@@ -1572,6 +1572,7 @@ mnbvcxz,4
 123qwe!@#$,2
 123qwe!@#QWE,1
 123qwe!@#qwe,2
+123qwe,1
 123qwe./,1
 123qwe.,1
 123qwe098poi,3
@@ -2709,7 +2710,7 @@ mnbvcxz,4
 217.9.154.165,1
 218.41.21.102,1
 21vianet,1
-22,10480
+22,10484
 2200,2
 2202,1
 221,1
@@ -3629,7 +3630,7 @@ mnbvcxz,4
 6625329a!,1
 6625329a!123,1
 666,1
-666666,12667
+666666,12691
 666666!@#,1
 6666666,1
 6666Abc,2
@@ -3778,7 +3779,7 @@ mnbvcxz,4
 888,3
 8888,1
 88888,6
-888888,12743
+888888,12762
 888888!@#,1
 88888888,4
 888888888,1
@@ -3887,6 +3888,7 @@ mnbvcxz,4
 @!QAZXSW,1
 @#$%^&,1
 @#$`^&,1
+@#QWAS68,1
 @#QWE123qwe,1
 @#qwe123,1
 @$$word,1
@@ -4324,7 +4326,7 @@ Adm2013,1
 Adm33,2
 Adm@,3
 AdmiN,1
-Admin,20798
+Admin,20825
 Admin!!!,1
 Admin!!11,2
 Admin!!123,1
@@ -4475,7 +4477,7 @@ Adminis.1,1
 Adminis.123,1
 Administrador,1
 Administrat0r,2
-Administrator,23336
+Administrator,23362
 Administrator!@#,1
 Administrator!@#*,1
 Administrator-12,4
@@ -4878,7 +4880,7 @@ Computer1,3
 ConecT,1
 Configit123,2
 Connection: Close,2
-Connection: TE close,30
+Connection: TE close,32
 Connection: keep-alive,16
 Connection:close,7
 Console@123,1
@@ -4982,6 +4984,7 @@ Enes123,1
 English123,73
 English123.,1
 English123:,1
+Enterprise,1
 Enterprise1,2
 Enterprise123,1
 Epin,4
@@ -5051,6 +5054,7 @@ From: <sip:nm@nm>;tag=root,36
 Front242,1
 Froschi,1
 Fruzsina,5
+Ft05ab,1
 FuJianDX,1
 FullSpeed,1
 Fulop,3
@@ -5065,7 +5069,7 @@ GCpassword123,2
 GED,3
 GEM,1
 GET / HTTP/1.0,49
-GET / HTTP/1.1,143
+GET / HTTP/1.1,145
 GET /?CAVIT HTTP/1.1,2
 GET /api HTTP/1.0,2
 GET /api.php HTTP/1.1,10
@@ -5307,6 +5311,7 @@ Jamie,18
 Jana,3
 Janet,22
 Janice,18
+Jaydell98,1
 Jd8kxaWF,1
 Jdk3)S92!w3S,1
 Jeff,2
@@ -5574,6 +5579,7 @@ NeimengguDX,2
 Neptun,2
 NetLinx,25
 Network1,1
+NewPass,1
 Newton,1
 Newton1,2
 Nguyen@,1
@@ -6287,7 +6293,7 @@ P@ssword000,1
 P@ssword00000,1
 P@ssword01#,1
 P@ssword1,1
-P@ssword1!,1
+P@ssword1!,2
 P@ssword1111,1
 P@ssword1123,2
 P@ssword12123,2
@@ -7055,6 +7061,7 @@ Password!!!!!!,3
 Password!!@@##,2
 Password!0,4
 Password!1*,1
+Password!123,1
 Password!2,1
 Password!2#,2
 Password!2021,1
@@ -8169,7 +8176,7 @@ User-Agent: libwww-perl/6.45,3
 User-Agent: libwww-perl/6.46,2
 User-Agent: libwww-perl/6.47,1
 User-Agent: libwww-perl/6.49,6
-User-Agent: libwww-perl/6.52,1
+User-Agent: libwww-perl/6.52,3
 User1,3
 User12,1
 User123,1
@@ -9175,7 +9182,7 @@ adjointe,5
 adjust,1
 adk,19
 adl,11
-adm,1658
+adm,1663
 adm!n,1
 adm!n!$trat0r,2
 adm!n123*,3
@@ -9203,7 +9210,7 @@ admessalud,1
 admftp,3
 admiN123!,1
 admiadmin,1
-admin,716190
+admin,717577
 admin!!@@##$$,1
 admin!12345,1
 admin!123456789,1
@@ -9251,7 +9258,7 @@ admin01,91
 admin011,1
 admin02,8
 admin08,1
-admin1,13883
+admin1,13901
 admin1!!!,1
 admin10,20
 admin100335482,10
@@ -9425,7 +9432,7 @@ administration,9
 administrative,1
 administrativo01,1
 administrativo01*,1
-administrator,15808
+administrator,15824
 administrator!@#$%^,2
 administrator1,16
 administrator11,1
@@ -9462,6 +9469,7 @@ adminpass123@!,2
 adminpc123,1
 adminphp,1
 adminpsw,1
+adminpwd,1
 adminradio,1
 adminrig,9
 adminroot,4
@@ -10164,6 +10172,7 @@ aldrich,4
 ale,126
 alea,8
 aleah,1
+alealeale,1
 alec,41
 alecia,8
 alecu,4
@@ -10461,6 +10470,7 @@ amartinez@sbcglobal.net,1
 amaryllis,7
 amasuda,4
 amat,1
+amaterasu,1
 amaur,8
 amavis,247
 amavis1,50
@@ -11626,7 +11636,7 @@ asdf12345,1
 asdf12345^&*,1
 asdf@123,1
 asdf@123123,2
-asdf@1234,1
+asdf@1234,2
 asdfQWER,1
 asdfasdf,2
 asdfasdf1,1
@@ -11831,6 +11841,7 @@ atkin,3
 atkina,1
 atl,8
 atlantic,2
+atlantis,1
 atlas,140
 atlasmaritime,5
 atlbitbucket,37
@@ -14969,13 +14980,14 @@ cent,258
 center,184
 centerdesign,1
 centor,48
-centos,2168
+centos,2169
 centos1,1
 centos2,2
 centos3,1
 centos5svm,1
 centos65,2
 centos6svm.admin123,2
+centos8svm,1
 centos@123,2
 centos@1234,2
 centosadmin,1
@@ -15898,6 +15910,7 @@ cloud123,2
 cloud2,1
 cloud3,1
 cloud321,1
+cloud@123456,1
 cloud_user,214
 cloudadmin,61
 cloudbot,1
@@ -16173,6 +16186,7 @@ com,125
 com!@#,1
 com!@#123,1
 com1,3
+comanche,1
 combo12345,1
 combobass,4
 comcast,9
@@ -17288,6 +17302,7 @@ dae,6
 daegu,4
 daehwan,3
 daemon,467
+daemon12345,1
 daewon,1
 daf,8
 dafes,5
@@ -17615,7 +17630,7 @@ dayz,146
 dayzserver,1
 daz,1
 dazzle,1
-db,795
+db,797
 db-upload,2
 db1,10
 db1inst1,28
@@ -17812,7 +17827,7 @@ debbie,70
 debby,13
 debecker,7
 debi,11
-debian,2634
+debian,2637
 debian-spamb,1
 debian-spamd,86
 debian-tor,11
@@ -17872,7 +17887,7 @@ deepmagic,9
 deepthi,7
 deepti,4
 def,9
-default,15419
+default,15439
 defaultcorpsys,4
 defaultprojects,5
 deffer,5
@@ -17951,7 +17966,7 @@ demi,9
 demian,5
 demicro,8
 demjen,2
-demo,3007
+demo,3009
 demo1,133
 demo123!@#,1
 demo1234,1
@@ -18138,7 +18153,7 @@ deutch,9
 deutchland,18
 deutsch,5
 deutsche,5
-dev,3299
+dev,3301
 dev1,114
 dev123,1
 dev2,127
@@ -18919,6 +18934,7 @@ dogg,4
 doggie,8
 doggiedog,1
 doghouse,3
+dogs,1
 doh,4
 doht,1
 doi,38
@@ -20220,7 +20236,7 @@ elarson,6
 elasearch,46
 elasitc,1
 elastcisearch,7
-elastic,949
+elastic,951
 elastic1,1
 elastic2,1
 elastic3,1
@@ -20232,7 +20248,7 @@ elasticftp,1
 elasticguest,1
 elasticmail,1
 elastics,1
-elasticsearch,1000
+elasticsearch,1002
 elasticsearch1,1
 elasticsearch123,1
 elasticserver,1
@@ -22670,7 +22686,7 @@ ftp_user123,1
 ftp_wooripa,2
 ftpaccess,12
 ftpadm,11
-ftpadmin,1528
+ftpadmin,1530
 ftpadmin12,1
 ftpadmin2,3
 ftpadministrador,1
@@ -22722,13 +22738,13 @@ ftpsupport,1
 ftpsvr,17
 ftpt,6
 ftptemp,14
-ftptest,2262
+ftptest,2264
 ftptest1,24
 ftptestusr,3
 ftpu,157
 ftpup,1
 ftpupload,109
-ftpuser,9157
+ftpuser,9159
 ftpuser001,7
 ftpuser002,10
 ftpuser01,1
@@ -22872,6 +22888,7 @@ futureweb,1
 fuu,3
 fuw,7
 fuwen,9
+fuwuqi,1
 fux,2
 fuxi,1
 fuy,1
@@ -23753,7 +23770,7 @@ gis-user,3
 gisela,25
 gisele,24
 giselle,17
-git,10558
+git,10560
 git!@#,3
 git-admin,16
 git-administrator2,25
@@ -24540,7 +24557,7 @@ guenevere,4
 guenole,1
 guera,8
 guess,16
-guest,87244
+guest,87324
 guest-2s6ogj,1
 guest-6vfqk5,1
 guest-7y4ukv,1
@@ -24945,7 +24962,7 @@ hadi,5
 hadijahe,12
 hadis,1
 hadley,7
-hadoop,5032
+hadoop,5033
 hadoop-root,4
 hadoop-user,4
 hadoop1,85
@@ -28965,7 +28982,7 @@ jenifer,61
 jeniffer,11
 jenine,5
 jenkin,8
-jenkins,4562
+jenkins,4565
 jenkins1,17
 jenkins123,1
 jenkins2,3
@@ -29319,7 +29336,7 @@ jip,1
 jipe,3
 jiqun,1
 jir,2
-jira,1113
+jira,1115
 jira1,77
 jira2,1
 jira3,1
@@ -35028,7 +35045,7 @@ marco,289
 marco123,1
 marcom,3
 marconi,18
-marcos,161
+marcos,162
 marcos1,1
 marcu,3
 marcus,206
@@ -36873,7 +36890,7 @@ motahar,8
 motasim,1
 motconfig,1
 motdepasse,1
-mother,14847
+mother,14868
 motion,129
 motion123,1
 motiur,8
@@ -37581,7 +37598,7 @@ mysftp,159
 myshake,2
 myson,5
 mysonadd2,2
-mysql,6192
+mysql,6194
 mysql-data,4
 mysql-test,4
 mysql.service,1
@@ -38928,6 +38945,7 @@ north,18
 norton,7
 norway,7
 noseborra,11
+nosoup4u,1
 nospam,1
 nosql,1
 nostra,3
@@ -39012,7 +39030,7 @@ npowers,1
 npp,5
 npq,5
 npr,4
-nproc,62290
+nproc,62315
 nps,16
 npt,6
 npu,3
@@ -39208,7 +39226,7 @@ nut,123
 nuttinun,1
 nutz,10
 nuu,2
-nuucp,604
+nuucp,605
 nuv,2
 nuvve,1
 nuw,1
@@ -39548,7 +39566,7 @@ odn,4
 odo,4
 odol,2
 odontologia,5
-odoo,3245
+odoo,3247
 odoo1,9
 odoo10,126
 odoo11,114
@@ -40244,7 +40262,7 @@ orace,4
 oracel,1
 oracl,4
 oracld,15
-oracle,14372
+oracle,14374
 oracle!,2
 oracle!@#,1
 oracle!@#$%^,1
@@ -41238,6 +41256,7 @@ p@ss123,3
 p@ss123456,3
 p@ssW0rD,1
 p@ssw0RD,2
+p@ssw0Rd,1
 p@ssw0rD,1
 p@ssw0rd,28
 p@ssw0rd!!,3
@@ -41612,6 +41631,7 @@ pass!@,1
 pass!@#,1
 pass!@#$%^,3
 pass!@#123,2
+pass#word1,1
 pass&gt;,8
 pass0000,4
 pass0819,1
@@ -42376,7 +42396,7 @@ phys,3
 physics,81
 phyto2,18
 phz,3
-pi,3688
+pi,3694
 pia,44
 pian,4
 piano,20
@@ -42874,7 +42894,7 @@ postflx,1
 postgers,41
 postgis,6
 postgre,29
-postgres,27170
+postgres,27174
 postgres01,5
 postgres1,28
 postgres12,3
@@ -43749,6 +43769,7 @@ q_!,1
 qa,241
 qa12,1
 qa123,1
+qa123456,1
 qa@123,2
 qa_test,1
 qaa,2
@@ -44564,6 +44585,7 @@ qw63822421,1
 qw@12,1
 qwa,3
 qwang,26
+qwasyx21,1
 qwaszx,2
 qwaszx!@,2
 qwaszx1,1
@@ -46468,7 +46490,7 @@ roosevelt,17
 roosevelt1,2
 roosevelt1234,1
 rooster,1
-root,2272958
+root,2275221
 root 12345,1
 root!@,1
 root!@!@,1
@@ -46543,6 +46565,7 @@ root@admin,1
 root@cox.net,16
 root@qwe,1
 root@qwe123,1
+root@r00t,1
 root@sbcglobal.net,31
 rootLinux,1
 rootOnm0bile,1
@@ -47245,13 +47268,14 @@ s2005,1
 s2admin,7
 s3,6
 s3V6R2y1,1
+s3curity,1
 s3user,5
 s3x,1
 s4les,8
 s7C9Cx.rLsWFA,2
 s8,4
 sIJaxmfX,1
-sa,66609
+sa,66670
 sa-2018,1
 sa123!@#,1
 sa123321,1
@@ -48372,7 +48396,7 @@ sermons,1
 serv,11
 servar,4
 serve,10
-server,3784
+server,3786
 server!2008,1
 server#12345,1
 server#2008,4
@@ -48395,6 +48419,7 @@ server1#,1
 server12,1
 server123,1
 server123$,1
+server123123,1
 server1234!,1
 server1234567890,1
 server123server321,2
@@ -48456,7 +48481,7 @@ serveruser,1
 serveur,117
 serveur2,18
 serveys,9
-service,13826
+service,13840
 service1,87
 service123456,1
 service2,20
@@ -50271,7 +50296,7 @@ solar,1
 solargis,8
 solaris,55
 solaris123,1
-solarus,109
+solarus,110
 soldat,9
 sole,32
 soledad,6
@@ -50458,7 +50483,7 @@ spannbauer,2
 spanner,1
 spar,5
 sparc,9
-spark,1085
+spark,1087
 spark01,10
 spark02,1
 spark03,1
@@ -50593,6 +50618,7 @@ sql!@#123,1
 sql2003,1
 sql2005,42
 sql2008!@#,1
+sql@123,1
 sql@2010,1
 sqladmin,5
 sqladmin123!,1
@@ -50803,7 +50829,7 @@ stacey,16
 staci,1
 stacia,18
 stacie,13
-stack,630
+stack,632
 stackato,17
 stacle,3
 stacy,36
@@ -51251,7 +51277,7 @@ stud,25
 stud1,5
 stud10,1
 studen,4
-student,4467
+student,4469
 student!@#,8
 student-bk,1
 student0,21
@@ -51576,7 +51602,7 @@ superstar,14
 superuser,182
 superuser01,2
 supervis,1
-supervisor,25543
+supervisor,25580
 supervisores,4
 supkar,3
 suport,15
@@ -51598,7 +51624,7 @@ supp0rt33,5
 supp0rt44,3
 supp0rt88,1
 supperinspur,49
-support,92020
+support,92048
 support!1,1
 support$,2
 support-mgr,6
@@ -51749,7 +51775,7 @@ svj,4
 svk,7
 svl,1
 svm,15
-svn,1238
+svn,1240
 svn-repo,1
 svn-user,8
 svn123,1
@@ -52631,7 +52657,7 @@ teampspeak123,1
 teampspeak3,67
 teams3,2
 teamspeack,1
-teamspeak,3842
+teamspeak,3844
 teamspeak-server,12
 teamspeak1,24
 teamspeak123,1
@@ -52671,7 +52697,7 @@ teb,4
 tec,36
 tec@cox.net,2
 tec@sbcglobal.net,1
-tech,12752
+tech,12766
 tech1,8
 tech1@cox.net,2
 tech1@sbcglobal.net,1
@@ -52781,7 +52807,7 @@ telly,2
 telma,13
 telmas,3
 telnet,400
-telnetadmin,112
+telnetadmin,113
 telnetd,44
 telnets,5
 telus,15
@@ -52903,7 +52929,7 @@ tess1234,1
 tessa,9
 tessie,7
 tesssss,4
-test,42319
+test,42330
 test!@#!@#,3
 test!@#$,1
 test!@#123,1
@@ -52926,7 +52952,7 @@ test03@cox.net,5
 test03@sbcglobal.net,4
 test04,16
 test05,14
-test1,3690
+test1,3692
 test10,80
 test101,79
 test10@cox.net,2
@@ -54328,7 +54354,7 @@ ts1,50
 ts1234,1
 ts2,355
 ts2bot,4
-ts3,3652
+ts3,3654
 ts3-1,1
 ts3-server,1
 ts31,4
@@ -54811,7 +54837,7 @@ ubk,1
 ubl,3
 ubm,1
 ubn,1
-ubnt,30678
+ubnt,30710
 ubnt:ubnt,1
 ubnuntu,7
 ubo,2
@@ -54823,7 +54849,7 @@ ubstep,17
 ubt,6
 ubu,6
 ubunt,1
-ubuntu,21655
+ubuntu,21660
 ubuntu-mate,3
 ubuntu-studio,6
 ubuntu.,1
@@ -55482,7 +55508,7 @@ uschi,11
 usd,3
 usdra,1
 use,7
-user,99185
+user,99231
 user-admin,1
 user-data,7
 user-owner,1
@@ -55496,7 +55522,7 @@ user004,12
 user005,10
 user006,11
 user007,10
-user01,886
+user01,888
 user01@scaleway.com,3
 user02,352
 user03,281
@@ -55505,7 +55531,7 @@ user04,70
 user05,75
 user07,1
 user0@scaleway.com,2
-user1,4226
+user1,4228
 user10,134
 user100,28
 user11,148
@@ -56922,7 +56948,7 @@ vpopmail1,1
 vpp,4
 vpq,3
 vpr,2
-vps,617
+vps,618
 vps!@#123,2
 vps#123,1
 vps123,1
@@ -57833,7 +57859,7 @@ web_project,3
 webaccess,9
 webackup,3
 webadm,117
-webadmin,1760
+webadmin,1762
 webadmin123,3
 webadmin@cox.net,18
 webadmin@sbcglobal.net,17
@@ -57900,7 +57926,7 @@ webler,7
 webline,1
 weblink,4
 weblmadmin,1
-weblogic,1903
+weblogic,1905
 weblogic1,19
 weblogic123,6
 weblogic2,4
@@ -57911,7 +57937,7 @@ webmail@sbcglobal.net,3
 webmanager,1
 webmaste@cox.net,2
 webmaste@sbcglobal.net,1
-webmaster,2328
+webmaster,2330
 webmaster1,25
 webmaster123,1
 webmaster123321,1
@@ -58777,7 +58803,7 @@ word222,1
 word4321,1
 wordpass,1
 wordpres,1
-wordpress,401
+wordpress,402
 wordpress123,2
 wordpressuser,8
 wordprskor,3
@@ -59164,7 +59190,7 @@ wwt,2
 wwting,1
 wwu,3
 wwv,3
-www,4776
+www,4778
 www-admin,11
 www-data,2107
 www-data123,1
