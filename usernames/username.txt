@@ -36466,6 +36466,7 @@ minera
 minergate
 minerhub
 mineria
+minerstat
 minerva
 mines
 mineshare
