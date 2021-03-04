@@ -15121,6 +15121,7 @@ cdo
 cdolan
 cdonahue
 cdoran
+cdot
 cdouglas
 cdp
 cdq
@@ -15785,6 +15786,7 @@ cht
 chtnatbc
 chtseng
 chu
+chuai
 chuan
 chuanyu
 chucho
@@ -16988,6 +16990,7 @@ csf
 csftp
 csg
 csgaming
+csgca
 csgdesk
 csgo
 csgo-server
@@ -19418,6 +19421,7 @@ dr
 dr@g0n
 dr@gon
 dra
+drac
 dracar
 draco
 dracula
@@ -30230,6 +30234,7 @@ jts3
 jts3bot
 jtsai
 jtsdata
+jtsu
 jtt
 jtu
 jtv
@@ -62395,6 +62400,7 @@ zandra
 zandrawi
 zandria
 zane
+zang
 zanga
 zanghongrun
 zanna
