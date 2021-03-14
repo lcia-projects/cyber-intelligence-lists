@@ -3190,6 +3190,7 @@ mnbvcxz
 45.55.246.1 - SSH-2.0-Ope.SSH_7.4
 45.55.246.25 - SSH-2.0-Ope.SSH_7.2p2 Ubuntu-4ubuntu2.10
 45.55.246.52 - SSH-2.0-Ope.SSH_6.6.1p1 Ubuntu-2ubuntu2.7
+45.55.70.132 - SSH-2.0-Ope.SSH_6.6.1p1 Ubuntu-2ubuntu2.7
 45.57.194.218
 45.58.32.106 - SSH-2.0-Ope.SSH_7.6p1 Ubuntu-4ubuntu0.3
 45.58.32.144 - SSH-2.0-Ope.SSH_8.2p1 Ubuntu-4
