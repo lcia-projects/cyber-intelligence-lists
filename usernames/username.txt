@@ -652,6 +652,7 @@ mnbvcxz
 -pl
 ..
 ..!@yy0558236400
+.r00t
 .sysadmin
 .syslog
 /'
@@ -23654,6 +23655,7 @@ gar
 gara
 garaia
 garcia
+gard
 garda
 garden
 gardenUser
@@ -36945,6 +36947,7 @@ minischnauzer
 minisoccer
 miniya
 minjie
+minlingduo
 minlon
 minna
 minne
@@ -40933,6 +40936,7 @@ oqy
 oqz
 or
 ora
+ora11
 ora12c
 ora8004
 oraapex
@@ -51656,6 +51660,7 @@ st4ck
 st5bsl
 st@2018
 sta
+stable
 stacee
 stacey
 staceym
