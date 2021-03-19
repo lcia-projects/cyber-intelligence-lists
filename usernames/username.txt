@@ -16201,6 +16201,7 @@ clfu
 clg
 clh
 cli
+cli jktdr3sc02
 click
 clickmob
 client
