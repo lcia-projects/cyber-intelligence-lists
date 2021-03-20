@@ -39005,6 +39005,7 @@ nezor
 nezu
 nf
 nfa
+nfast
 nfb
 nfc
 nfd
@@ -39417,6 +39418,7 @@ nlw
 nlx
 nlz
 nm
+nm-openvpn
 nma
 nmap
 nmb
