@@ -2,7 +2,7 @@
 # www.la-safe.org
 # Proactive cyber intelligenceinvestigatory work has lead to a growing username.keyword list.
 username.keyword,count
-%-12345X@PJL INFO ID,5
+%-12345X@PJL INFO ID,6
 Prima#01,1
 !!!,1
 !!!!!!,2
@@ -498,7 +498,7 @@ Prima#01,1
 !qwer2asdf#zxcv,1
 !qzz2wsx,1
 !qzz2wsx.,2
-!root,2
+!root,3
 !w@x#y$z,2
 !w@x#y$z123,1
 !you#ming%shun&,2
@@ -635,6 +635,7 @@ $upport123,1
 &lt;stddef.h&gt;,3
 &qkrrhwlrlaakfdl)%,2
 (23646),6
+(none),1
 (standard,1
 )(,1
 )(*,1
@@ -642,7 +643,7 @@ $upport123,1
 ***,4
 ******,2
 ********,1
-*1,5
+*1,6
 *UHBnji9,1
 *^doarmata8210,2
 +6+7+8+9,1
@@ -659,7 +660,7 @@ mnbvcxz,4
 /',1
 00,21
 000,10
-0000,27
+0000,28
 0000++,1
 00000,3
 000000,7
@@ -668,7 +669,7 @@ mnbvcxz,4
 000000000,2
 000000a,1
 01,30
-0101,5928
+0101,5934
 010101010101,3
 0108,1
 0123,1
@@ -2817,7 +2818,7 @@ mnbvcxz,4
 217.9.154.165,1
 218.41.21.102,1
 21vianet,1
-22,10770
+22,10774
 2200,2
 2202,1
 221,1
@@ -2828,6 +2829,7 @@ mnbvcxz,4
 22222,3
 222222,1
 2222222,6
+22222222,1
 2222222222,1
 222ff2f2dcea4,1
 223,20
@@ -2891,6 +2893,7 @@ mnbvcxz,4
 26VRXpbN,1
 27,1
 27.254.137.88,1
+2800,1
 28havoline88,1
 29,1
 2WSX.1QAZ,1
@@ -3812,7 +3815,7 @@ mnbvcxz,4
 6625329a!,1
 6625329a!123,1
 666,1
-666666,13407
+666666,13413
 666666!@#,1
 6666666,1
 6666Abc,2
@@ -3972,7 +3975,7 @@ mnbvcxz,4
 888,3
 8888,1
 88888,6
-888888,13490
+888888,13500
 888888!@#,1
 88888888,4
 888888888,1
@@ -4531,7 +4534,7 @@ Adm2013,1
 Adm33,2
 Adm@,3
 AdmiN,1
-Admin,33994
+Admin,34010
 Admin!!!,1
 Admin!!11,2
 Admin!!123,1
@@ -4683,7 +4686,7 @@ Adminis.1,1
 Adminis.123,1
 Administrador,1
 Administrat0r,2
-Administrator,27947
+Administrator,27962
 Administrator!@#,1
 Administrator!@#*,1
 Administrator-12,4
@@ -4980,7 +4983,7 @@ CVSROOT,4
 Cache123,1
 CactiEZ!@#,1
 Caleb,18
-Call-ID: 50000,44
+Call-ID: 50000,45
 Cam,2
 Canada,2
 Canada1,1
@@ -5092,9 +5095,9 @@ Configit123,2
 Connection: Close,2
 Connection: TE close,34
 Connection: keep-alive,16
-Connection:close,7
+Connection:close,8
 Console@123,1
-Contact: <sip:nm@nm>,44
+Contact: <sip:nm@nm>,45
 Control,2
 Control1,1
 Coteto1,1
@@ -5260,7 +5263,7 @@ Freddy,1
 Fresh1,2
 Freshandfruity!,2
 Friends,2
-From: <sip:nm@nm>;tag=root,44
+From: <sip:nm@nm>;tag=root,45
 Front242,1
 Froschi,1
 Fruzsina,5
@@ -5278,17 +5281,17 @@ GBNVT,6
 GCpassword123,2
 GED,3
 GEM,1
-GET / HTTP/1.0,58
-GET / HTTP/1.1,153
-GET /?CAVIT HTTP/1.1,5
-GET /api HTTP/1.0,5
+GET / HTTP/1.0,59
+GET / HTTP/1.1,154
+GET /?CAVIT HTTP/1.1,6
+GET /api HTTP/1.0,6
 GET /api.php HTTP/1.1,10
 GET /c/version.js HTTP/1.1,7
 GET /client_area/ HTTP/1.1,17
-GET /hazelcast/rest/cluster HTTP/1.0,5
+GET /hazelcast/rest/cluster HTTP/1.0,6
 GET /login.php HTTP/1.1,10
-GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0,40
-GET /server-info HTTP/1.1,5
+GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0,41
+GET /server-info HTTP/1.1,6
 GET /stalker_portal/c/ HTTP/1.1,17
 GET /stalker_portal/c/version.js HTTP/1.1,17
 GET /streaming HTTP/1.1,10
@@ -5304,7 +5307,7 @@ GET /streaming/clients_live.php HTTP/1.1,27
 GET /streaming/x78GrLZVw.php HTTP/1.1,1
 GET /streaming/zo7ncnvMhc.php HTTP/1.1,1
 GET /system_api.php HTTP/1.1,17
-GET /version HTTP/1.1,5
+GET /version HTTP/1.1,6
 GET http://chek.dyii.ru/index.php HTTP/1.1,1
 GET http://www.qq.com/404/search_children.js HTTP/1.1,3
 GF,1
@@ -5375,7 +5378,7 @@ HARLEY,1
 HEAD / HTTP/1.0,7
 HEHE,1
 HELLO,10
-HELP,6
+HELP,7
 HELPDESK,1
 HHaannjewygbwerybv,3
 HJY,1
@@ -5614,7 +5617,7 @@ Kwok,18
 Kyle,18
 L4KstL0d,1
 LK,3
-LO_SERVER_CLIENT_PAIR,5
+LO_SERVER_CLIENT_PAIR,6
 LR6z4xY3C,2
 LSPR,1
 Lanzhou,8
@@ -5734,7 +5737,7 @@ Master@,1
 Master@1234,2
 Master@123654,2
 Matthew,18
-Max-Forwards: 70,44
+Max-Forwards: 70,45
 MaxService,1
 Maxwell,20
 MayGion,1
@@ -5755,7 +5758,7 @@ Micro@123,1
 Microsoft,1
 Microsoft123,3
 Miki,3
-MikroTik,32
+MikroTik,36
 MikroTikSystem,6
 Minecraft,19
 Mirana,1
@@ -5824,9 +5827,9 @@ ONLY,2
 ONTUSER,1
 OOOOOOOOOOOOOOOOOOOO,1
 OPERATOR,13
-OPTIONS / HTTP/1.0,48
-OPTIONS / RTSP/1.0,47
-OPTIONS sip:nm SIP/2.0,47
+OPTIONS / HTTP/1.0,49
+OPTIONS / RTSP/1.0,48
+OPTIONS sip:nm SIP/2.0,48
 ORD_SERVER,1
 ORNGCA4-GSR1,3
 OVH,9
@@ -8064,7 +8067,7 @@ RoGer,1
 Robert,136
 Ronald,71
 Roosevelt_123,1
-Root,6
+Root,7
 Root!@#456,1
 Root1!,1
 Root123,4
@@ -8402,7 +8405,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML like 
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/56.0.2924.87 Safari/537.36,2
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/74.0.3729.169 Safari/537.36,145
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.114 Safari/537.36,3
-User-Agent: iPhoto/9.1.1  (Macintosh; N; PPC),5
+User-Agent: iPhoto/9.1.1  (Macintosh; N; PPC),6
 User-Agent: libwww-perl/6.05,14
 User-Agent: libwww-perl/6.45,3
 User-Agent: libwww-perl/6.46,2
@@ -9428,7 +9431,7 @@ adjointe,5
 adjust,1
 adk,19
 adl,11
-adm,1712
+adm,1713
 adm!n,1
 adm!n!$trat0r,2
 adm!n123*,3
@@ -9456,7 +9459,7 @@ admessalud,1
 admftp,3
 admiN123!,1
 admiadmin,1
-admin,799487
+admin,800338
 admin!!@@##$$,1
 admin!12345,1
 admin!123456789,1
@@ -9505,7 +9508,7 @@ admin01,93
 admin011,1
 admin02,8
 admin08,1
-admin1,14654
+admin1,14661
 admin1!!!,1
 admin10,20
 admin100335482,10
@@ -9679,7 +9682,7 @@ administration,9
 administrative,1
 administrativo01,1
 administrativo01*,1
-administrator,16799
+administrator,16811
 administrator!@#$%^,2
 administrator1,16
 administrator11,1
@@ -11170,7 +11173,7 @@ anselm,6
 anselma,11
 anselmo,19
 anshula,1
-ansible,2142
+ansible,2146
 ansible123456789,1
 ansiblessh,1
 ansibleuser,152
@@ -12811,7 +12814,7 @@ baseball,1
 baseclean,1
 baserp,3
 basesystem,110
-bash,291
+bash,295
 bashh,3
 bashir,10
 bashley,1
@@ -18030,7 +18033,7 @@ db2fenc2,70
 db2fenc3,21
 db2fence,1
 db2inst,72
-db2inst1,1244
+db2inst1,1248
 db2inst123,2
 db2inst1::@abc123,3
 db2inst2,95
@@ -18215,7 +18218,7 @@ debbiec,1
 debby,13
 debecker,7
 debi,11
-debian,2751
+debian,2755
 debian-spamb,1
 debian-spamd,86
 debian-tor,11
@@ -18278,7 +18281,7 @@ deepthi,7
 deepti,4
 def,9
 defaul,1
-default,16259
+default,16268
 defaultcorpsys,4
 defaultprojects,5
 deffer,5
@@ -18358,7 +18361,7 @@ demi,9
 demian,5
 demicro,8
 demjen,2
-demo,3129
+demo,3133
 demo1,135
 demo123,1
 demo123!@#,1
@@ -20197,7 +20200,7 @@ ebz,8
 ec,117
 ec2,78
 ec2-test,6
-ec2-user,1840
+ec2-user,1844
 ec2-user123,2
 ec2-vpc,1
 ec2user,1
@@ -22832,8 +22835,8 @@ fov,1
 fow,3
 fowler,3
 fox,166
-fox a 1 -1 fox hello,5
-fox.version=s:1.0,5
+fox a 1 -1 fox hello,6
+fox.version=s:1.0,6
 foxi,5
 foxyolegus,1
 foy,2
@@ -23149,7 +23152,7 @@ ftp_wooripa,2
 ftpaccess,12
 ftpaccount,1
 ftpadm,11
-ftpadmin,1632
+ftpadmin,1636
 ftpadmin12,1
 ftpadmin2,3
 ftpadministrador,1
@@ -24241,7 +24244,7 @@ gis-user,3
 gisela,26
 gisele,24
 giselle,17
-git,10879
+git,10887
 git!@#,3
 git-admin,16
 git-administrator2,25
@@ -24305,7 +24308,7 @@ gitt,3
 gittel,5
 gittest,15
 gitty,5
-gituser,957
+gituser,961
 giu,11
 giulia,63
 giuliana,8
@@ -25032,7 +25035,7 @@ guenevere,4
 guenole,1
 guera,8
 guess,16
-guest,102906
+guest,102949
 guest-2s6ogj,1
 guest-6vfqk5,1
 guest-7y4ukv,1
@@ -28230,6 +28233,7 @@ infowarelab,15
 infoweb,19
 infra,165
 infra-solr,5
+infra001,1
 infrastructure,1
 infusion-stoked,11
 infx,2
@@ -28245,7 +28249,7 @@ ingrid,69
 inh,1
 inho,1
 ini,2
-init,16
+init,17
 initrd,10
 inj,2
 inject,1
@@ -29510,7 +29514,7 @@ jenifer,61
 jeniffer,11
 jenine,5
 jenkin,8
-jenkins,4789
+jenkins,4793
 jenkins1,17
 jenkins123,1
 jenkins2,3
@@ -31691,7 +31695,7 @@ khonda,4
 khonma,3
 khorshed,3
 khoshi,3
-khouderchah,4
+khouderchah,5
 khozumi,2
 khp,2
 khq,2
@@ -34402,7 +34406,7 @@ localAdmin12,1
 localAdmin123,1
 localadm,33
 localadmin,204
-localhost,361
+localhost,365
 localhost@12345,1
 localuser,34
 locate,1
@@ -37541,7 +37545,7 @@ motahar,8
 motasim,1
 motconfig,1
 motdepasse,1
-mother,15591
+mother,15598
 motion,129
 motion123,1
 motiur,8
@@ -38714,6 +38718,7 @@ nco,5
 ncp,5
 ncq,7
 ncs,44
+ncsnmpd,1
 nct,3
 ncu,8
 ncuser,15
@@ -39514,7 +39519,7 @@ noc,664
 nocWF,3
 nocftp,11
 noda,7
-node,754
+node,758
 node-rig,10
 node-root,1
 node02,60
@@ -40244,7 +40249,7 @@ odn,4
 odo,4
 odol,2
 odontologia,5
-odoo,3416
+odoo,3425
 odoo1,9
 odoo10,126
 odoo11,114
@@ -40689,7 +40694,7 @@ omx,5
 omy,5
 omz,2
 on,101
-on identity version,5
+on identity version,6
 ona,14
 onar,4
 onb,5
@@ -40949,7 +40954,7 @@ orace,4
 oracel,1
 oracl,4
 oracld,15
-oracle,14816
+oracle,14821
 oracle!,2
 oracle!@#,1
 oracle!@#$%^,1
@@ -41294,7 +41299,7 @@ ovhusr,2
 ovi,3
 ovidio,3
 ovidiu,29
-ovirtagent,6
+ovirtagent,7
 ovj,1
 ovk,2
 ovl,4
@@ -43101,7 +43106,7 @@ phys,3
 physics,81
 phyto2,18
 phz,3
-pi,4173
+pi,4191
 pia,44
 pian,4
 piano,20
@@ -43598,14 +43603,15 @@ postaldatatl,7
 postbox5050%,1
 postdrop,8
 poster,2
-postfix,385
+postfix,386
 postfix1,43
 postfixpostfix,1
 postflx,1
 postgers,41
 postgis,6
 postgre,29
-postgres,28378
+postgres,28387
+postgres-xc,9
 postgres01,5
 postgres1,28
 postgres12,3
@@ -44693,7 +44699,7 @@ qej,5
 qek,3
 qel,1
 qem,7
-qemu,50
+qemu,51
 qen,7
 qenawy,1
 qeo,2
@@ -46857,6 +46863,7 @@ rk,149
 rk3,10
 rk3229,1
 rka,6
+rkashirin,10
 rkb,14
 rkc,4
 rkd,5
@@ -47252,7 +47259,7 @@ roosevelt,17
 roosevelt1,2
 roosevelt1234,1
 rooster,1
-root,2412014
+root,2414319
 root 12345,1
 root!@,1
 root!@!@,1
@@ -48056,7 +48063,7 @@ s7C9Cx.rLsWFA,2
 s8,4
 sIJaxmfX,1
 s_midar,1
-sa,72114
+sa,72333
 sa-2018,1
 sa123!@#,1
 sa123321,1
@@ -49198,7 +49205,7 @@ sermons,1
 serv,11
 servar,4
 serve,10
-server,3897
+server,3898
 server!2008,1
 server#12345,1
 server#2008,4
@@ -49284,7 +49291,7 @@ serveruser,1
 serveur,117
 serveur2,18
 serveys,9
-service,14544
+service,14546
 service1,87
 service123456,1
 service2,20
@@ -51314,7 +51321,7 @@ spannbauer,2
 spanner,1
 spar,5
 sparc,9
-spark,1180
+spark,1184
 spark01,14
 spark02,1
 spark03,1
@@ -51665,7 +51672,7 @@ st4ck,1
 st5bsl,1
 st@2018,1
 sta,7
-stable,5
+stable,9
 stacee,10
 stacey,16
 staceym,1
@@ -52126,7 +52133,7 @@ stud,25
 stud1,5
 stud10,1
 studen,4
-student,4608
+student,4613
 student!@#,8
 student-bk,1
 student0,21
@@ -52457,7 +52464,7 @@ superstar,14
 superuser,183
 superuser01,2
 supervis,2
-supervisor,27012
+supervisor,27028
 supervisores,4
 supkar,3
 suport,15
@@ -52479,7 +52486,7 @@ supp0rt33,5
 supp0rt44,3
 supp0rt88,1
 supperinspur,49
-support,107835
+support,108053
 support!1,1
 support$,2
 support-mgr,6
@@ -52631,7 +52638,7 @@ svj,4
 svk,7
 svl,1
 svm,15
-svn,1333
+svn,1337
 svn-repo,1
 svn-user,8
 svn123,1
@@ -52903,7 +52910,7 @@ systemadministrator,3
 systembetreuer,2
 systembot,1
 systemd-bus-proxy,63
-systemd-coredump,1
+systemd-coredump,2
 systemd-network,44
 systemd-resolve,1
 systemd-timesync,1
@@ -53567,7 +53574,7 @@ teb,4
 tec,36
 tec@cox.net,2
 tec@sbcglobal.net,1
-tech,13481
+tech,13490
 tech1,8
 tech1@cox.net,2
 tech1@sbcglobal.net,1
@@ -53809,7 +53816,7 @@ tessa,10
 tesserat,1
 tessie,7
 tesssss,4
-test,43056
+test,43061
 test!@#!@#,3
 test!@#$,1
 test!@#123,1
@@ -53832,7 +53839,7 @@ test03@cox.net,5
 test03@sbcglobal.net,4
 test04,16
 test05,14
-test1,3807
+test1,3808
 test10,80
 test101,79
 test10@cox.net,2
@@ -53867,7 +53874,7 @@ test1:test1234,1
 test1:test123@,1
 test1@cox.net,12
 test1@sbcglobal.net,9
-test2,2358
+test2,2359
 test2000,14
 test2001,16
 test2002,13
@@ -53878,7 +53885,7 @@ test222,1
 test2@cox.net,11
 test2@sbcglobal.net,9
 test2test2,2
-test3,760
+test3,761
 test321,1
 test3@cox.net,5
 test3@sbcglobal.net,4
@@ -54077,7 +54084,7 @@ testtest@sbcglobal.net,2
 testu,10
 testupload,1
 testuse,4
-testuser,4689
+testuser,4690
 testuser01,11
 testuser01@cox.net,2
 testuser01@sbcglobal.net,1
@@ -55740,7 +55747,7 @@ ubk,1
 ubl,3
 ubm,1
 ubn,1
-ubnt,31522
+ubnt,31532
 ubnt:ubnt,1
 ubnuntu,7
 ubo,2
@@ -55752,7 +55759,7 @@ ubstep,17
 ubt,6
 ubu,6
 ubunt,1
-ubuntu,22099
+ubuntu,22103
 ubuntu-mate,3
 ubuntu-studio,6
 ubuntu.,1
@@ -56200,7 +56207,7 @@ unj,1
 unk,3
 unkles,2
 unknow,4
-unknown,162
+unknown,164
 unl,2
 unlock,19
 unm,4
@@ -56416,7 +56423,7 @@ uschi,11
 usd,3
 usdra,1
 use,7
-user,134461
+user,134621
 user-admin,1
 user-data,7
 user-owner,1
@@ -58783,7 +58790,7 @@ web_project,3
 webaccess,9
 webackup,3
 webadm,121
-webadmin,1852
+webadmin,1856
 webadmin123,3
 webadmin@cox.net,18
 webadmin@sbcglobal.net,17
@@ -58850,7 +58857,7 @@ webler,7
 webline,1
 weblink,4
 weblmadmin,1
-weblogic,2054
+weblogic,2058
 weblogic1,19
 weblogic123,6
 weblogic2,4
@@ -60128,7 +60135,7 @@ wwt,2
 wwting,1
 wwu,3
 wwv,3
-www,5295
+www,5299
 www-admin,11
 www-data,2359
 www-data123,1
@@ -60327,6 +60334,7 @@ xab,6
 xabbu,10
 xac,4
 xademo,2
+xadmhmh,1
 xadrez,3
 xae,2
 xaf,6
