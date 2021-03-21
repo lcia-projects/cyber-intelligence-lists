@@ -4489,6 +4489,7 @@ Abuse1
 Abuse123
 Academics
 Accept-Charset: utf-8windows-1251;q=0.7*;q=0.5
+Accept-Charset: utf-8windows-1251;q=0.7*;q=0.6
 Accept-Encoding: deflate gzip
 Accept-Encoding: gzip
 Accept-Encoding: identity
