@@ -16637,6 +16637,7 @@ conference
 config
 configbackup
 configi
+configs
 configure
 confino
 confixx
