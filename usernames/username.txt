@@ -52672,6 +52672,7 @@ svom-portal
 svp
 svq
 svr
+svradmin
 svrlist
 svrmgr
 svs
@@ -55804,6 +55805,7 @@ ubuntumail
 ubuntus
 ubuntuserver
 ubuntuspam
+ubuntuuser
 ubutnu
 ubv
 ubw
