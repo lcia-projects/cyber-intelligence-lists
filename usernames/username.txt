@@ -16039,6 +16039,7 @@ cisco2
 ciscobackup
 ciscoftp
 ciscolinux
+ciscols
 ciserve
 cisinfo
 cisko
