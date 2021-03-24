@@ -5252,6 +5252,7 @@ Felix
 Ff4inlove
 Ff@123456
 Ff@123456789
+Fi8.C78
 Fiberiptv0102
 Figaro
 Fishing
@@ -8600,6 +8601,7 @@ Yip
 Youda17*
 Yu
 YukYMiM
+Yuvadr2Ej
 YxlluTS
 Yy@123456789
 Z!X@C#V$B
@@ -15202,6 +15204,8 @@ ccooke
 ccorral
 ccos
 ccp
+ccppasswd
+ccpuser
 ccq
 ccr
 ccradio
@@ -15780,6 +15784,7 @@ chikayo
 chikuma
 children
 chile
+chili
 chillim
 chillinghome
 chilton
@@ -17365,6 +17370,7 @@ customer1
 customer2
 customercare
 customers
+customersec
 customerservice
 customs
 custq
@@ -23364,6 +23370,7 @@ furukawa
 furuta
 furutani
 furuya
+fus10n
 fuse
 fuser
 fuser1
@@ -32555,6 +32562,8 @@ ktp
 ktq
 ktr
 kts
+ktsPa$$word1
+ktsadmin
 ktt
 ktuser
 ktv
@@ -33150,6 +33159,7 @@ lazarenko
 lazaro
 lazaros
 lazarus
+lazer
 lazio
 lb
 lb123456
