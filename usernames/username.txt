@@ -131,6 +131,7 @@
 9935net
 @!mM$MW@397443
 @1753*45
+@ssword
 AA@12345
 ABC12345
 AMD
@@ -6603,6 +6604,7 @@ msos
 msp
 msql
 mssql
+mssqla
 msssqladm
 mt
 mtch
@@ -6775,6 +6777,7 @@ netdump
 netflix
 netflixvpn123!
 netflow
+netgear
 netman
 netmen
 netscape
