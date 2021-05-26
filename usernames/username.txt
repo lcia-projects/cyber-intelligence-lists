@@ -21,6 +21,7 @@
 0racle
 1
 101
+11
 111
 1111
 11111
@@ -49,6 +50,7 @@
 123456
 123456!@#
 123456!@#$%^&
+1234567
 1234567
 123456770
 12345678
@@ -81,6 +83,7 @@
 1qa2ws3ed4rf5tg6yh7uj8ik
 1qaZ2wsX
 1qaz2wsx
+1qaz@WSX
 1qw23er45t
 1wdv2efb
 2
@@ -756,6 +759,7 @@ arw
 aryn
 as
 asakura
+asd123
 asd@123
 asd@12345
 asdaf342342daswr32
@@ -2112,6 +2116,7 @@ crawler
 crazy
 credit
 creeptech
+cripac
 crisley
 cristian
 cristiane
@@ -2878,6 +2883,7 @@ elasticlogs
 elasticmaps
 elastics
 elasticsearch
+elasticsearch123456789
 elecshin
 electoral
 elemental
@@ -3276,6 +3282,7 @@ ftpserver
 ftpsever
 ftpsite
 ftptest
+ftptest123456
 ftpu
 ftpuer
 ftpup
@@ -3679,6 +3686,7 @@ guest-xfqsf9
 guest-xguq1p
 guest01
 guest1
+guest123
 guest1234
 guest3
 guest7
@@ -7296,6 +7304,7 @@ passwd123$%^
 passwd12345
 password
 password
+password0
 password123
 password123456
 patrick
@@ -8650,6 +8659,7 @@ soft
 softtmp
 software
 softwaremanager
+softwaremanager123
 sogo
 sohail
 soksueser
@@ -11449,6 +11459,7 @@ yanyivip
 yanyy
 yanzhuojun
 yanzihan
+yanzihan123
 yaobin
 yaojia
 yaojianguo
