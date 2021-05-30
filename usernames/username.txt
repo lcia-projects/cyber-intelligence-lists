@@ -134,6 +134,7 @@
 5555
 5tgb6yhn7ujm
 6
+654321
 666666
 66668888
 6qao1m33
@@ -449,6 +450,7 @@ admina
 adminadmin
 adminbigdata
 adminftp
+administator
 administrador
 administrador123!@#
 administrateur
@@ -6851,6 +6853,7 @@ ng_ye
 ngatwiri
 ngfs
 nginx
+nginx12345
 nginx123456
 ngjc
 ngreen
@@ -7547,6 +7550,7 @@ pradeep
 prakash
 pramod
 pranava
+pranava123
 prasad
 prashant
 pravda
@@ -13022,3 +13026,12 @@ zzx
 zzy
 zzz
 zzzezhar
+zzzz
+zzzzz
+{bogosity}.
+{general
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
