@@ -1980,6 +1980,7 @@ cjh
 ck
 ck_data
 ckan
+cker
 cklin
 cky
 cl
