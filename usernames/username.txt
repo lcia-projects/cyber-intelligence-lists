@@ -46,6 +46,7 @@ Accept-Encoding: gzip
 Admin
 Administrator
 Bot
+Chentao
 Dongxiaoyu
 F103
 FTPapache
@@ -55,6 +56,7 @@ GET / HTTP/1.1
 Guanzhipu
 HDFS
 Jonny
+Jony
 Liuzhengwu
 MongoDB
 Mongodb
@@ -64,6 +66,7 @@ P@ssw0rd
 PlcmSpIp
 RPM
 RabbitMQ
+Rabbitmq
 SOS
 Songshiyu
 URANUS
@@ -97,11 +100,13 @@ activemq
 activity_analyzer
 adam
 addison
+adis
 adisadmin
 adm
 adman
 admin
 admin!@#
+admin-a01
 admin01
 admin1
 admin1111
@@ -193,14 +198,17 @@ base
 batman
 bb
 bbase
+bbb
 bbbb
 bdos
 bea
 beagleindex
 beam
 bee
+ben
 benson
 bertus
+beyndtrustroot
 billing
 bin
 bindadd
@@ -214,10 +222,12 @@ bob
 boreas
 bot
 bot1
+bot2
 bot3
 bot4
 both
 bots
+bowei
 bpadmin
 brad
 brian
@@ -226,6 +236,7 @@ bsjungblue
 bunny
 butter
 c
+cabbeen
 cache
 cacti
 cactiuser
@@ -258,6 +269,7 @@ charles
 charlesm
 chee
 chef
+chen
 chengxiaobang
 chengyinghui
 chenhaibao
@@ -294,6 +306,7 @@ concat
 confluence
 consul
 content
+corolla
 couchdb
 cpanel
 cpecap
@@ -331,6 +344,7 @@ dabster1002
 daemon
 daidamai
 dailgames
+daiwei
 dalucio
 damien
 dan
@@ -338,6 +352,7 @@ dani
 danie
 daniel
 danny
+dantoy23
 danyang
 dark
 daron
@@ -356,6 +371,7 @@ davide
 davis
 db2
 db2admin
+db2fadm1
 db2fenc
 db2fenc1
 db2inst
@@ -367,8 +383,10 @@ db2mmjd
 db_shv
 dbfenc
 dbgw
+dbseller
 dbus
 dbuser
+dbvisa
 dcc
 debian
 debian123
@@ -391,7 +409,9 @@ denzel
 deploy
 deploy1
 deploy123
+deploy2
 deploy3
+deploy4
 deploy5
 deployer
 desenv
@@ -403,6 +423,7 @@ devel
 develop
 developement
 developer
+devops
 devopsuser
 devs
 devteam
@@ -483,11 +504,14 @@ ds3
 dsfsadmin
 dsmolin
 dst
+dsti
 dstserver
 duansiyu
 duchen
 dulun
+dummy
 dunnmore
+duyh
 dv
 dwdev
 dwdevnet
@@ -505,6 +529,7 @@ ec2-user
 ecuser
 ege
 eh
+einvoice
 ejbca
 ek
 elastic
@@ -513,6 +538,7 @@ elasticity
 elasticlogs
 elasticmaps
 elasticsearch
+elecshin
 elk
 elsearch
 elsearch123
@@ -530,8 +556,10 @@ ethan
 etse
 everyone
 ewan
+fa
 falcon
 fangyiwei
+fanqichao
 fanyiwei
 fchikwata
 fedora
@@ -557,9 +585,11 @@ freeswitch
 fs
 ftp
 ftp1
+ftp123
 ftp_user
 ftpadmin
 ftpadmin2
+ftpadmin3
 ftpadmin5
 ftpayu
 ftpilanni
@@ -573,6 +603,7 @@ ftpup
 ftpuser
 ftpuser1
 ftpuser2
+fupengfei
 futures
 fuyu
 gabi
@@ -608,6 +639,7 @@ gitlab-psql
 gitlab-runner
 gitlab_ci
 gituser
+gjwang
 gmod
 gmod_server
 gmodserver
@@ -616,6 +648,7 @@ gogolcontent
 gongx
 google
 gpadmin
+gpadmin12345678
 gpu
 grant
 graylog
@@ -640,6 +673,7 @@ guoxia
 guxiuming
 gy
 hacker2
+hackingtools
 hadoop
 hal96
 halflife
@@ -653,6 +687,7 @@ hbase
 hcat
 hdfs
 hdfs12
+hdsp
 hduser
 hduser1
 hduser2
@@ -667,6 +702,7 @@ heroadmin
 heyl
 hg
 hive
+hiveos
 hjbae
 hjm
 hjsung
@@ -684,8 +720,10 @@ hp
 hp006
 hqpham
 hradmin
+html
 httpd
 huangb
+huangdanyang_stu
 huanghui
 huangzheng
 huashi
@@ -706,18 +744,22 @@ idempiere
 ieel
 ifmolano
 ignite
+igor
 impala
 import
 info
+informix
 inlog
 inspur
 instagram
+irnam
 ironman
 iso
 itcmgr
 itcods
 itcweb
 iversn
+ivy
 jack
 jackie
 jacos
@@ -729,16 +771,19 @@ javatest
 jay
 jay.jung
 jazmine
+jccai
 jcj
 jdk
 jeff
 jenkins
 jenkins1234
+jest
 jfpena
 jgbae
 jhoony
 jhua
 jhye
+jiangjing
 jiangmin
 jiangqi
 jiaqian
@@ -759,11 +804,13 @@ jkwashiwa
 jliang
 jlli
 jmazzella
+jmjo
 johnros
 jomar
 jonghyeon
 joomla
 jqu2
+jtsbot
 julian
 julien
 juni
@@ -775,6 +822,7 @@ jwshin
 jxjd
 jyzhu
 jzhang71
+k3
 k8s
 kafka
 kajetan
@@ -811,9 +859,12 @@ lab
 lab_user
 laci
 ladev
+laihc
+laijizheng
 lambert
 lambin
 laouwayi
+lbchen
 lbh
 lc
 lcap_oracle
@@ -829,6 +880,7 @@ leveldb
 lhy
 liangwb
 liao
+liaoshangxian
 librenms
 libuuid
 licongyue
@@ -850,9 +902,11 @@ linneya
 linshi
 linux
 linuxadmin
+lip
 lipengfu
 liqi
 liranjun
+lirl
 lirui
 lishan
 list
@@ -862,6 +916,7 @@ liupeng
 liushuang
 liuwanlin
 liuwh
+liuxinlu
 liuyang
 liuyx
 liuzhiguo
@@ -869,6 +924,7 @@ livio2
 livy
 lixiao
 lixpert
+liyan
 liyl
 liym
 liyongqi
@@ -879,6 +935,7 @@ lloyd
 lobby
 local
 localadmin
+lodwin
 logger
 logo
 logs
@@ -888,14 +945,18 @@ lost+found
 loujie
 loveness
 loyd
+lsfadmin
 luafuque
 luanmingfu
 lucene
 luis
+luo
 luob
 luolaijuan
+luowenwen
 luoy
 luozhiling
+lutongtong
 luxiaoling
 lvenchao
 lxi
@@ -964,6 +1025,7 @@ minecraft
 minecraftserver
 miner
 mining
+minrui
 mirc
 mj
 mjt
@@ -1007,10 +1069,13 @@ myuser0
 mztian
 nadavrap
 nagios
+nagios2
 nagios3
 nagios4
 nagios5
 nagiosadmin
+namenode
+ncx
 netadmin
 netflix
 netflixvpn123!
@@ -1018,6 +1083,7 @@ nevern
 newadmin
 newuser
 nexus
+nfs
 nginx
 nginx123456
 ngreen
@@ -1036,7 +1102,9 @@ nodejs
 nomazulu
 nominatim
 novalocal
+npm
 nproc
+ns2server
 nsimba
 nsroot
 ntp
@@ -1044,24 +1112,31 @@ nuno
 nuttinun
 nuvve
 nvidia
+nwang
 nweidema
 nwork
+nxautomation
 nxitc
 o
 ocadmin
 ochiai
 octopus
+odhagent
 odoo
 odoo1
+odoo8
 ofbiz
 office
+ogbl
 ohh
 okamoto
+olivier
 olja_entry
 olombana
 omsagent
 one
 onuri
+onwell
 oozie
 opc
 openelec
@@ -1083,6 +1158,7 @@ oracledb
 oracles
 oradata
 oralhist
+oraorig
 oratest
 orcanooz
 ordos
@@ -1127,6 +1203,7 @@ paul
 pbsadmin
 pbsadmin123
 pbsworksuser
+pcwu
 peilin
 pengz
 pentaho
@@ -1135,6 +1212,7 @@ peter
 pfsui
 pgadmin
 photos
+php
 phpmyadmin
 pi
 pig
@@ -1233,6 +1311,7 @@ rkumar34
 robotics
 rock
 rodica
+roman
 romeo
 rong
 ronica
@@ -1252,9 +1331,11 @@ rumbi
 rumbie
 rundeck
 runner
+rust
 rustserver
 ruxin
 rvadmin
+ryan
 sa
 sahand
 sakib
@@ -1268,6 +1349,7 @@ sandbox
 santiago
 sanyi
 sap_admin
+sapaccount
 sbot
 scm
 scmqa
@@ -1292,6 +1374,7 @@ sgeadmin
 shabanovd
 shamy
 shangyingying
+shaojingzhe
 sharing
 sharon
 shengwu
@@ -1309,6 +1392,7 @@ shuaimou
 shutdown
 si
 sical
+sicel
 sima
 sinobase01
 sinus
@@ -1316,6 +1400,7 @@ sinusbot
 sistemd-network
 sjdiazgu
 sjfarm
+sjzb
 skaroly
 sklee
 skrongren
@@ -1332,6 +1417,7 @@ smartworldmss
 smb
 smb_user
 smc
+smfufu
 smuthuv
 snsconfig
 snsotell
@@ -1376,6 +1462,7 @@ squid
 sqzhang1
 srinivas
 ss3
+ss3server
 ssh
 sshadmin
 sshvpn
@@ -1383,8 +1470,10 @@ stack
 statd
 steam
 stefan
+stefani
 steve
 storm
+strand
 student
 students
 successm
@@ -1407,6 +1496,7 @@ sutianhao
 sviluppo
 svn
 svnuser
+switch
 swx
 swx123
 sybase
@@ -1416,6 +1506,7 @@ sysdbadmin
 system
 system_adm
 systemd-bus-proxy
+systemd-network
 systemuser
 syy
 tachosender
@@ -1444,6 +1535,7 @@ tech
 techuser
 tecmint
 telnet
+telnetadmin
 tempest
 ten-analytics
 tendai
@@ -1493,9 +1585,12 @@ time
 tinashem
 tinnd4
 tisha
+titus
 tj
 tjftp
+tlgao
 tmatare
+tmpuser
 tmserver
 tmuserver
 tng
@@ -1517,6 +1612,7 @@ toor
 toptea
 totalcard
 toto
+totog
 traffic_monitor
 trainer
 tramvm
@@ -1560,12 +1656,14 @@ uftp
 uftp1234567890
 uitcephus
 ums
+undergraduate1
 uniq
 unknown
 updates
 upload
 uploader
 upsource
+urban
 usdt
 user
 user0
@@ -1575,6 +1673,7 @@ user03
 user04
 user05
 user1
+user10
 user11
 user123
 user12345678
@@ -1588,10 +1687,12 @@ user6
 user7
 user8
 user9
+user_temp
 usere
 userftp
 username
 users
+ustchjy
 ustcltf
 usuario
 ut2k4
@@ -1628,6 +1729,7 @@ velia
 veneno
 vernon
 verticatest
+vevaughan
 vhleguiz
 viktor
 vimbai
@@ -1640,11 +1742,14 @@ vivo
 vlad
 vladimir
 vlado
+vlee
 vmadmin
 vmail
+vmta
 vmuser
 vmware
 vnc
+vnc-user
 vncuser
 voicebot
 volumes
@@ -1657,6 +1762,7 @@ vps
 vraj
 vsb_pgsql
 vsftpd
+vstuk
 vt
 vyatta
 vyos
@@ -1674,6 +1780,7 @@ wangfeifei_stu
 wangh
 wanghaonan
 wanghy
+wangjc
 wangjiaqi
 wangjinsong
 wangk
@@ -1696,14 +1803,18 @@ wangyifei
 wangyin
 wangyitan
 wangyuan
+wangzelong
 wangzhiyong
+wangzw
 wanqiu
 wanruosi
 wanxiaona
 warcraft
 warren
 wayne
+waynne
 wbshu
+wbz
 wbzhao
 wduser
 web
@@ -1723,6 +1834,7 @@ webpop
 website
 websuri
 webuser
+webusers
 wei
 weiliu
 weiqiuyue
@@ -1732,6 +1844,7 @@ wellington
 wenghj
 wengjingchang
 wenj
+wenji
 wenli
 wenqing
 wenxing
@@ -1751,6 +1864,7 @@ winadmin
 winnie
 winter
 wj
+wjma
 wjnoh
 wkom
 wlxt
@@ -1780,7 +1894,9 @@ wqy1122
 wrf
 wrfsh
 wsgw
+wtao
 wtkim
+wuaibo
 wuchen
 wud
 wudq
@@ -1804,6 +1920,7 @@ www-run
 www-ssl
 www1
 www2
+wwwadmin
 wwwdata
 wwwgit
 wwwlogs
@@ -1824,6 +1941,7 @@ xanax
 xatt
 xbot
 xcfu
+xdftp
 xdkong
 xdzhang
 xerox
@@ -1858,6 +1976,7 @@ xingxing
 xiongpm25
 xiou
 xiqiao07
+xit
 xjzhou
 xlw
 xmrig
@@ -1866,9 +1985,11 @@ xps
 xqli
 xrc
 xrdp
+xrzhou
 xsApp
 xsyin
 xtreamcodes
+xu
 xuanliang
 xuening
 xuewei_stu
@@ -1878,7 +1999,9 @@ xuju
 xuliwei
 xuminya
 xuqw
+xuyc
 xuzx
+xw4
 xwang
 xwwu
 xxlx
@@ -1888,6 +2011,7 @@ xygao
 xylin
 xyqu
 xyx
+yagishita
 yajun
 yamada
 yan
@@ -1899,6 +2023,7 @@ yangkai
 yangke
 yanglin
 yangwenhao
+yangxiaoyue
 yangy
 yangyuguang
 yanis
@@ -1909,6 +2034,7 @@ yaotiejun
 yapi
 yarn
 yarn-ats
+yarslan
 yatri
 yaunwd
 ybchae
@@ -1931,6 +2057,7 @@ yeunho
 yfruan
 ygfjkzx
 ygross
+yhcho
 yheeing
 yhlee
 yidanhui
@@ -1938,6 +2065,7 @@ yifan
 yijing
 yingchenlu
 yingf
+yingying
 yinh
 yinjianxin_stu
 yinshu
@@ -1960,6 +2088,7 @@ youtrack
 yp
 ypchen
 yrli
+yrpark99
 yrs
 yslee
 yty
@@ -1993,6 +2122,7 @@ yy
 yy95
 yykuang
 yyq
+yys
 yywang
 yz
 yzhao
@@ -2017,7 +2147,9 @@ zenoss
 zentiva
 zeppelin
 zfdeng
+zfw
 zhangao
+zhangf
 zhangfei
 zhangfm
 zhangh
@@ -2033,6 +2165,7 @@ zhangxi
 zhangxw
 zhangxy
 zhangyanzhen
+zhangzhe
 zhangzhihan
 zhangzhiyuan
 zhankum
@@ -2043,6 +2176,7 @@ zhaochang
 zhaoguangxiang
 zhaoh
 zhaohao
+zhaolb
 zhaoliang
 zhaomj
 zhaoshj
@@ -2051,6 +2185,7 @@ zhaow
 zhaoyue
 zhaoyuekai
 zhenghc
+zhenghong
 zhengweihao
 zhengyang
 zhenpeining
@@ -2065,13 +2200,16 @@ zhoujing
 zhour
 zhouzhonglin
 zhubingk
+zhuji
 zhuoqun
 zhurh
 zhuyandi
 zhuyuanjin
+zhuzhanxing
 zhuzhe
 zhwang
 zijlstra
+zimbra
 ziping
 zisen
 ziv
@@ -2087,6 +2225,7 @@ zly
 zm
 zmwang
 znc
+zncai
 znz
 zodiac
 zookeeper
@@ -2117,3 +2256,4 @@ zym
 zyshen
 zyy
 zzg
+zzh
