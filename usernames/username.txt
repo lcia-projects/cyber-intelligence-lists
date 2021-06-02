@@ -354,6 +354,7 @@ csgoserver
 css
 csserver
 cssserver
+ctjgood
 cuba
 cubesrv
 cuidongxue
@@ -1348,6 +1349,7 @@ pangyue
 panhao
 panleiming
 paraccel
+parassandika
 pass
 passer
 passw0rd
@@ -1391,6 +1393,7 @@ postgers
 postgre
 postgres
 postgres1
+postgres3
 postgres4
 postgres5
 postgres_admin
@@ -1558,6 +1561,7 @@ sharon
 shengwu
 shenhan
 shenmou
+shige
 shijia
 shiliu
 shitengxin
@@ -1829,6 +1833,7 @@ ts3server
 tsmusicbot
 tss
 tsserver
+tsuser
 tt
 tta
 tuanna69
@@ -2317,6 +2322,7 @@ yhcho
 yheeing
 yhlee
 yhr
+yhyuan
 yidanhui
 yidanhui_stu
 yifan
@@ -2334,6 +2340,7 @@ yiyx
 yjlee
 yjw
 ykhuo
+ykpark
 yliu
 ylpay
 ylx
@@ -2435,6 +2442,7 @@ zhangyanzhen
 zhangzhe
 zhangzhihan
 zhangzhiyuan
+zhangzicheng
 zhankum
 zhankun
 zhao
