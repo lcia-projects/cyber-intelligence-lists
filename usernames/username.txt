@@ -155,6 +155,7 @@ apache
 apache2
 apex
 apiadmin
+apinizer
 app
 app1
 appimgr
@@ -363,6 +364,7 @@ databricks
 datafort
 datameer
 datanodes
+datastax
 datauser
 dave
 davey
@@ -442,6 +444,7 @@ digital
 digitalocean
 digits
 dimitri
+dingcc
 dingdong
 dinghan
 diqi
@@ -580,6 +583,7 @@ flysenven
 fmaster
 fnii
 fortunate
+frank
 frappe
 freeswitch
 fs
@@ -610,6 +614,7 @@ gabi
 gabriel
 gaihongyun
 galby
+gamefiles
 games
 gamesfiles
 gamma
@@ -645,6 +650,7 @@ gmod_server
 gmodserver
 gogol
 gogolcontent
+gonezge
 gongx
 google
 gpadmin
@@ -714,6 +720,7 @@ home
 hong
 hongyang
 honoured
+hortonworks
 host
 hosting
 hp
@@ -767,6 +774,7 @@ jacques
 james
 janisc
 jason
+java
 javatest
 jay
 jay.jung
@@ -1094,7 +1102,9 @@ nila
 nilsputnins
 nimartin
 niprieto
+nitrodocker
 nknoh
+no
 nobody
 node
 node1
@@ -1118,6 +1128,7 @@ nwork
 nxautomation
 nxitc
 o
+obus
 ocadmin
 ochiai
 octopus
@@ -1129,6 +1140,7 @@ ofbiz
 office
 ogbl
 ohh
+ohio
 okamoto
 olivier
 olja_entry
@@ -1180,6 +1192,7 @@ otrs
 oushu
 out
 outlook
+ouyangyayu
 ovp
 owncloud
 oxidized
@@ -1204,9 +1217,11 @@ pbsadmin
 pbsadmin123
 pbsworksuser
 pcwu
+peeps
 peilin
 pengz
 pentaho
+pentaho8
 perpamsi
 peter
 pfsui
@@ -1237,6 +1252,7 @@ postgresadm
 postgresql
 pranava
 prediction
+prijeet
 prisca
 privatesmb
 prometheus
@@ -1418,6 +1434,7 @@ smb
 smb_user
 smc
 smfufu
+smmsp
 smuthuv
 snsconfig
 snsotell
@@ -1500,6 +1517,7 @@ switch
 swx
 swx123
 sybase
+syftp
 sync
 sysadmin
 sysdbadmin
@@ -1560,6 +1578,7 @@ test9
 testapp
 testdev
 teste
+teste1
 tester
 testftp
 testgit
@@ -1596,6 +1615,7 @@ tmuserver
 tng
 to
 toby
+todd
 todds
 tofa
 tom
@@ -1692,6 +1712,7 @@ usere
 userftp
 username
 users
+userspace
 ustchjy
 ustcltf
 usuario
@@ -1767,6 +1788,7 @@ vt
 vyatta
 vyos
 w
+w3cost
 walter
 wana
 wang
@@ -1860,6 +1882,7 @@ wiew
 will
 william
 willie
+win
 winadmin
 winnie
 winter
@@ -1899,6 +1922,7 @@ wtkim
 wuaibo
 wuchen
 wud
+wudi
 wudq
 wufan
 wuhao
@@ -1964,6 +1988,7 @@ xiaoxuan
 xiaxin
 xiayy
 xieguangzeng
+xiehe
 xiehs
 xieqian
 xierx
@@ -1992,6 +2017,7 @@ xtreamcodes
 xu
 xuanliang
 xuening
+xuewei
 xuewei_stu
 xufq
 xujiaming
@@ -2087,6 +2113,7 @@ youlei
 youtrack
 yp
 ypchen
+yqu
 yrli
 yrpark99
 yrs
@@ -2213,6 +2240,7 @@ zimbra
 ziping
 zisen
 ziv
+ziyang
 ziye
 ziyuchen
 zjc830
@@ -2257,3 +2285,39 @@ zyshen
 zyy
 zzg
 zzh
+zzhang
+zzhao
+zzheng
+zzhz
+zzi
+zzidc!$!%1415
+zzidc2008
+zzj
+zzk
+zzl
+zzl2018
+zzlc
+zzn
+zzo
+zzp
+zzq
+zzr
+zzs
+zzt
+zztest
+zzv
+zzw
+zzx
+zzxcc123
+zzy
+zzz
+zzz123$%^
+zzzezhar
+zzzz
+zzzzz
+{general
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
