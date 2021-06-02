@@ -597,6 +597,7 @@ elsearch123
 elton
 ems
 emuser
+endy
 enghj
 erato
 es
@@ -664,6 +665,7 @@ ftpup
 ftpuser
 ftpuser1
 ftpuser2
+ftpweb
 ftpznz
 fupengfei
 futures
@@ -935,6 +937,7 @@ ksw
 kubeflow
 kudu
 kulin
+kvrao
 kwangwari
 kwashiwa
 kzhan
@@ -1105,6 +1108,7 @@ mazvita
 mc
 mcadmin
 mcserver
+mcserver1
 media
 mediafire
 medical_information
@@ -1146,6 +1150,7 @@ monitoramento
 monk
 mor2
 moreraga
+moses
 mosquitto
 mother
 mpas
@@ -1162,6 +1167,7 @@ mutz
 muxh
 mwsd_zbldemo
 myadmin
+myftp
 myhd
 mysql
 mysql123
@@ -1174,6 +1180,7 @@ mythtv
 myuser
 myuser0
 mztian
+nadav
 nadavrap
 nagios
 nagios2
@@ -1233,6 +1240,7 @@ nweidema
 nwork
 nxautomation
 nxitc
+nyasha
 o
 oafile
 obus
@@ -1293,6 +1301,7 @@ oscar
 osm
 osm2
 osmc
+osticket
 oswbb
 otadev
 otools
@@ -1451,6 +1460,7 @@ romeo
 rong
 ronica
 root
+root1
 root2
 root3
 root_user
@@ -1826,6 +1836,8 @@ upload
 uploader
 upsource
 urban
+urnie
+usdra
 usdt
 user
 user0
@@ -1953,6 +1965,7 @@ wanghy
 wangj
 wangjc
 wangjiaqi
+wangjie
 wangjinsong
 wangk
 wanglin
@@ -2204,6 +2217,7 @@ xyb
 xygao
 xylin
 xyqu
+xyun
 xyx
 y
 yagishita
@@ -2310,6 +2324,7 @@ yuhao
 yuhaohan
 yuhongbin
 yujin411
+yumingwei
 yuminwei
 yun
 yunan
@@ -2397,10 +2412,12 @@ zhaoyuekai
 zhenghc
 zhenghong
 zhengweihao
+zhengy
 zhengyang
 zhengyu
 zhenpeining
 zhibo
+zhiruo
 zhiyuan
 zhj
 zhongnan
@@ -2466,6 +2483,7 @@ zwl
 zwliu
 zwx8981
 zxc
+zxh
 zxin10
 zxiong
 zxli
@@ -2480,10 +2498,13 @@ zyy
 zzg
 zzh
 zzzezhar
+zzzr
 zzzz
 zzzzz
-{general
+{bogosity}.
+|
 ~
+~!@#$%^&
 ~!@`12
 ~#$%^&*().;
 ~~~.....~~~
