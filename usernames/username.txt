@@ -1719,6 +1719,7 @@ ss3
 ss3server
 ssh
 sshadmin
+sshd
 sshvpn
 sstcvetkov
 stack
