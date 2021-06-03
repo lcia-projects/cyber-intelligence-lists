@@ -147,6 +147,8 @@ ambari
 ambari-qa
 amberit
 amdocs
+amm
+ams
 ana
 anar
 andoria
@@ -169,6 +171,7 @@ apiadmin
 apinizer
 app
 app1
+appgit
 appimgr
 application
 applmgr
@@ -265,6 +268,7 @@ cabbeen
 cache
 cacti
 cactiuser
+cad
 caddy
 cai
 camel
@@ -320,6 +324,7 @@ chliu
 choicelog
 chris
 christina
+christo
 chs
 cindy
 cisco
@@ -389,6 +394,7 @@ dailgames
 daiwei
 dakota
 dalucio
+damian
 damien
 dan
 dandany
@@ -604,6 +610,7 @@ ec
 ec-user
 ec2-user
 ecuser
+edventure
 edward
 ege
 eh
@@ -810,6 +817,7 @@ heyl
 hezhichao
 hg
 hhvm
+hilde
 hive
 hiveos
 hjbae
@@ -1038,6 +1046,7 @@ linuxadmin
 lip
 lipengfu
 liqi
+lir
 liranjun
 lirl
 lirui
@@ -1138,6 +1147,7 @@ mariadb
 marklogic
 marlvern
 martin
+marvellous
 mary
 mashuai
 master
@@ -1159,6 +1169,7 @@ medical_information
 medium
 mega
 megan
+melody
 meng
 menglg
 menu
@@ -1172,6 +1183,7 @@ mhallman
 mhchu
 mhviet
 michael
+mike
 mildred
 minecraft
 minecraftserver
@@ -1276,6 +1288,7 @@ npe
 npm
 nproc
 ns2server
+nsbot
 nsimba
 nsroot
 ntp
@@ -1456,6 +1469,7 @@ q1w2e3
 q1w2e3r4
 qa
 qazhang
+qbay
 qcd
 qemu
 qhduan
@@ -1527,6 +1541,7 @@ root3
 root_user
 rosangela
 ross
+rough
 rstudio-server
 rsunda
 rtkit
@@ -1613,6 +1628,7 @@ si
 sical
 sicel
 sima
+simon
 sinobase01
 sinus
 sinusbot
@@ -1738,6 +1754,7 @@ sybase
 syftp
 sync
 sysadmin
+sysdbadm
 sysdbadmin
 syslog
 system
@@ -1823,6 +1840,7 @@ tianfeng
 tidb
 tika
 tiler
+tim
 time
 tinashem
 tinnd4
@@ -1860,6 +1878,7 @@ toptea
 totalcard
 toto
 totog
+tpt-user2
 traffic_monitor
 trainer
 training
@@ -1935,6 +1954,7 @@ user05
 user1
 user10
 user11
+user12
 user123
 user12345678
 user13
@@ -2469,6 +2489,7 @@ zayeed
 zby
 zcash
 zcelzi
+zcgong
 zchen
 zchu
 zclfly
