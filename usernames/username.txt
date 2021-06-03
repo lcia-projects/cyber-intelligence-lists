@@ -1187,6 +1187,7 @@ messagebus
 metadata
 meza
 mfrestrs
+mg3500
 mhallman
 mhchu
 mhviet
@@ -1591,6 +1592,7 @@ scanner
 scm
 scmqa
 scmtst
+sconsole
 scotia
 scott
 scphost
@@ -1748,6 +1750,7 @@ sunyifan_stu
 sunyl
 sunyongliang
 super
+super1234
 superuser
 supervis
 supervisor
@@ -2656,3 +2659,13 @@ zyy
 zzg
 zzh
 zzzezhar
+zzzz
+zzzzz
+zzzzzz
+{bogosity}.
+{general
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
