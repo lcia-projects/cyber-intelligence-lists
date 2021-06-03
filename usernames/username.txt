@@ -1199,10 +1199,12 @@ mhviet
 michael
 mike
 mildred
+mine
 minecraft
 minecraftserver
 miner
 miner-new
+minerstat
 mining
 minrui
 mirc
@@ -1220,6 +1222,7 @@ mongodb
 monitor
 monitoramento
 monk
+monka
 mor2
 moreraga
 moses
@@ -2250,6 +2253,7 @@ wumh
 wusj
 wuwanze
 wuyifan
+wuyy
 wuzg
 ww
 wwang
@@ -2296,6 +2300,7 @@ xhwu
 xia
 xiabing
 xialuqi
+xiangpeng
 xiangyu
 xiaoguo
 xiaojiab
@@ -2670,3 +2675,15 @@ zyy
 zzg
 zzh
 zzzezhar
+zzzr
+zzzz
+zzzzz
+zzzzzz
+{bogosity}.
+{general
+|
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
