@@ -172,6 +172,7 @@ apache2
 apex
 apiadmin
 apinizer
+aplicacao
 app
 app1
 appgit
@@ -456,6 +457,7 @@ debian
 debian123
 debianuser
 deepak
+deepir
 default
 dell
 delta
@@ -654,6 +656,7 @@ everyone
 ewan
 exx
 fa
+factorio
 falcon
 fangyiwei
 fanqichao
@@ -852,6 +855,7 @@ hplip
 hqpham
 hradmin
 html
+hts
 httpd
 huangb
 huangdanyang
@@ -973,6 +977,7 @@ kafka
 kajetan
 kalao
 kaonmw2
+karma
 kassia
 kdo
 kelby
@@ -1489,6 +1494,7 @@ pxe
 pxeboot
 pyadmin
 python
+pz
 q1w2e3
 q1w2e3r4
 qa
@@ -1551,6 +1557,7 @@ richards
 rig
 riorjuel
 rkumar34
+rlzhu
 robotics
 rock
 rodica
@@ -1788,6 +1795,7 @@ sysdbadmin
 syslog
 system
 system_adm
+systemadmin
 systemd-bus-proxy
 systemd-network
 systemuser
@@ -2681,6 +2689,3 @@ zyy
 zzg
 zzh
 zzzezhar
-zzzzz
-~#$%^&*().;
-~~~.....~~~
