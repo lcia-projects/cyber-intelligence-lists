@@ -284,6 +284,7 @@ caomin
 caorui
 capacitacion
 capstone01
+carlos
 carraslo
 casper
 cassandra
@@ -958,6 +959,7 @@ jomaia
 jomar
 jonghyeon
 joomla
+joplin
 jqu2
 jtsbot
 julian
@@ -1338,6 +1340,7 @@ nxitc
 nyasha
 o
 oafile
+obkio
 obus
 ocadmin
 ochiai
@@ -1449,6 +1452,7 @@ perpamsi
 peter
 pfsui
 pgadmin
+pgsql
 photos
 php
 phpmyadmin
@@ -1767,6 +1771,7 @@ students
 successm
 sugon
 sui
+sunandpanda
 suncw
 sunj
 sunny
