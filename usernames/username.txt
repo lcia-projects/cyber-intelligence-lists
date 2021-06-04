@@ -994,6 +994,7 @@ kicyvn
 kietnt17
 kishlayc
 kivakin
+kmdudley
 kms
 kong
 kongying
@@ -2693,3 +2694,15 @@ zyy
 zzg
 zzh
 zzzezhar
+zzzr
+zzzz
+zzzzz
+zzzzzz
+{bogosity}.
+{general
+|
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
