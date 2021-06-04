@@ -535,6 +535,7 @@ dmc
 dmcserver
 dmkim
 dmkoko
+dneo
 dnscache
 dnslog
 dnsmasq
@@ -722,6 +723,7 @@ games
 gamesfiles
 gamma
 gaoc
+gaogege
 gaoguangyuan
 gaoguangyuan_stu
 gaop
@@ -733,6 +735,7 @@ gbekevi
 gbolovi
 gch
 gdau
+gdftp
 gdm
 geloth
 george
@@ -1043,6 +1046,7 @@ ligang
 lightdm
 lijiabin
 lijinfeng
+lijingping
 lijingping_stu
 lijinze
 lijunyan
@@ -1554,6 +1558,7 @@ roman
 romeo
 rong
 ronica
+rooot
 root
 root1
 root2
@@ -2134,6 +2139,7 @@ wangzhiyong
 wangzw
 wanqiu
 wanruosi
+wansheng
 wansong
 wanxiaona
 warcraft
@@ -2675,15 +2681,3 @@ zyy
 zzg
 zzh
 zzzezhar
-zzzr
-zzzz
-zzzzz
-zzzzzz
-{bogosity}.
-{general
-|
-~
-~!@#$%^&
-~!@`12
-~#$%^&*().;
-~~~.....~~~
