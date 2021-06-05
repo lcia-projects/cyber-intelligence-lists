@@ -1842,6 +1842,7 @@ teamw0rk
 tech
 techuser
 tecmint
+teia
 telecomadmin
 telnet
 telnetadmin
