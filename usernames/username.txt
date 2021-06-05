@@ -1483,6 +1483,7 @@ pig
 piper
 pitcholo
 play
+plesk
 plex
 plugins
 pmlabs
