@@ -2739,12 +2739,3 @@ zyy
 zzg
 zzh
 zzzezhar
-zzzz
-zzzzz
-{bogosity}.
-{general
-~
-~!@#$%^&
-~!@`12
-~#$%^&*().;
-~~~.....~~~
