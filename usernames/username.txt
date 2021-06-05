@@ -1064,6 +1064,7 @@ hacker2
 hacker3
 hackingtools
 hadoop
+hadoop-user
 haiyun
 hal96
 halflife
@@ -1083,6 +1084,7 @@ harrington
 harry
 hatem
 hbase
+hbv7
 hcat
 hdfs
 hdfs12
@@ -1754,6 +1756,7 @@ mpas
 mrt
 msos
 mssql
+mssqla
 msssqladm
 mta
 mtaserver
@@ -3743,3 +3746,15 @@ zyy
 zzg
 zzh
 zzzezhar
+zzzr
+zzzz
+zzzzz
+zzzzzz
+{bogosity}.
+{general
+|
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
