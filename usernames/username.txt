@@ -541,6 +541,7 @@ dkw
 dl
 dl_group
 dl_group1
+dlqc
 dm
 dmc
 dmcserver
@@ -674,6 +675,7 @@ fanyiwei
 fchikwata
 fedora
 feng
+fenglulu
 fengpz
 fengyasen
 fengyichao
@@ -703,6 +705,7 @@ ftp123
 ftp_test
 ftp_user
 ftpadmin
+ftpadmin1
 ftpadmin2
 ftpadmin3
 ftpadmin4
@@ -756,6 +759,7 @@ gerrit
 ggrabins
 ghhan
 ghost
+ghyang
 gibson
 gilad
 gis-user
@@ -877,6 +881,7 @@ huangzheng
 huashi
 hub
 hui
+hungle
 hutt
 huwenbo
 huwenp
@@ -938,6 +943,7 @@ jest
 jfpena
 jgbae
 jhoony
+jhpark
 jhsim
 jhua
 jhye
@@ -991,6 +997,7 @@ kafka
 kajetan
 kalao
 kaonmw2
+kareem
 karma
 kassia
 kdo
@@ -1001,6 +1008,7 @@ kernoops
 keshu
 kethari
 kevin
+khlee
 khoivtn
 kibana
 kicyvn
@@ -1300,6 +1308,7 @@ ncx27
 netadmin
 netflix
 netflixvpn123!
+netgear
 nevern
 newadmin
 news
@@ -1674,6 +1683,7 @@ shijia
 shiliu
 shitengxin
 shix
+shiyuji
 shkim
 shl
 shopping
@@ -1756,6 +1766,7 @@ sqldba
 sqlite
 sqlsync
 sqluser
+sqluser1
 sqluser2
 sqoop
 squad
@@ -1804,6 +1815,7 @@ supervis
 supervisor
 suporte
 support
+suse-ncc
 sutianhao
 suvirtha
 sviluppo
@@ -1816,6 +1828,7 @@ swx123
 sybase
 syftp
 sync
+sysadm
 sysadmin
 sysdbadm
 sysdbadmin
@@ -1840,6 +1853,7 @@ tania
 tanqifei
 tanya
 taoj
+taojin
 tatenda
 tbjeong
 tbox
@@ -2043,6 +2057,7 @@ userftp
 username
 users
 userspace
+userspace1
 ustchjy
 ustcltf
 usuario
@@ -2075,6 +2090,7 @@ vboxuser
 vcr
 vcsa
 vdo
+vdoo
 vdras
 vega
 vega0
@@ -2447,6 +2463,7 @@ yarn-ats
 yarslan
 yatri
 yaunwd
+yb
 ybchae
 ybyang
 ybzhang
@@ -2490,12 +2507,14 @@ yinjianxin
 yinjianxin_stu
 yinshu
 yinzhihao
+yinzhiyi
 yiyang
 yiyx
 yjlee
 yjw
 ykhuo
 ykpark
+ykwang
 yli
 yliu
 ylpay
@@ -2516,6 +2535,7 @@ yrli
 yrpark99
 yrs
 yslee
+yszhu
 yty
 yu
 yuan
@@ -2718,12 +2738,3 @@ zyy
 zzg
 zzh
 zzzezhar
-zzzz
-zzzzz
-zzzzzz
-{bogosity}.
-~
-~!@#$%^&
-~!@`12
-~#$%^&*().;
-~~~.....~~~
