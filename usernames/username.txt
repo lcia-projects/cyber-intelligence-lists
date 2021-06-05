@@ -3743,14 +3743,3 @@ zyy
 zzg
 zzh
 zzzezhar
-zzzr
-zzzz
-zzzzz
-zzzzzz
-{bogosity}.
-{general
-~
-~!@#$%^&
-~!@`12
-~#$%^&*().;
-~~~.....~~~
