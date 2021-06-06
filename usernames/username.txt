@@ -135,6 +135,7 @@ SYSDBA
 Songshiyu
 StoogR
 Sweex
+TMAR#DLKT20060205
 Tongzhuang
 URANUS
 USER1
@@ -2129,6 +2130,7 @@ politia
 polkitd
 pornchai
 portal
+post
 postal
 postfix
 postgers
@@ -2258,6 +2260,7 @@ ravikumar
 razvan
 rcm
 rdp
+record
 recruitment
 redhat
 redhatadmin
@@ -2506,6 +2509,7 @@ soksueser
 soksuser
 sol
 solaris
+solarus
 sole
 solr
 soma
@@ -3820,15 +3824,7 @@ zyy
 zzg
 zzh
 zzzezhar
-zzzr
 zzzz
 zzzzz
-zzzzzz
-{bogosity}.
-{general
-|
-~
-~!@#$%^&
-~!@`12
 ~#$%^&*().;
 ~~~.....~~~
