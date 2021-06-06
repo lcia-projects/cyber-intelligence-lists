@@ -2313,6 +2313,7 @@ rosangela
 rosine
 ross
 rough
+router
 rstudio-server
 rsunda
 rtkit
