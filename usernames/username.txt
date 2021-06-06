@@ -19,6 +19,7 @@
 1234567890
 1234567@
 12345qwert
+123qaz
 123qwe
 147
 1502
@@ -49,7 +50,9 @@
 6
 66666
 666666
+7days
 888888
+@Ssword123456
 A1207559918
 ADMINISTRATOR
 ADMN
@@ -125,6 +128,7 @@ PSEAdmin
 PlcmSpIp
 Polycom
 RMUser1
+ROOt
 ROot
 RPM
 RSBCMON
@@ -175,6 +179,7 @@ abc1
 abc123
 abcd
 abdul
+abdulla
 abel
 abhishek
 acc
@@ -217,6 +222,7 @@ administrator
 adminmin
 adminuser
 adminvps
+adrian
 agatha
 agenda
 agotoz
@@ -226,14 +232,17 @@ ahmed
 ahngj96
 aida
 aidenkim
+aimable
 airbot
 airtel
 aj
 ajeel
 akduy
+alan
 alarm
 alberto
 alec
+aleks
 aleksander
 alevale
 alex
@@ -249,15 +258,18 @@ allan
 alle
 allen
 alluxio
+alma
 alpha
 alpha123
 altibase
 alumni
 alumni1
+alx
 aman
 amanda
 amandabackup
 amavis
+amavis1
 amax
 ambari
 ambari-qa
@@ -274,10 +286,14 @@ ana
 anar
 anders
 anderson
+andi
 andoria
+andrea
 andreas
 andrei
+andres
 angel
+angela
 angxin
 anke
 ankesh
@@ -294,6 +310,7 @@ antonio
 antonny
 antony
 anukis
+anurag
 anwenjie
 anxue
 anyi
@@ -363,6 +380,7 @@ avahi-autoipd
 avaya
 avigdor
 avinash
+avis
 awade
 aws
 aydan
@@ -375,7 +393,9 @@ azureadmin
 azureuser
 backup
 backup1
+backuppc
 backups
+baikal
 baiyaxuan
 bakpessi
 bakrimemnaa
@@ -418,6 +438,7 @@ bindadd
 bing
 bini
 bio
+bios
 bitnami
 bitrix
 bjh
@@ -452,6 +473,7 @@ brad
 brainiumdev
 bred
 brian
+bridge
 brijesh
 browser
 bsimzer
@@ -595,6 +617,7 @@ clcsrv
 clfu
 clickhouse
 client
+close
 cloud
 cloud_user
 cloudant
@@ -626,8 +649,11 @@ consul
 contact
 content
 core
+coremail
 corolla
+cosinus
 couchdb
+coupon
 cpanel
 cpanel1
 cpecap
@@ -658,6 +684,7 @@ cuidongxue
 cuizq
 cumulus
 cups-pk-helper
+cusadmin
 customer
 customer1
 customercustomer
@@ -756,6 +783,7 @@ dbuser
 dbvisa
 dbw
 dcc
+ddos
 debian
 debian123
 debianuser
@@ -780,6 +808,7 @@ dena
 dengxa
 dengyanjun
 dengzhibo
+deniel
 denis
 dennis
 denny
@@ -812,6 +841,7 @@ developement
 developer
 device
 devlcl
+devonshop
 devops
 devopsuser
 devpi
@@ -821,6 +851,7 @@ devtools
 devuser
 devusers
 dexter
+dff
 dfsa
 dhis
 dhlee
@@ -833,6 +864,7 @@ dianmai
 dianzhong
 dias
 dick
+dieakuma
 diego
 dig
 digital
@@ -847,6 +879,7 @@ dingdong
 dingh
 dinghan
 dingwei
+dino
 diqi
 disconf
 discord
@@ -890,6 +923,7 @@ dominique
 domo
 donat
 donavan
+dong
 donganlan
 dongwei
 dongxiaocheng
@@ -911,6 +945,7 @@ dqzheng
 dragon
 dragos
 drake
+drb
 drcom
 drcomadmin
 drey
@@ -965,6 +1000,8 @@ ec2-user
 echelon
 ecuser
 ed
+eddie
+edeline
 edisom
 edu
 edventure
@@ -995,6 +1032,7 @@ elsearch123
 elton
 email
 emdl
+emily
 ems
 emuser
 end
@@ -1008,6 +1046,7 @@ erpnext
 es
 es-user
 es1
+esbee
 escort
 escrow
 esdev
@@ -1025,6 +1064,7 @@ euann
 eve
 everyone
 ewan
+examples
 exx
 ey
 f4
@@ -1039,6 +1079,7 @@ fanqichao
 fanwell
 fanyiwei
 farhan
+fax
 fchikwata
 fedora
 feiyun
@@ -1053,7 +1094,9 @@ fengyichao
 fengys
 fernando
 festival
+fetchmail
 ff
+fffff
 ffq
 fftp
 files
@@ -1065,6 +1108,7 @@ firefart
 fish
 fithub
 fivem
+fleawort
 flink
 florence
 florent
@@ -1083,6 +1127,7 @@ fs
 fs2016
 fsysy
 ftp
+ftp01
 ftp1
 ftp123
 ftp_test
@@ -1094,6 +1139,7 @@ ftpadmin3
 ftpadmin4
 ftpadmin5
 ftpayu
+ftpd
 ftpd1
 ftpfiles
 ftpguest
@@ -1103,6 +1149,7 @@ ftpserver
 ftpsever
 ftpsite
 ftptest
+ftptest!@#
 ftpuer
 ftpup
 ftpuser
@@ -1122,6 +1169,7 @@ gaihongyun
 galby
 galexey
 gambam
+game
 gamefiles
 games
 gamesfiles
@@ -1140,6 +1188,7 @@ garcia
 garron
 garry
 garrysmod
+gateway
 gazelle12
 gbase
 gbekevi
@@ -1180,6 +1229,7 @@ gjwang
 glassfish
 gleist
 globus
+glyna
 gmod
 gmod_server
 gmodserver
@@ -1192,13 +1242,16 @@ gongc
 gongx
 google
 gopi
+gordon
 gpadmin
 gpadmin12345678
 gpu
 grafana
 grant
+graphics
 graylog
 greatwall
+gregory
 grid
 gsl
 gsmith
@@ -1206,6 +1259,7 @@ guanwei
 guanzhibin
 guanzhiyun
 guce
+gudbrandsen
 guest
 guest-2s6ogj
 guest-br8d6z
@@ -1218,6 +1272,7 @@ guest7
 guest_1
 guhangbo
 guillaume
+gumb
 guochuanxiang
 guohaichi
 guojinxin
@@ -1235,10 +1290,12 @@ hacker3
 hackingtools
 hadoop
 hadoop-user
+haiduc
 haiyun
 hal96
 half
 halflife
+halprin
 hance
 hanul
 hanwei
@@ -1253,6 +1310,7 @@ hariharan
 harish
 harrington
 harry
+hart
 hatem
 hbase
 hbv7
@@ -1273,6 +1331,7 @@ helpdesk1
 hemengjie
 hemonan
 hepengyu
+hera
 herberg
 hero
 heroadmin
@@ -1302,11 +1361,13 @@ hods
 hojunlee
 holy
 home
+honeyridge
 hong
 hongxing
 hongyang
 honoured
 hortonworks
+hospital
 host
 hosting
 houjyuf
@@ -1370,8 +1431,10 @@ imp
 impala
 import
 info
+info1
 informatica
 informix
+informix1
 inlog
 inspur
 instagram
@@ -1407,6 +1470,7 @@ jamie
 jana
 janisc
 janny
+jasmin
 jason
 java
 javatest
@@ -1417,10 +1481,14 @@ jboss
 jccai
 jcj
 jdk
+jean
 jeesoo
 jeff
+jeffrey
+jenifer
 jenkins
 jenkins1234
+jenny
 jeremiah
 jeremy
 jerry
@@ -1453,6 +1521,7 @@ jingdishan
 jinglu
 jinhong
 jinhq
+jinke
 jinshuo
 jinsl
 jinu
@@ -1481,6 +1550,7 @@ joanne
 job
 jobs
 joey
+john
 johnny
 johnros
 jojo
@@ -1495,8 +1565,10 @@ joplin
 josh
 joshua
 jqu2
+jrinter
 jtsbot
 julian
+julie
 julien
 jun
 jung
@@ -1525,6 +1597,7 @@ jzh
 jzhang71
 k3
 k8s
+kadah
 kafka
 kaggle
 kajetan
@@ -1578,6 +1651,7 @@ kong
 kongxiang
 kongying
 konsti
+kooroon
 kornherr
 kpark
 kpn
@@ -1614,6 +1688,8 @@ lambert
 lambin
 laouwayi
 laravel
+lauren
+lawrence
 lbb
 lbchen
 lbh
@@ -1625,12 +1701,14 @@ lch
 lct
 lduser
 lee
+leehd
 leen
 lencia
 lenin
 lenovo
 leo
 leon
+letmein
 letsencrypt
 level
 leveldb
@@ -1765,6 +1843,7 @@ lizhigang
 lizhihao
 lizhuo
 ljj
+ll
 llama
 llin
 lloyd
@@ -1777,6 +1856,7 @@ localhost
 lodwin
 logger
 login
+logmaster
 logo
 logs
 logstash
@@ -1784,6 +1864,7 @@ longd233
 looker
 lost+found
 louis
+louise
 loujie
 loveness
 loyd
@@ -1797,6 +1878,7 @@ lucene
 lucia
 lucy
 luis
+lukacs
 luo
 luob
 luojianqin
@@ -1817,6 +1899,7 @@ lxi
 lxm
 lxy
 lyl
+lynn
 lyw
 lz
 lzh
@@ -1832,6 +1915,7 @@ magento
 magentodev
 magic
 magnos
+mahefa
 mahendrasingh
 mahout
 maie
@@ -1839,6 +1923,7 @@ mail
 mailadmin
 mailer
 mailman
+mailman1
 mailman3
 mailnull
 mailrlseg
@@ -1847,17 +1932,21 @@ mailtest
 maintuse
 majordom
 majordomo
+majordomo1
 mall
 malvern
 mambondiani
 man
+man1
 manager
+manager1
 manan
 manas
 mandrill
 mangna
 manish
 manliping
+manu
 mapr
 mapred
 mapreduce
@@ -1883,6 +1972,8 @@ massamba
 master
 masterkey
 math
+mathias
+matrix
 matt
 mattermost
 matthew
@@ -1951,6 +2042,7 @@ minseolike
 mirc
 miso
 mj
+mjestel
 mjt
 mmadm
 mmsi
@@ -1981,7 +2073,9 @@ mosquitto
 mosroot
 mother
 moumita
+movies
 moxy
+mp3
 mpas
 mrt
 msos
@@ -1991,6 +2085,7 @@ msssqladm
 mta
 mtaserver
 mudehwec
+mudit
 mujr
 multy
 munyaradzi
@@ -2047,6 +2142,7 @@ ncx27
 ndl
 neeraj
 neha
+neske
 netadmin
 netdata
 netdump
@@ -2062,11 +2158,13 @@ newgit
 newharmony
 newpass
 news
+news1
 newscng
 newsletter
 newuser
 nexus
 nfs
+nfsnobod
 nfsnobody
 nginx
 nginx123456
@@ -2092,6 +2190,7 @@ nina
 ningzhenyi
 nipa
 niprieto
+nishimura
 nishon
 nitrodocker
 niumingyue
@@ -2111,6 +2210,7 @@ nominatim
 noni
 noor
 novalocal
+nowhere
 npe
 npm
 nproc
@@ -2154,6 +2254,7 @@ ohio
 okamoto
 olga
 oliver
+olivia
 olivier
 olja_entry
 olombana
@@ -2185,6 +2286,7 @@ oqinghua
 ora
 oracle
 oracle-test
+oracle1
 oracle123456789
 oracleadmin
 oracledb
@@ -2223,6 +2325,7 @@ outlook
 ouyangyayu
 ovp
 oweinert
+owen
 owncloud
 oxidized
 p
@@ -2262,6 +2365,7 @@ paula
 pavan
 pavel
 paweln
+paypal
 pbench
 pbsadmin
 pbsadmin123
@@ -2313,6 +2417,7 @@ poi
 politia
 polkitd
 polo
+polycom
 pornchai
 portal
 post
@@ -2356,6 +2461,7 @@ priv_user
 privatesmb
 profile1
 proftpd
+project
 projects
 prometheus
 promoavto
@@ -2443,6 +2549,7 @@ rakesh
 ralph
 ram
 ramakrishna
+ramesh
 rameshwar
 randy
 ranger
@@ -2457,7 +2564,9 @@ ravikumar
 razvan
 rceja
 rcm
+rdc
 rdp
+recog
 record
 recruitment
 redhat
@@ -2474,14 +2583,17 @@ renjie
 renkeju
 rensc
 renxuehu
+replicator
 resap
 research
 rethinkdb
+rexmen
 rgca
 rh
 rhea
 ricardo
 rich
+richard
 richards
 ridam
 rig
@@ -2493,6 +2605,7 @@ rlyeh
 rlzhu
 rmzx
 rob
+robert
 robin1
 robinc
 robotics
@@ -2523,6 +2636,9 @@ ross
 rough
 router
 rpc
+rpc1
+rpcrpc
+rpcuser
 rpm
 rppt
 rstudio-server
@@ -2548,6 +2664,7 @@ ryt
 s3
 s5
 sa
+sac
 sagui
 sahand
 sakib
@@ -2567,6 +2684,7 @@ samuel
 samurai
 sanchit
 sandbox
+sandra
 sanghun
 sanghyuk
 sangwon
@@ -2576,6 +2694,7 @@ santiago
 sanyi
 sap_admin
 sapaccount
+sara
 saravanan
 satender
 sbhan
@@ -2598,12 +2717,14 @@ sdhe
 sdtdserver
 search
 seb
+secretariat
 sedat
 seekcy
 semi
 sentry
 serv_pv
 server
+server1
 servercsgo
 serverpilot
 service
@@ -2621,6 +2742,7 @@ sgh
 sgirs
 sh
 shabanovd
+shadow
 shamy
 shangjunping
 shangyingying
@@ -2691,6 +2813,7 @@ sjdiazgu
 sjfarm
 sjmanage
 sjzb
+sk
 skaroly
 sklee
 skrongren
@@ -2762,6 +2885,7 @@ sphinxsearch
 spiceworks
 splunk
 sportsdesk
+spreitzer
 spring
 spzhang
 sql
@@ -2796,6 +2920,7 @@ stan
 stanski
 statd
 stats
+stats1
 steam
 stefan
 stefani
@@ -2836,6 +2961,7 @@ sunyongliang
 suoabj
 super
 super1234
+superior
 superset
 superuser
 supervis
@@ -2845,6 +2971,7 @@ support
 support1
 suraj
 suratlai
+suse
 suse-ncc
 sutianhao
 suvirtha
@@ -2869,6 +2996,7 @@ sysadmin
 sysdbadm
 sysdbadmin
 syslog
+sysman
 system
 system1
 system_adm
@@ -2932,6 +3060,7 @@ ten-analytics
 tendai
 teradata
 teraria
+teresawinkymak
 terminal
 terraria
 terrariaserver
@@ -2976,6 +3105,7 @@ testuser
 testuser1
 testusers
 testusertestuser
+testwww
 tet
 tevaughan
 tez
@@ -3028,10 +3158,12 @@ todds
 tofa
 tokend
 tom
+tom1
 tomas
 tomcat
 tomcat1
 tomcat7
+tomcattomcat
 tomfacade
 tomm
 tommy
@@ -3135,6 +3267,7 @@ uranus
 uranus123
 urban
 urnie
+usaurio
 usdra
 usdt
 user
@@ -3182,6 +3315,7 @@ ut99
 ut99server
 utah
 utande
+util
 utkarsh
 uucp
 uzzal
@@ -3239,9 +3373,12 @@ villagers
 vimbai
 vincefranco
 vinicius.dias
+vintzileos
 vipul
+virendar
 virtua
 virtualbox
+virusalert
 visitor
 vivalagoa
 vivek
@@ -3267,6 +3404,7 @@ vpe.cripac
 vpetest.cripac
 vpn
 vpn123
+vpopmail
 vps
 vraj
 vritney
@@ -3364,6 +3502,7 @@ wansong
 wanxiaona
 waqqas
 warcraft
+warlocks
 warren
 wasadmin
 wayne
@@ -3379,6 +3518,7 @@ web12
 web2
 web2001
 web2p1
+web3
 web7
 web87
 web94p6
@@ -3399,6 +3539,7 @@ webmaster1
 webmin
 webpop
 webportal
+webroot
 webservd
 website
 websuri
@@ -3558,6 +3699,7 @@ xa1
 xampp
 xanax
 xatt
+xavier
 xbot
 xcfu
 xd
@@ -4109,6 +4251,17 @@ zyj
 zym
 zyshen
 zyy
+zz
 zzg
 zzh
 zzzezhar
+zzzr
+zzzz
+zzzzz
+{bogosity}.
+{general
+~
+~!@#$%^&
+~!@`12
+~#$%^&*().;
+~~~.....~~~
