@@ -2,13 +2,18 @@
 # www.la-safe.org
 # Proactive cyber intelligenceinvestigatory work has lead to a growing username.keyword list.
 
+!
 !root
+)(*&^%
 -a
 0101
 0123456789
+02
+0ff1c3
 1
 111
 1111
+11111
 111111
 12
 123
@@ -24,17 +29,21 @@
 123Root
 123qaz
 123qwe
+123testftp
+123zxc
 147
 1502
 1q2w3e
 1q2w3e4r
 1q2w3e4r5t
+1q2w3e4r5t6y
 1q2w3e4r5t6y7u8i
 1qaz2wsx
 2
 202.71.131.225
 22
 24online
+258741
 266344
 27.206.79.252
 2Wire
@@ -55,6 +64,7 @@
 666666
 7days
 888888
+999999
 @Ssword123456
 A1207559918
 ADMIN
@@ -65,6 +75,7 @@ Aa123
 Aa123456
 Accept-Encoding: gzip
 Admin
+Admin888
 Administrator
 Alphanetworks
 Any
@@ -132,6 +143,7 @@ PRODDTA
 PSEAdmin
 PlcmSpIp
 Polycom
+QAZ
 RMUser1
 ROOt
 ROot
@@ -185,10 +197,12 @@ abc1
 abc123
 abc1234
 abcd
+abcd123
 abdul
 abdulla
 abel
 abhishek
+abo
 abraham
 acc
 account
@@ -249,6 +263,7 @@ aimable
 airbot
 airtel
 aj
+aj-web
 ajeel
 akatana
 akduy
@@ -261,6 +276,7 @@ aleks
 aleksander
 alevale
 alex
+alexander
 alexie
 alexis
 ali
@@ -314,6 +330,7 @@ andrea
 andreas
 andrei
 andres
+andrzej
 angel
 angel1
 angela
@@ -385,10 +402,12 @@ artdesign
 artemis
 arthur
 arti
+arts
 arun
 arvind
 ary
 asadal
+asdfghjkl
 ashish
 ashkan
 ashok
@@ -401,6 +420,7 @@ asyw
 at
 atakpamey
 atlas
+attachments
 attie
 atwell
 audi
@@ -408,6 +428,7 @@ audit
 augustus
 auris
 autobuild
+automak
 avahi
 avahi-autoipd
 avaya
@@ -455,10 +476,12 @@ bea
 beagleindex
 beam
 bee
+beheerder
 ben
 benmunyaradzi
 benny
 benson
+berber
 bernhar
 bertram
 bertus
@@ -480,6 +503,7 @@ bini
 bio
 biology
 bios
+bis
 bison
 bitnami
 bitrix
@@ -515,6 +539,7 @@ bpadmin
 bpoint
 brad
 brainiumdev
+branduser
 bred
 brett
 brian
@@ -544,6 +569,7 @@ cadence
 cai
 caiwu
 caiyue
+cakins
 california
 calvin
 camden
@@ -558,6 +584,8 @@ capacitacion
 capstone01
 car
 cara
+card
+carl
 carlos
 carol
 carolyn
@@ -565,11 +593,13 @@ carraslo
 carter
 casper
 cassandra
+cassidy
 cat
 catherine
 catuser
 cavi
 cb
+cbcom
 cbma
 cc
 ccc
@@ -594,6 +624,7 @@ chakanetsa
 chamunorwa
 chan
 chandra
+chang
 changeme
 changyy
 chanlee
@@ -637,6 +668,7 @@ chenyu2
 chenzh
 cheoleon
 cheong
+cheryl
 chg
 chhabilee
 chhoi
@@ -723,11 +755,13 @@ cpanel1
 cpecap
 cponce92
 craig
+craven
 creative
 cristian
 cristiane
 cron
 crowley
+cruise
 cruisecontrol
 cryptr
 cs
@@ -758,6 +792,7 @@ cvanderveer
 cvda
 cvs
 cvs1
+cvsroot
 cvsuser
 cw
 cwj
@@ -779,6 +814,7 @@ dabster1002
 daemon
 daidamai
 dailgames
+daina
 daisx
 daiwei
 dakota
@@ -882,6 +918,7 @@ deniel
 denis
 dennis
 denny
+dentardr
 denver
 denzel
 deploy
@@ -935,6 +972,7 @@ dianegeorges
 dianmai
 dianzhong
 dias
+dibinda
 dick
 dieakuma
 diego
@@ -954,6 +992,7 @@ dingwei
 dino
 diqi
 dir.liener
+directement
 disconf
 discord
 discordbot
@@ -978,6 +1017,7 @@ dneo
 dnscache
 dnslog
 dnsmasq
+dnyakundi
 dochom
 docker
 docker_project
@@ -1054,6 +1094,7 @@ duser
 dust
 duyh
 dv
+dvs
 dvshur
 dwdev
 dwdevnet
@@ -1082,6 +1123,7 @@ ed
 eddie
 edeline
 eden
+edgar
 edisom
 edu
 edventure
@@ -1129,6 +1171,7 @@ erivera
 ernest
 erplands
 erpnext
+ervisor
 es
 es-user
 es1
@@ -1157,6 +1200,7 @@ ey
 f4
 fa
 fabin
+facai
 factorio
 fahim
 falcon
@@ -1170,6 +1214,7 @@ fax
 fchikwata
 fearless
 fedora
+feedback
 feiyun
 feng
 fengc
@@ -1192,11 +1237,13 @@ fileserver
 filip
 finin
 fintech_user
+firebird
 firefart
 fish
 fithub
 fivem
 fleawort
+fleet
 flink
 florence
 florent
@@ -1213,7 +1260,9 @@ francis
 frank
 frankie
 frappe
+fredimos
 freeswitch
+freund
 fs
 fs2016
 fsysy
@@ -1282,6 +1331,7 @@ garcia
 garron
 garry
 garrysmod
+gary
 gateway
 gazelle12
 gbase
@@ -1306,8 +1356,10 @@ ghg
 ghhan
 ghost
 ghyang
+gianpiero
 gibson
 gilad
+ginger
 gis-user
 git
 git-agent
@@ -1332,6 +1384,7 @@ gmod
 gmod_server
 gmodserver
 gnats
+gnuworld
 gogol
 gogolcontent
 gomoku
@@ -1370,6 +1423,7 @@ guest02
 guest1
 guest7
 guest_1
+guestuser
 guhangbo
 guillaume
 gumb
@@ -1393,9 +1447,11 @@ hadoop-user
 haiduc
 haiyun
 hal96
+haldaemon
 half
 halflife
 halprin
+hammer
 hance
 haneen
 hanul
@@ -1413,6 +1469,7 @@ harish
 harrington
 harrison
 harry
+harrypotter
 hart
 harvard
 hasegawa
@@ -1434,10 +1491,12 @@ hef
 hehgomez
 heinrich
 helen
+helena
 helpdesk
 helpdesk1
 hemengjie
 hemonan
+henkle
 hepengyu
 hera
 herberg
@@ -1467,6 +1526,7 @@ hlli
 hm212
 hmugo
 hnode
+hockey
 hods
 hojunlee
 holy
@@ -1494,6 +1554,7 @@ html
 hts
 httpd
 httpd2
+httpdocs
 huajinruiqing
 huangb
 huangdanyang
@@ -1544,6 +1605,7 @@ ignite
 igor
 ii
 ilog
+imaizumi
 imp
 impala
 import
@@ -1599,6 +1661,7 @@ jasmin
 jason
 java
 javatest
+javier
 jay
 jay.jung
 jazmine
@@ -1622,6 +1685,7 @@ jeremiah
 jeremy
 jerry
 jessey
+jessica
 jest
 jetty
 jfpena
@@ -1667,6 +1731,7 @@ jiyu
 jiyuan
 jiyuan123
 jj
+jkarimi
 jkwashiwa
 jl
 jliang
@@ -1679,11 +1744,14 @@ jmuthusi
 jnior
 joanne
 job
+job123321
+jobjob
 jobs
 jocelyn
 jockey
 joey
 john
+john123456
 johnny
 johnros
 jojo
@@ -1702,6 +1770,7 @@ joy
 jqu2
 jrinter
 jtsbot
+juan
 juergen
 julian
 julianne
@@ -1739,6 +1808,7 @@ kadah
 kafka
 kaggle
 kajetan
+kakuta
 kalao
 kali
 kallen
@@ -1762,6 +1832,7 @@ kay
 kbzowski
 kdo
 kelby
+keller
 kelly
 ken
 kennedy
@@ -1772,12 +1843,14 @@ keshu
 kethari
 keval
 kevin
+kevlar
 khj
 khlee
 khoivtn
 khyeh
 kibana
 kicyvn
+kid
 kietnt17
 kimyg
 kingbase
@@ -1821,6 +1894,7 @@ kyeongmin
 kzhan
 kzhou
 kzr
+l0calhost
 l3tv_kaon
 l4d2
 lab
@@ -1830,6 +1904,7 @@ laboratory
 lacer
 laci
 ladev
+lahiru
 laihc
 laijizheng
 lakshay
@@ -1837,6 +1912,7 @@ lambert
 lambin
 laouwayi
 laravel
+laserjet
 laura
 lauren
 laurie
@@ -1860,7 +1936,9 @@ lenin
 lenovo
 leo
 leon
+leonardo
 leonmfs
+leslie
 letmein
 letsencrypt
 level
@@ -1929,6 +2007,7 @@ linshi
 linux
 linux1
 linuxadmin
+linuxtest
 lip
 lipengfu
 liqi
@@ -2001,6 +2080,7 @@ lizhigang
 lizhihao
 lizhuo
 ljj
+lkjh
 ll
 llama
 llin
@@ -2014,6 +2094,7 @@ localhost
 lodwin
 logger
 login
+loginuser
 logmaster
 logo
 logs
@@ -2069,6 +2150,7 @@ lzw
 macko
 macmobile-admin
 macrojas
+madaline
 madewen
 mafeng
 magento
@@ -2082,6 +2164,7 @@ mahout
 mai
 maie
 mail
+mail1
 mail3
 mailadmin
 mailer
@@ -2092,11 +2175,13 @@ mailnull
 mailrlseg
 mailserv
 mailtest
+maint
 maintuse
 majordom
 majordomo
 majordomo1
 majordomo3
+malisa
 mall
 malvern
 mambondiani
@@ -2137,6 +2222,7 @@ martinez
 martinm
 marvellous
 mary
+maryl
 mashuai
 massamba
 master
@@ -2146,6 +2232,7 @@ materialftp
 math
 mathias
 matrix
+matsushita
 matt
 mattermost
 matthew
@@ -2157,6 +2244,7 @@ mayan
 mayufeng
 mayuting
 mazvita
+mbett
 mc
 mcadmin
 mcserver
@@ -2173,11 +2261,13 @@ megan
 mehraan
 meijuan
 melody
+melyna
 meng
 mengjia
 menglg
 menglibin
 menu
+merlin
 meruem
 mesos
 messagebus
@@ -2190,6 +2280,7 @@ mgts
 mhallman
 mhchu
 mhviet
+mia
 miaolu
 miaoxinyuan
 michael
@@ -2216,6 +2307,7 @@ miso
 mitchell
 mizutuna
 mj
+mjackson
 mjestel
 mjt
 mjuma
@@ -2275,6 +2367,7 @@ munyaradzi
 muonline
 murali
 murapa
+murray
 musa
 music
 music1
@@ -2285,7 +2378,9 @@ muxh
 mwlu
 mwsd_zbldemo
 myadmin
+mycat
 mycho
+mydba
 myftp
 myhd
 myhwang
@@ -2305,6 +2400,7 @@ nabil
 nadav
 nadav3
 nadavrap
+nadya
 nagayama
 nagios
 nagios1
@@ -2322,9 +2418,11 @@ named1
 namenode
 nancy
 nano
+narduzzi
 natasha
 nathan
 nazne
+nbpmon
 ncs
 ncx
 ncx27
@@ -2336,11 +2434,13 @@ neske
 netadmin
 netdata
 netdump
+netdump1
 netflix
 netflixvpn123!
 netgear
 netrc
 netscape
+network
 neuerbot
 nevern
 nevez
@@ -2464,6 +2564,7 @@ omc
 omni
 omsagent
 one
+onfroy
 online
 only
 onuri
@@ -2474,6 +2575,7 @@ opc
 openbravo
 opendoor
 openelec
+openerp
 openlava
 openmeetings
 openproject
@@ -2500,6 +2602,7 @@ oralhist
 oraorig
 oratest
 orcanooz
+order
 ordos
 org
 orientdb
@@ -2637,6 +2740,7 @@ polo
 polycom
 pornchai
 portal
+pos
 post
 postal
 postfix
@@ -2669,6 +2773,7 @@ pranava
 praneet
 prasanna
 prateek
+praysner
 prediction
 press
 presto
@@ -2698,6 +2803,7 @@ psiege
 psun
 ptbackup
 pttracking
+pub
 public
 publog
 pukio
@@ -2749,6 +2855,8 @@ quotec
 quxia
 qwang
 qwe123
+qwe123qwe
+qwert%$#@!
 qwerty
 qwerty123
 qxf
@@ -2795,6 +2903,7 @@ rcm
 rdc
 rdillion
 rdp
+reception
 recog
 record
 recruitment
@@ -2802,7 +2911,9 @@ redhat
 redhatadmin
 redis
 redmine
+reest
 reinhard
+reistad
 reklama
 remc3001
 remote
@@ -2829,6 +2940,7 @@ ridam
 rig
 rinas
 riorjuel
+rip
 rje
 rkumar34
 rlyeh
@@ -2893,6 +3005,7 @@ runner
 russ
 rust
 rustserver
+ruted
 ruxin
 rvadmin
 ryan
@@ -2957,6 +3070,7 @@ sdbadmin
 sdg0049
 sdhe
 sdtdserver
+sean
 search
 seb
 secretariat
@@ -3052,6 +3166,8 @@ sinus
 sinusbot
 sistema
 sistemd-network
+site
+site01
 site03
 siteadmin
 siterec
@@ -3063,6 +3179,7 @@ sjmanage
 sjzb
 sk
 skaroly
+skkb
 sklee
 skrongren
 sky
@@ -3083,6 +3200,7 @@ smartworldmss
 smb
 smb_user
 smbadm
+smbguest
 smboracle
 smbuser
 smc
@@ -3126,6 +3244,7 @@ soyeon2019
 soyle_app
 soyle_kz
 spam
+spam!@#
 spamtrap
 spanner
 spark
@@ -3163,6 +3282,7 @@ sridhar
 srikanth
 srinivas
 srn
+srvadmin
 ss3
 ss3server
 ssh
@@ -3182,6 +3302,7 @@ statd
 stats
 stats1
 stats2
+statsstats
 steam
 stefan
 stefani
@@ -3191,12 +3312,16 @@ stephen
 sterescu
 steve
 steven
+stillmaker
+store
 storm
+stortora
 strand
 stream
 stromeyer
 strong
 student
+student06
 student1
 student3
 students
@@ -3208,6 +3333,7 @@ sujata
 sumalya
 sumit
 summer
+sun
 sun1
 suna
 sunandpanda
@@ -3232,6 +3358,7 @@ super1234
 superadmin
 superior
 superman
+supermbox
 superset
 superuser
 supervis
@@ -3273,6 +3400,7 @@ sysman
 system
 system1
 system2
+system4
 system_adm
 systemadmin
 systemd-bus-proxy
@@ -3298,6 +3426,7 @@ tangwangwang
 tangxianfeng
 tangym
 tania
+taniya
 tanqifei
 tanya
 taoj
@@ -3311,6 +3440,7 @@ tbox
 tcp
 teacher
 teacher123
+team
 team3
 teamcity
 teampspeak
@@ -3326,6 +3456,7 @@ techuser
 tecmint
 teia
 telecom
+telecomadmin
 telecomadmin
 telegram
 telentec
@@ -3354,6 +3485,7 @@ test12
 test123
 test2
 test2001
+test2002
 test3
 test4
 test5
@@ -3411,6 +3543,7 @@ tianjin
 tianmao
 tianzhengkun
 tidb
+tiger
 tika
 tiler
 tim
@@ -3445,6 +3578,7 @@ todd
 todds
 tofa
 tokend
+tolstiy
 tom
 tom1
 tomas
@@ -3542,7 +3676,9 @@ uftp1234567890
 uitcephus
 uk
 umesh
+umountfsys
 ums
+und3ad
 undergraduate1
 uniq
 unitikpub
@@ -3698,6 +3834,7 @@ vodafone
 vodoo
 voicebot
 volumes
+vox
 vpe.crip
 vpe.cripac
 vpetest.cripac
@@ -3808,7 +3945,9 @@ ward
 warlocks
 warren
 wasadmin
+watford
 wayne
+waynek
 waynne
 wbshu
 wbz
@@ -3824,6 +3963,7 @@ web226
 web228
 web2p1
 web3
+web4
 web6p1
 web7
 web87
@@ -3850,6 +3990,7 @@ webroot
 webservd
 website
 websuri
+webtest
 webuser
 webusers
 wei
@@ -3892,6 +4033,7 @@ widestat
 widiartha
 wiew
 wilbert
+wilcock
 wildfly
 will
 william
@@ -3914,6 +4056,7 @@ wls81opr
 wlxt
 wm
 wme
+wokani
 wolf
 won
 woniggo
@@ -3998,6 +4141,7 @@ wwwrun1
 wwwrun12345
 wwwsh
 wwwtest
+wwwuser
 wxm
 wxmei
 wyatt
@@ -4006,6 +4150,7 @@ wyf
 wyh
 wyj
 wyl
+wyzykiewicz
 wzn
 x
 x-man
@@ -4140,6 +4285,7 @@ y
 yagishita
 yajun
 yamada
+yamaguchi
 yan
 yanbotong
 yandong
@@ -4558,6 +4704,7 @@ zwl
 zwliu
 zwx8981
 zxc
+zxcvbn
 zxh
 zxin10
 zxiong
