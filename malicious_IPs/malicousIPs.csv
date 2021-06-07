@@ -1,141 +1,141 @@
 ip,honeypot_type,count
-72.214.121.53,"Suricata",21460
-45.19.188.43,"Suricata",16912
-175.24.125.23,"Suricata Cowrie",355
-143.198.53.174,"Suricata",11063
-45.19.188.45,"Suricata",21214
-122.51.101.136,"Suricata Cowrie",666
-41.78.75.45,"Suricata Cowrie",701
-61.177.173.22,"Suricata Cowrie",2060
-45.19.188.42,"Suricata",5874
-159.75.82.3,"Suricata Cowrie",669
-192.168.1.254,"Suricata",2071
-209.141.33.232,"Suricata Dionaea",35
-106.13.39.52,"Suricata Cowrie",721
-81.68.238.7,"Suricata Cowrie",529
-42.193.1.11,"Suricata Cowrie",359
+72.214.121.53,"Suricata",20954
+45.19.188.43,"Suricata",16373
+175.24.125.23,"Suricata Cowrie",348
+143.198.53.174,"Suricata",9996
+45.19.188.45,"Suricata",20174
+122.51.101.136,"Suricata Cowrie",585
+41.78.75.45,"Suricata Cowrie",694
+61.177.173.22,"Suricata Cowrie",1885
+45.19.188.42,"Suricata",5565
+159.75.82.3,"Suricata Cowrie",445
+192.168.1.254,"Suricata",2072
+209.141.33.232,"Suricata Dionaea",18
+106.13.39.52,"Suricata Cowrie",708
+81.68.238.7,"Suricata Cowrie",522
+42.193.1.11,"Suricata Cowrie",266
 176.221.1.184,"Suricata",345
 14.55.206.164,"Suricata",151
-101.32.45.10,"Suricata Cowrie",495
-81.68.179.112,"Suricata Cowrie",664
-82.65.27.68,"Suricata Cowrie",551
-141.98.10.149,"Suricata Honeytrap",322
+101.32.45.10,"Suricata Cowrie",488
+81.68.179.112,"Suricata Cowrie",594
+82.65.27.68,"Suricata Cowrie",544
+141.98.10.149,"Suricata Honeytrap",330
 143.198.144.68,"Suricata",2058
-74.91.24.158,"Suricata Cowrie",453
+74.91.24.158,"Suricata Cowrie",223
 115.201.92.222,"Suricata Dionaea",8
-5.195.226.39,"Suricata Cowrie",501
+5.195.226.39,"Suricata Cowrie",388
 207.154.242.126,"Suricata Cowrie",355
 175.6.40.14,"Suricata Cowrie",274
-139.59.57.39,"Suricata Cowrie",497
-178.128.52.193,"Suricata Cowrie",487
-104.223.96.12,"Suricata Honeytrap",1245
-104.236.244.98,"Suricata Cowrie",373
-91.132.58.53,"Suricata",4
+139.59.57.39,"Suricata Cowrie",490
+178.128.52.193,"Suricata Cowrie",480
+104.223.96.12,"Suricata Honeytrap",961
+104.236.244.98,"Suricata Cowrie",279
+91.132.58.53,"Suricata",5
 107.172.248.168,"Suricata Cowrie",496
-194.165.16.27,"Suricata Cowrie",3765
+194.165.16.27,"Suricata Cowrie",3758
 107.172.205.224,"Suricata Cowrie",139
 106.52.20.112,"Suricata Cowrie",228
-222.186.42.13,"Suricata Cowrie",60
-117.50.90.2,"Suricata Cowrie",504
-220.76.192.95,"Suricata Cowrie",330
-93.115.29.34,"Suricata Honeytrap",2221
-91.132.58.46,"Suricata",12
+222.186.42.13,"Suricata Cowrie",66
+117.50.90.2,"Suricata Cowrie",416
+220.76.192.95,"Suricata Cowrie",323
+93.115.29.34,"Suricata Honeytrap",2218
+91.132.58.46,"Suricata",18
 90.177.72.136,"Suricata Cowrie",491
 220.248.95.178,"Suricata Cowrie",469
 188.166.58.179,"Suricata Cowrie",368
 37.221.65.150,"Suricata Cowrie",5
-94.232.47.170,"Suricata Honeytrap Rdpy",1892
-162.221.192.26,"Suricata",1
-162.142.125.128,"Suricata Honeytrap Rdpy Dionaea",2941
-91.241.19.94,"Suricata Honeytrap",215
-167.172.170.145,"Suricata Cowrie",368
+94.232.47.170,"Suricata Honeytrap Rdpy",1907
+162.221.192.26,"Suricata Ciscoasa",4
+162.142.125.128,"Suricata Honeytrap Dionaea",2492
+91.241.19.94,"Suricata Honeytrap",185
+167.172.170.145,"Suricata Cowrie",272
 121.196.99.180,"Suricata",6
-81.71.37.46,"Suricata Cowrie",565
-141.98.81.154,"Suricata Cowrie",3333
-78.128.113.150,"Suricata Cowrie",5844
-49.233.182.119,"Suricata Cowrie",368
+81.71.37.46,"Suricata Cowrie",558
+141.98.81.154,"Suricata Cowrie",3382
+78.128.113.150,"Suricata Cowrie",4764
+49.233.182.119,"Suricata Cowrie",298
 5.182.39.88,"Suricata Cowrie",570
-178.62.60.233,"Suricata Cowrie",689
-61.177.173.26,"Suricata Cowrie",3026
-162.142.125.55,"Suricata Honeytrap Dionaea",99
+178.62.60.233,"Suricata Cowrie",629
+61.177.173.26,"Suricata Cowrie",2971
+162.142.125.55,"Suricata Honeytrap Dionaea",105
 218.75.210.46,"Suricata Cowrie",568
-128.199.149.111,"Suricata Cowrie",688
-172.25.0.2,"Suricata",309
-45.227.255.205,"Suricata Cowrie",2754
+128.199.149.111,"Suricata Cowrie",592
+172.25.0.2,"Suricata",308
+45.227.255.205,"Suricata Cowrie",2946
 2.232.250.91,"Suricata Cowrie",497
-195.3.147.47,"Suricata Cowrie",909
-203.192.212.238,"Suricata Honeytrap",506
-221.181.185.19,"Suricata Cowrie",114
+195.3.147.47,"Suricata Cowrie",885
+203.192.212.238,"Suricata Honeytrap",503
+221.181.185.19,"Suricata Cowrie",139
 167.248.133.29,"Suricata",1
-209.141.58.203,"Suricata Cowrie",231
+209.141.58.203,"Suricata Cowrie",230
 139.59.110.249,"Suricata Honeytrap",4
 209.141.53.227,"Suricata Cowrie",577
-162.142.125.38,"Suricata Honeytrap",141
-49.234.150.187,"Suricata Cowrie",493
-5.188.62.219,"Suricata Cowrie",341
+162.142.125.38,"Suricata Honeytrap Dionaea",166
+49.234.150.187,"Suricata Cowrie",418
+5.188.62.219,"Suricata Cowrie",422
 39.108.177.164,"Suricata Honeytrap",16
-81.161.63.253,"Suricata Cowrie",133
+81.161.63.253,"Suricata Cowrie",87
 65.49.20.67,"Suricata Honeytrap",2
 143.198.78.96,"Suricata Honeytrap",6
-162.142.125.40,"Suricata Honeytrap Dionaea",100
+162.142.125.40,"Suricata Honeytrap Dionaea",86
 64.227.97.248,"Suricata Honeytrap",5
-45.227.254.4,"Suricata",34
-89.255.142.6,"Suricata Rdpy",413
-194.61.55.248,"Suricata Honeytrap Honeypy",1239
+45.227.254.4,"Suricata",36
+89.255.142.6,"Suricata Rdpy",448
+194.61.55.248,"Suricata Honeytrap Honeypy",1246
 144.172.73.214,"Suricata",3
 202.60.135.173,"Suricata Adbhoney",3
-91.241.19.154,"Suricata Honeytrap",56
-212.129.11.188,"Suricata Heralding",19241
-185.142.236.34,"Suricata Honeytrap",16
+91.241.19.154,"Suricata Honeytrap",55
+212.129.11.188,"Suricata Heralding",18771
+185.142.236.34,"Suricata Honeytrap",20
 54.37.245.58,"Suricata",6
-184.105.247.195,"Suricata Honeytrap Dionaea",7
-74.120.14.53,"Suricata Honeytrap",111
-141.98.10.205,"Suricata Honeytrap",328
-221.181.185.223,"Suricata Cowrie",134
+184.105.247.195,"Suricata Honeytrap Dionaea",8
+74.120.14.53,"Suricata Honeytrap",141
+141.98.10.205,"Suricata Honeytrap",350
+221.181.185.223,"Suricata Cowrie",115
 220.88.1.208,"Suricata Cowrie",89
-45.227.255.163,"Suricata Cowrie",7709
-45.118.145.6,"Suricata Honeytrap",27
-104.236.26.167,"Suricata",61
-185.219.52.90,"Suricata Honeytrap",104
-221.131.165.56,"Suricata Cowrie",148
+45.227.255.163,"Suricata Cowrie",9729
+45.118.145.6,"Suricata Honeytrap",29
+104.236.26.167,"Suricata",38
+185.219.52.90,"Suricata Honeytrap",115
+221.131.165.56,"Suricata Cowrie",161
 187.200.40.217,"Suricata Cowrie",698
 47.113.194.215,"Suricata",2
-34.78.249.119,"Suricata Honeytrap Dionaea Tanner",64
-91.241.19.148,"Suricata Honeytrap",142
-65.49.20.66,"Suricata Ciscoasa Honeytrap",42
+34.78.249.119,"Suricata Honeytrap Dionaea Tanner",72
+91.241.19.148,"Suricata Honeytrap",131
+65.49.20.66,"Suricata Honeytrap",7
 68.183.157.214,"Suricata Honeytrap",12
-172.23.0.2,"Suricata",56
+172.23.0.2,"Suricata",55
 165.227.185.109,"Suricata Honeytrap",6
 47.102.108.220,"Suricata Honeytrap",11
-91.236.116.118,"Suricata",9
+91.236.116.118,"Suricata",8
 64.227.99.208,"Suricata Honeytrap",2
 167.172.144.86,"Suricata Honeytrap",4
-162.142.125.96,"Suricata Honeytrap",289
+162.142.125.96,"Suricata Honeytrap",304
 67.207.92.72,"Suricata Cowrie",686
 51.77.129.56,"Suricata",12
 182.61.36.169,"Suricata Honeytrap",3
 101.37.82.172,"Suricata",6
 193.46.255.93,"Suricata",8
-104.131.160.117,"Suricata Honeytrap",11
-45.227.254.13,"Suricata Honeytrap",56
-209.97.183.120,"Suricata Cowrie",380
+104.131.160.117,"Suricata Honeytrap",13
+45.227.254.13,"Suricata Honeytrap",64
+209.97.183.120,"Suricata Cowrie",360
 121.5.103.58,"Suricata Honeytrap",12
 181.28.152.133,"Suricata Cowrie",481
-209.141.61.33,"Suricata Cowrie",27
+209.141.61.33,"Suricata Cowrie",26
 138.68.183.94,"Suricata Honeytrap",4
-213.74.22.134,"Suricata Honeytrap",25
+213.74.22.134,"Suricata",20
 209.141.55.110,"Suricata Dionaea",117
-5.188.62.221,"Suricata Cowrie",1131
+5.188.62.221,"Suricata Cowrie",1510
 167.172.134.99,"Suricata",2
-91.241.19.151,"Suricata Honeytrap",157
+91.241.19.151,"Suricata Honeytrap",125
 103.203.57.9,"Suricata Honeytrap",9
-167.248.133.40,"Suricata Honeytrap",84
-5.188.62.220,"Suricata Cowrie",5268
-74.120.14.39,"Suricata Honeytrap",139
-66.240.236.119,"Suricata Honeytrap",11
+167.248.133.40,"Suricata Honeytrap",70
+5.188.62.220,"Suricata Cowrie",5358
+74.120.14.39,"Suricata Honeytrap",133
+66.240.236.119,"Suricata Honeytrap",15
 165.232.135.35,"Suricata Honeytrap",6
-36.27.214.242,"Suricata",8
-221.131.165.23,"Suricata Cowrie",159
+36.27.214.242,"Suricata",9
+221.131.165.23,"Suricata Cowrie",201
 51.159.2.27,"Suricata",1
 212.80.219.135,"Suricata Heralding",25125
 203.184.132.190,"Suricata Cowrie",688
@@ -150,13 +150,13 @@ ip,honeypot_type,count
 209.141.46.249,"Suricata Cowrie Heralding",9
 118.25.198.154,"Suricata Honeytrap Dionaea",12207
 124.43.9.184,"Suricata Cowrie",690
-5.188.62.223,"Suricata Cowrie",1222
+5.188.62.223,"Suricata Cowrie",737
 49.232.132.78,"Suricata Cowrie",370
 49.247.210.91,"Suricata Cowrie",565
 213.172.73.164,"Suricata Cowrie",483
-193.105.134.45,"Suricata Cowrie",381
+193.105.134.45,"Suricata Cowrie",380
 211.239.124.233,"Suricata Cowrie",507
-5.188.62.240,"Suricata Cowrie",664
+5.188.62.240,"Suricata Cowrie",643
 143.110.231.151,"Suricata Honeytrap",6
 39.99.142.142,"Suricata Honeytrap",8
 82.164.6.105,"Suricata Cowrie",515
@@ -169,9 +169,9 @@ ip,honeypot_type,count
 46.101.96.184,"Suricata",25
 106.13.33.37,"Suricata Cowrie",507
 103.56.191.87,"Suricata Cowrie",369
-45.146.164.125,"Suricata Honeytrap Tanner Ciscoasa CitrixHoneypot",349
+45.146.164.125,"Suricata Honeytrap Ciscoasa Tanner CitrixHoneypot",299
 188.166.22.79,"Suricata Cowrie",159
-103.145.13.120,"Suricata Dionaea",494
+103.145.13.120,"Suricata Dionaea",557
 185.5.18.245,"Suricata Cowrie",122
 49.234.5.191,"Suricata Cowrie",374
 106.52.54.192,"Suricata Cowrie",682
@@ -179,23 +179,23 @@ ip,honeypot_type,count
 45.80.64.230,"Suricata Cowrie",165
 115.242.207.10,"Suricata Cowrie",504
 185.220.100.240,"Suricata Heralding",17
-221.181.185.140,"Suricata Cowrie",186
+221.181.185.140,"Suricata Cowrie",156
 106.52.142.17,"Suricata Cowrie",499
 5.167.51.141,"Suricata Cowrie",716
-80.82.77.240,"Suricata Honeytrap",28
+80.82.77.240,"Suricata Honeytrap",27
 119.45.52.62,"Suricata Cowrie",429
 128.199.210.41,"Suricata Honeytrap",2
 81.71.68.122,"Suricata Cowrie",368
-221.181.185.153,"Suricata Cowrie",160
+221.181.185.153,"Suricata Cowrie",147
 146.56.220.125,"Suricata Honeytrap",8
 195.29.51.137,"Suricata Cowrie",516
-221.181.185.135,"Suricata Cowrie",127
+221.181.185.135,"Suricata Cowrie",134
 134.0.22.221,"Suricata Cowrie",406
 172.107.226.182,"Suricata",4
 129.211.124.204,"Suricata Cowrie",302
 117.25.40.111,"Suricata Cowrie",356
-46.101.240.138,"Suricata Honeytrap",2
-212.80.218.205,"Suricata Heralding",7228
+46.101.240.138,"Suricata Honeytrap",4
+212.80.218.205,"Suricata Heralding",15215
 46.101.158.102,"Suricata Honeytrap",7
 42.193.8.97,"Suricata",6
 106.13.223.163,"Suricata Cowrie",364
@@ -208,18 +208,18 @@ ip,honeypot_type,count
 106.52.209.98,"Suricata Cowrie",321
 95.87.101.15,"Suricata Cowrie",373
 49.232.105.118,"Suricata Cowrie",593
-222.187.239.109,"Suricata Cowrie",150
+222.187.239.109,"Suricata Cowrie",144
 140.249.20.173,"Suricata Cowrie",680
 139.59.225.203,"Suricata Honeytrap",4
-31.210.21.55,"Suricata Heralding",12329
+31.210.21.55,"Suricata Heralding",13336
 42.192.137.134,"Suricata Cowrie",359
-91.241.19.186,"Suricata Honeytrap",127
+91.241.19.186,"Suricata Honeytrap",144
 143.244.150.211,"Suricata Honeytrap",2
 172.105.77.209,"Suricata Tanner",4
 188.193.191.52,"Suricata Cowrie",148
-77.247.181.165,"Suricata Cowrie ssh-rsa Heralding",46
-138.197.131.90,"Suricata Honeytrap",6
-221.181.185.143,"Suricata Cowrie",246
+77.247.181.165,"Suricata Cowrie ssh-rsa",44
+138.197.131.90,"Suricata Honeytrap",4
+221.181.185.143,"Suricata Cowrie",234
 193.46.255.146,"Suricata",1
 192.241.208.238,"Suricata Honeytrap",3
 103.82.25.236,"Suricata Rdpy",5
@@ -228,40 +228,40 @@ ip,honeypot_type,count
 192.119.110.156,"Suricata Honeytrap",9
 194.233.73.47,"Suricata",3
 128.1.248.42,"Suricata",1
-51.13.100.185,"Suricata Honeytrap Adbhoney",51
+51.13.100.185,"Suricata Honeytrap Adbhoney",58
 51.178.47.46,"Suricata Cowrie",189
-221.181.185.151,"Suricata Cowrie",158
+221.181.185.151,"Suricata Cowrie",163
 89.248.165.52,"Suricata Honeytrap",257
 96.1.64.194,"Suricata Cowrie",380
 106.53.96.64,"Suricata Cowrie",396
-109.236.91.85,"Suricata Cowrie",84
+109.236.91.85,"Suricata Cowrie",77
 209.141.37.151,"Suricata Honeytrap",16
 161.35.90.250,"Suricata Cowrie",373
-164.90.156.255,"Suricata",2
+164.90.156.255,"Suricata Honeytrap",4
 162.62.123.46,"Suricata Ciscoasa Honeytrap Tanner CitrixHoneypot",40
 222.187.238.136,"Suricata Cowrie",113
-193.34.144.63,"Suricata Adbhoney Honeytrap",41
+193.34.144.63,"Suricata Adbhoney Honeytrap",43
 129.205.113.209,"Suricata Mailoney",11
 143.198.78.106,"Suricata Honeytrap",6
 1.15.145.93,"Suricata Cowrie",617
 192.241.212.228,"Suricata Honeytrap",3
-167.248.133.53,"Suricata Honeytrap Dionaea",114
-185.100.87.129,"Suricata Heralding",12
-222.186.42.7,"Suricata Cowrie",123
-18.27.197.252,"Suricata Heralding Honeytrap",30
+167.248.133.53,"Suricata Honeytrap Dionaea",115
+185.100.87.129,"Suricata Heralding",8
+222.186.42.7,"Suricata Cowrie",117
+18.27.197.252,"Suricata Heralding Honeytrap",28
 185.194.49.132,"Suricata Cowrie",177
 50.116.48.34,"Suricata Honeytrap",46
-213.202.216.189,"Suricata Heralding",10
+213.202.216.189,"Suricata Heralding",8
 177.19.226.178,"Suricata Cowrie",300
 192.64.119.79,"Suricata",2
 185.56.80.65,"Suricata Heralding",22
-185.220.101.13,"Suricata Honeytrap Heralding",20
+185.220.101.13,"Suricata Heralding Honeytrap",16
 172.105.107.233,"Suricata",6
 185.220.101.204,"Suricata Cowrie Heralding Honeytrap",22
 51.77.52.216,"Suricata Heralding",6
-174.138.9.206,"Suricata Honeytrap",70
+174.138.9.206,"Suricata Honeytrap",67
 192.241.211.250,"Suricata Honeytrap",5
-162.247.74.201,"Suricata Heralding",12
+162.247.74.201,"Suricata Heralding",10
 23.154.177.68,"Suricata Heralding",4
 2.57.169.235,"Suricata Rdpy",3
 187.189.170.122,"Suricata Cowrie",7
@@ -270,16 +270,16 @@ ip,honeypot_type,count
 5.182.39.25,"Suricata Cowrie",504
 178.32.197.80,"Suricata Honeytrap",2
 43.245.222.163,"Suricata Honeytrap",18
-203.205.33.121,"Suricata Rdpy",10
-172.27.0.2,"Suricata",26
+203.205.33.121,"Suricata Rdpy",13
+172.27.0.2,"Suricata",25
 202.163.113.73,"Suricata Rdpy",4
-167.248.133.55,"Suricata Honeytrap Cowrie",87
+167.248.133.55,"Suricata Honeytrap Cowrie",96
 163.172.161.118,"Suricata Honeytrap",10
 120.92.122.167,"Suricata Cowrie",7
 179.43.166.179,"Suricata",2
 176.10.99.200,"Suricata Heralding",10
 160.3.126.158,"Suricata",3
-45.227.255.204,"Suricata Cowrie",391
+45.227.255.204,"Suricata Cowrie",415
 123.57.137.50,"Suricata",2
 188.166.55.89,"Suricata",2
 146.59.138.46,"Suricata",5
@@ -292,29 +292,29 @@ ip,honeypot_type,count
 91.220.101.134,"Suricata",5
 186.33.114.155,"Suricata Honeytrap",2
 185.107.70.202,"Suricata Heralding Honeytrap",13
-185.83.214.69,"Suricata Heralding Honeytrap",31
+185.83.214.69,"Suricata Heralding Honeytrap",27
 185.36.81.36,"Suricata Cowrie",180
 220.130.38.37,"Suricata Dionaea",3
-162.142.125.56,"Suricata Honeytrap Cowrie Ciscoasa Dionaea",126
+162.142.125.56,"Suricata Honeytrap Cowrie Ciscoasa Dionaea",132
 196.196.41.68,"Suricata Dionaea Honeytrap",6
 34.76.33.242,"Suricata Cowrie",14
 186.93.164.53,"Suricata Dionaea",205
 185.142.236.38,"Suricata Honeytrap",32
-185.56.80.44,"Suricata Honeytrap",66
+185.56.80.44,"Suricata Honeytrap",71
 194.61.26.211,"Suricata Cowrie",38
 185.180.143.142,"Suricata Honeytrap",9
 143.198.52.250,"Suricata Tanner",6
 128.1.248.34,"Suricata",4
-162.142.125.53,"Suricata Honeytrap Rdpy Honeypy",133
+162.142.125.53,"Suricata Honeytrap Honeypy",132
 46.101.74.190,"Suricata",2
 213.92.254.136,"Suricata Cowrie",124
-74.120.14.54,"Suricata Honeytrap Dionaea",81
+74.120.14.54,"Suricata Honeytrap Dionaea",72
 81.182.248.193,"Suricata Cowrie",97
-74.120.14.56,"Suricata Honeytrap",115
+74.120.14.56,"Suricata Honeytrap",130
 64.227.99.97,"Suricata Honeytrap",6
-128.14.141.42,"Suricata Cowrie",10
+128.14.141.42,"Suricata",4
 206.189.160.233,"Suricata Cowrie",344
-93.174.95.106,"Suricata Honeytrap",17
+93.174.95.106,"Suricata Honeytrap",8
 192.241.205.24,"Suricata",2
 139.59.170.47,"Suricata Honeytrap",6
 101.32.218.22,"Suricata Cowrie",669
@@ -323,15 +323,15 @@ ip,honeypot_type,count
 193.93.62.130,"Suricata Honeytrap",56
 80.67.172.162,"Suricata",1
 103.48.192.48,"Suricata Cowrie",464
-167.248.133.38,"Suricata Honeytrap Ciscoasa Dionaea Honeypy Cowrie",135
+167.248.133.38,"Suricata Honeytrap Dionaea Honeypy Cowrie",108
 13.229.222.78,"Suricata Cowrie",505
-185.165.190.17,"Suricata Honeytrap",12
+185.165.190.17,"Suricata Honeytrap",15
 34.77.162.27,"Suricata Dionaea",2
 185.220.103.5,"Suricata Cowrie Heralding",9
 201.30.84.242,"Suricata Cowrie",374
 111.205.6.222,"Suricata Cowrie",346
 189.240.117.236,"Suricata Cowrie",505
-185.220.101.3,"Suricata Heralding",10
+185.220.101.3,"Suricata Heralding",8
 106.12.55.129,"Suricata Cowrie",370
 195.133.81.69,"Suricata Cowrie",689
 23.148.145.53,"Suricata Honeytrap",3
@@ -341,7 +341,7 @@ ip,honeypot_type,count
 128.14.209.146,"Suricata Honeytrap",10
 118.25.4.17,"Suricata Cowrie",480
 182.245.173.6,"Suricata Honeytrap",2
-222.186.180.130,"Suricata Cowrie",65
+222.186.180.130,"Suricata Cowrie",60
 34.122.79.74,"Suricata Cowrie",166
 92.80.217.82,"Suricata Cowrie",675
 182.254.243.11,"Suricata Cowrie",366
@@ -350,31 +350,31 @@ ip,honeypot_type,count
 182.106.129.144,"Suricata Dionaea",35
 192.35.168.128,"Suricata Honeytrap",4
 87.251.70.129,"Suricata Honeytrap",79
-185.180.143.75,"Suricata Honeytrap",11
+185.180.143.75,"Suricata",2
 159.75.133.54,"Suricata Cowrie",504
 134.209.93.51,"Suricata Cowrie",511
 62.122.156.74,"Suricata Cowrie",548
 62.234.97.207,"Suricata Cowrie",370
 173.242.123.229,"Suricata Cowrie",422
 104.199.35.3,"Suricata Cowrie",368
-167.248.133.39,"Suricata Honeytrap Cowrie Dionaea",148
+167.248.133.39,"Suricata Honeytrap Cowrie Dionaea",144
 178.128.208.128,"Suricata Cowrie",499
 42.123.110.8,"Suricata Dionaea",7
 157.245.3.2,"Suricata Cowrie",40
-36.112.171.51,"Suricata Cowrie",72
+36.112.171.51,"Suricata Cowrie",35
 183.64.235.130,"Suricata Cowrie",6
 143.110.232.221,"Suricata Honeytrap",4
 142.93.155.221,"Suricata Honeytrap",4
 58.27.95.2,"Suricata Cowrie",414
 186.92.219.132,"Suricata Dionaea",9463
 167.99.115.184,"Suricata Honeytrap",6
-147.203.255.20,"Suricata",15
+147.203.255.20,"Suricata",16
 112.122.54.162,"Suricata Cowrie",367
 58.87.117.112,"Suricata Cowrie",368
-185.220.100.241,"Suricata Heralding Honeytrap",20
+185.220.100.241,"Suricata Heralding Honeytrap",19
 103.52.217.157,"Suricata",3
-91.132.147.168,"Suricata Heralding",6
-185.220.100.247,"Suricata Heralding",16
+91.132.147.168,"Suricata Heralding",4
+185.220.100.247,"Suricata Heralding",14
 94.180.57.15,"Suricata Cowrie",502
 27.147.235.138,"Suricata Cowrie",376
 165.22.184.212,"Suricata Cowrie",373
@@ -389,11 +389,11 @@ ip,honeypot_type,count
 120.77.38.66,"Suricata Honeytrap",3
 49.235.61.225,"Suricata Cowrie",676
 211.200.178.178,"Suricata Cowrie",501
-193.32.164.25,"Suricata Honeytrap",148
-165.227.97.6,"Suricata Honeytrap",4
-162.142.125.37,"Suricata Honeytrap",107
-221.181.185.220,"Suricata Cowrie",140
-221.181.185.159,"Suricata Cowrie",132
+193.32.164.25,"Suricata Honeytrap",145
+165.227.97.6,"Suricata Honeytrap",2
+162.142.125.37,"Suricata Honeytrap",104
+221.181.185.220,"Suricata Cowrie",152
+221.181.185.159,"Suricata Cowrie",150
 14.161.77.173,"Suricata Dionaea",38
 211.21.30.222,"Suricata Dionaea",7
 193.46.255.145,"Suricata",4
@@ -404,21 +404,21 @@ ip,honeypot_type,count
 84.54.179.207,"Suricata Cowrie",157
 107.179.33.13,"Suricata",7
 193.106.99.60,"Suricata Honeytrap Adbhoney",865
-109.201.133.100,"Suricata Heralding",6
+109.201.133.100,"Suricata Heralding",4
 192.241.130.21,"Suricata Honeytrap",4
 162.243.167.127,"Suricata Honeytrap",2
 185.220.101.11,"Suricata Heralding",3
 35.203.68.135,"Suricata Cowrie",368
-185.220.102.248,"Suricata Heralding Cowrie ssh-rsa",40
+185.220.102.248,"Suricata Heralding Cowrie ssh-rsa",33
 185.220.100.244,"Suricata Heralding",6
 185.100.87.251,"Suricata Heralding",2
-194.165.16.34,"Suricata Rdpy Honeytrap",251
+194.165.16.34,"Suricata Rdpy Honeytrap",86
 89.248.165.23,"Suricata Honeytrap",57
 161.35.126.97,"Suricata Honeytrap",6
 185.220.101.1,"Suricata Heralding",4
 209.141.55.103,"Suricata Cowrie",74
-185.220.101.193,"Suricata Honeytrap Heralding",13
-185.220.100.251,"Suricata Heralding",18
+185.220.101.193,"Suricata Honeytrap Heralding",11
+185.220.100.251,"Suricata Heralding",16
 42.192.17.155,"Suricata",6
 172.105.89.161,"Suricata Cowrie Honeytrap",15
 194.61.25.28,"Suricata Cowrie",54
@@ -432,10 +432,10 @@ ip,honeypot_type,count
 46.101.170.181,"Suricata Honeytrap",6
 192.168.32.2,"Suricata",2
 139.196.94.85,"Suricata Honeytrap",2
-178.62.70.96,"Suricata Honeytrap",2
+178.62.70.96,"Suricata Honeytrap",6
 23.95.4.194,"Suricata",3
-172.18.0.2,"Suricata",19
-74.120.14.55,"Suricata Honeytrap Rdpy Dionaea",108
+172.18.0.2,"Suricata",37
+74.120.14.55,"Suricata Honeytrap Rdpy Dionaea",118
 34.101.247.2,"Suricata",3
 192.35.168.16,"Suricata Honeytrap",6
 128.199.5.46,"Suricata Honeytrap",4
@@ -443,20 +443,20 @@ ip,honeypot_type,count
 192.35.168.144,"Suricata",2
 138.91.42.233,"Suricata Honeytrap",7
 71.6.135.131,"Suricata Honeytrap Tanner",60
-68.183.81.229,"Suricata Honeytrap",6
+68.183.81.229,"Suricata Honeytrap",4
 124.129.80.173,"Suricata",3
-101.132.252.199,"Suricata Honeytrap",3
+101.132.252.199,"Suricata Honeytrap",6
 178.69.16.130,"Suricata",2
 165.227.212.233,"Suricata Honeytrap",6
 99.35.124.46,"Suricata",1
 207.244.70.35,"Suricata Heralding",4
 193.118.55.146,"Suricata Honeytrap",19
-5.2.69.42,"Suricata Heralding Cowrie",23
+5.2.69.42,"Suricata Heralding",16
 144.126.212.60,"Suricata Honeytrap",4
 138.68.188.92,"Suricata Cowrie",4
 134.209.145.62,"Suricata Honeytrap",4
 47.115.91.207,"Suricata Honeytrap",5
-209.141.41.202,"Suricata Cowrie",40
+209.141.41.202,"Suricata Cowrie",85
 222.187.232.205,"Suricata Cowrie",72
 207.148.102.172,"Suricata",21
 159.203.78.63,"Suricata Honeytrap",2
@@ -465,19 +465,19 @@ ip,honeypot_type,count
 205.185.116.3,"Suricata Cowrie",243
 206.189.142.201,"Suricata",48
 128.14.134.134,"Suricata",3
-176.123.5.250,"Suricata Heralding",4
+176.123.5.250,"Suricata Heralding",2
 91.149.225.131,"Suricata Heralding",6
-192.160.102.168,"Suricata Heralding",12
-185.220.101.12,"Suricata Heralding",10
+192.160.102.168,"Suricata Heralding",14
+185.220.101.12,"Suricata Heralding",6
 51.75.52.127,"Suricata Honeytrap",23
 185.239.243.146,"Suricata Dionaea Honeytrap",6
-66.240.192.138,"Suricata Honeytrap Tanner",44
-91.241.19.189,"Suricata Honeytrap",113
+66.240.192.138,"Suricata Honeytrap Tanner",48
+91.241.19.189,"Suricata Honeytrap",136
 167.248.133.54,"Suricata Honeytrap Dionaea Cowrie",71
 95.141.35.15,"Suricata Heralding",2
-193.189.100.201,"Suricata Heralding",8
+193.189.100.201,"Suricata Heralding",6
 159.65.122.175,"Suricata",2
-81.6.43.167,"Suricata Heralding",3
+81.6.43.167,"Suricata Heralding",2
 192.42.116.18,"Suricata Heralding",4
 185.220.103.4,"Suricata Heralding",6
 198.96.155.3,"Suricata Heralding",4
@@ -485,14 +485,14 @@ ip,honeypot_type,count
 158.193.239.177,"Suricata Rdpy",4
 75.82.114.22,"Suricata Adbhoney",3
 51.68.202.104,"Suricata",5
-91.191.209.142,"Suricata Honeytrap",25
-185.247.224.14,"Suricata Heralding",34
+91.191.209.142,"Suricata Honeytrap",28
+185.247.224.14,"Suricata Heralding",28
 185.220.100.250,"Suricata Heralding",12
 173.255.237.30,"Suricata",6
 159.65.194.4,"Suricata Honeytrap",4
 68.183.3.135,"Suricata",1
 193.106.31.2,"Suricata Heralding",2
-171.25.193.20,"Suricata Heralding",16
+171.25.193.20,"Suricata Heralding",18
 156.38.136.194,"Suricata",1
 46.101.223.85,"Suricata Honeytrap",6
 209.141.61.26,"Suricata Cowrie",214
@@ -501,213 +501,87 @@ ip,honeypot_type,count
 185.165.190.34,"Suricata Mailoney Honeytrap",19
 222.186.30.112,"Suricata Cowrie",78
 46.174.191.28,"Suricata Honeytrap",4
-35.195.57.216,"Suricata Honeytrap Dionaea Tanner",39
+35.195.57.216,"Suricata Honeytrap Tanner Dionaea",39
 47.94.53.247,"Suricata Honeytrap",6
 142.93.153.18,"Suricata Honeytrap",4
 142.93.169.160,"Suricata Honeytrap",4
-74.120.14.37,"Suricata Honeytrap",139
-222.186.42.137,"Suricata Cowrie",71
+74.120.14.37,"Suricata Honeytrap",131
+222.186.42.137,"Suricata Cowrie",54
 159.65.2.210,"Suricata Honeytrap",4
 107.172.197.144,"Suricata Honeytrap",48
 2.56.8.66,"Suricata Dionaea",9
 51.89.1.61,"Suricata",5
 72.214.28.67,"Suricata Dionaea",18842
-80.82.77.227,"Suricata Dionaea Honeytrap",5
+80.82.77.227,"Suricata Dionaea",4
 197.51.236.207,"Suricata Dionaea",7
 45.95.147.58,"Suricata",4
 159.203.80.146,"Suricata Honeytrap",6
 193.46.255.140,"Suricata",2
-51.159.91.194,"Suricata",7
+51.159.91.194,"Suricata",8
 34.96.130.18,"Suricata",2
 130.61.134.151,"Suricata Cowrie",7
 120.25.121.72,"Suricata Honeytrap",9
 178.62.113.179,"Suricata Honeytrap",6
 1.180.72.21,"Suricata Cowrie",9
-74.82.47.4,"Suricata Honeytrap",5
+74.82.47.4,"Suricata Honeytrap",4
 185.92.244.83,"Suricata",5
 185.202.2.131,"Suricata Adbhoney Honeytrap Rdpy",29
 167.99.143.215,"Suricata",2
 162.247.74.200,"Suricata Heralding",2
 193.27.228.233,"Suricata Cowrie",62
-122.11.148.38,"Suricata Cowrie",267
-204.48.16.247,"Suricata Cowrie",57
-51.79.237.83,"Suricata",17
-138.197.149.97,"Suricata Cowrie",428
-114.67.110.126,"Suricata Cowrie",323
-154.211.12.211,"Suricata Cowrie",140
-164.90.149.253,"Suricata Honeytrap",2
-49.234.92.116,"Suricata Cowrie",182
-190.145.12.233,"Suricata Cowrie",139
 192.168.64.6,"Suricata",3
 124.192.225.40,"Suricata Tanner",3
-51.210.80.127,"Suricata Heralding",20
-46.59.65.88,"Suricata Heralding",20
-134.122.130.40,"Suricata Cowrie",52
-209.141.52.133,"Suricata Honeytrap",22
-168.227.109.203,"Suricata",1
-185.220.101.137,"Suricata Heralding Honeytrap",14
-201.217.159.155,"Suricata Cowrie",169
-167.248.133.37,"Suricata Honeytrap Dionaea",123
-183.136.225.14,"Suricata Cowrie Dionaea Honeytrap CitrixHoneypot",17
-162.142.125.54,"Suricata Honeytrap Cowrie Dionaea",94
-186.16.209.222,"Suricata Cowrie",201
-156.96.155.231,"Suricata",1
+51.210.80.127,"Suricata Heralding",16
+185.220.101.137,"Suricata Heralding Honeytrap",12
+167.248.133.37,"Suricata Honeytrap Dionaea Rdpy",122
+183.136.225.14,"Suricata Dionaea Honeytrap",5
 46.148.235.200,"Suricata Rdpy",2
 167.99.118.11,"Suricata Honeytrap",4
 45.33.84.94,"Suricata",6
 45.56.94.248,"Suricata",6
-94.102.49.190,"Suricata Honeytrap Heralding",10
+94.102.49.190,"Suricata Heralding Honeytrap",9
 149.202.78.148,"Suricata",5
-185.100.87.242,"Suricata Heralding",6
-138.197.122.201,"Suricata Honeytrap",6
-185.220.102.252,"Suricata Heralding",6
-171.25.193.78,"Suricata Heralding",24
-203.159.80.97,"Suricata Cowrie",156
-171.25.193.25,"Suricata Heralding Honeytrap",19
-192.241.197.222,"Suricata",1
-64.227.118.32,"Suricata Cowrie",247
+192.241.197.222,"Suricata Honeytrap",2
 78.78.136.188,"Suricata Honeytrap",5
-185.220.100.242,"Suricata Heralding Honeytrap",18
 139.59.108.255,"Suricata",3
-198.144.121.93,"Suricata Heralding",6
-188.166.154.232,"Suricata Cowrie",22
-185.220.102.250,"Suricata Heralding Cowrie",11
-185.117.118.15,"Suricata Heralding",2
-113.181.159.13,"Suricata Dionaea",11
-159.65.30.217,"Suricata Honeytrap",2
-185.220.100.254,"Suricata Heralding Honeytrap",26
-94.230.208.147,"Suricata Heralding",4
 185.220.103.9,"Suricata Heralding",6
-128.14.141.99,"Suricata Honeytrap",15
-74.120.14.38,"Suricata Tanner Honeytrap Mailoney Dionaea",172
-192.168.48.6,"Suricata",2
-54.36.232.23,"Suricata",13
-185.36.81.182,"Suricata Cowrie",147
-27.40.88.219,"Suricata Cowrie",37
-174.138.57.62,"Suricata Honeytrap",2
-64.62.197.92,"Suricata Cowrie Honeytrap Ciscoasa Dionaea",45
-173.0.59.58,"Suricata",4
-128.14.209.250,"Suricata",2
-164.90.149.108,"Suricata Honeytrap",2
-193.118.53.130,"Suricata Honeytrap",9
-185.220.101.129,"Suricata Heralding",5
-91.220.163.3,"Suricata Rdpy",6
-143.198.114.3,"Suricata Honeytrap",6
-170.106.81.25,"Suricata Honeytrap",4
-47.100.65.7,"Suricata Honeytrap",5
-222.186.30.76,"Suricata Cowrie",71
-87.251.75.145,"Suricata Honeytrap Rdpy",8
-193.118.53.138,"Suricata Honeytrap",8
-64.62.197.152,"Suricata Rdpy Honeytrap",6
-80.249.131.237,"Suricata Honeytrap",60
-165.227.212.135,"Suricata Honeytrap",2
-159.203.103.21,"Suricata Honeytrap",4
-51.161.19.225,"Suricata",11
-165.22.232.16,"Suricata",3
-185.220.100.253,"Suricata Heralding Honeytrap",20
-62.210.13.20,"Suricata",8
-165.227.40.232,"Suricata Honeytrap",4
-142.93.110.197,"Suricata Honeytrap",6
-54.37.245.232,"Suricata",6
-51.89.240.65,"Suricata",3
-185.180.143.143,"Suricata Honeytrap",21
-159.203.93.82,"Suricata Honeytrap",6
-5.199.143.202,"Suricata Heralding",8
-162.247.73.192,"Suricata Heralding",6
-185.191.124.152,"Suricata Heralding",10
-163.172.29.30,"Suricata",1
-94.142.241.194,"Suricata Heralding",4
-205.185.122.211,"Suricata Cowrie",12
-83.251.56.172,"Suricata Cowrie",13
-192.42.116.14,"Suricata Heralding",2
-195.151.33.44,"Suricata Honeytrap",2
-45.55.179.132,"Suricata Honeytrap",2
-159.203.9.223,"Suricata Honeytrap",6
-81.161.63.100,"Suricata Cowrie",145
-209.141.46.141,"Suricata Cowrie",7
-49.234.7.171,"Suricata Cowrie",7
-209.141.41.8,"Suricata Cowrie",13
-84.209.139.0,"Suricata",1
-128.31.0.13,"Suricata Heralding",37
-138.68.153.61,"Suricata",2
-193.46.255.133,"Suricata",20
-134.209.150.174,"Suricata Honeytrap",6
-148.70.241.143,"Suricata Cowrie",7
-188.129.179.187,"Suricata",1
-167.248.133.56,"Suricata Honeytrap Honeypy CitrixHoneypot",115
-46.101.48.234,"Suricata Honeytrap",6
-209.141.33.206,"Suricata Cowrie",250
-150.107.205.59,"Suricata Cowrie",7
-195.133.40.139,"Suricata Cowrie",29
-198.20.99.130,"Suricata Tanner",34
-91.241.19.98,"Suricata Honeytrap",92
-188.166.249.28,"Suricata Honeytrap",2
-178.62.37.29,"Suricata Honeytrap",6
-193.41.226.111,"Suricata",6
-69.3.233.226,"Suricata Cowrie",5
-60.205.221.184,"Suricata Honeytrap",6
-31.210.20.110,"Suricata Heralding",4
-165.227.79.202,"Suricata",2
-212.80.218.35,"Suricata Heralding",13376
-49.51.162.172,"Suricata",1
-198.144.120.234,"Suricata Heralding",8
-188.166.5.84,"Suricata Cowrie",147
-185.191.124.150,"Suricata Heralding",3
-111.56.37.46,"Suricata Honeytrap",2
-81.68.133.86,"Suricata Cowrie",641
-193.118.55.162,"Suricata Honeytrap",38
+128.14.141.99,"Suricata Honeytrap",10
+74.120.14.38,"Suricata Tanner Honeytrap Mailoney Dionaea",160
+185.36.81.182,"Suricata Cowrie",197
+173.0.59.58,"Suricata",3
+185.220.101.129,"Suricata Heralding",7
+81.68.133.86,"Suricata Cowrie",476
 116.18.228.21,"Suricata Dionaea",3
+193.118.55.162,"Suricata Honeytrap",29
 217.20.178.242,"Suricata Cowrie",7
 159.242.227.148,"Suricata Rdpy",12
 46.150.62.111,"Suricata Tanner",2
 159.65.247.179,"Suricata Honeytrap",2
-51.75.234.2,"Suricata",10
+91.241.19.98,"Suricata Honeytrap",81
 54.38.158.235,"Suricata",6
-163.172.168.251,"Suricata Honeytrap",4
 134.209.158.18,"Suricata Honeytrap",6
-150.109.23.183,"Suricata Honeytrap",6
+188.166.5.84,"Suricata Cowrie",53
+138.197.149.97,"Suricata Cowrie",71
 139.162.99.243,"Suricata",2
-58.72.8.186,"Suricata Cowrie",12
-139.224.75.159,"Suricata Honeytrap",3
-143.198.103.161,"Suricata Honeytrap",3
-180.76.37.181,"Suricata Cowrie",13
-145.239.205.113,"Suricata",12
-185.4.132.183,"Suricata Heralding",6
 128.14.209.154,"Suricata Honeytrap",9
-185.220.100.245,"Suricata Heralding",14
-185.142.239.16,"Suricata Honeytrap Cowrie",26
-209.126.8.29,"Suricata",1
-171.254.11.237,"Suricata Rdpy Cowrie",84
-185.220.102.242,"Suricata Heralding",12
-198.211.104.197,"Suricata Cowrie",7
-46.101.144.11,"Suricata Honeytrap",4
-45.129.136.21,"Suricata",42
 202.162.79.202,"Suricata CitrixHoneypot",11
 209.141.42.231,"Suricata",10
-104.217.248.170,"Suricata",4
-67.205.171.86,"Suricata Honeytrap",6
 139.177.185.215,"Suricata",37
 89.248.160.135,"Suricata CitrixHoneypot",3
+104.217.248.170,"Suricata",1
 139.59.175.143,"Suricata Honeytrap",6
 178.20.55.16,"Suricata Heralding",2
 185.107.47.215,"Suricata Heralding",6
 119.188.3.66,"Suricata Cowrie",6
 144.168.164.26,"Suricata Heralding",6
-185.220.102.246,"Suricata Heralding",10
-115.60.54.38,"Suricata Honeytrap",26
-51.81.34.149,"Suricata Heralding",14
+185.220.102.246,"Suricata Heralding",6
+51.81.34.149,"Suricata Heralding",8
 23.251.102.74,"Suricata Honeytrap Ciscoasa",5
-178.128.218.243,"Suricata Cowrie",7
-193.118.53.210,"Suricata CitrixHoneypot",2
 192.42.116.24,"Suricata Heralding",2
-185.220.100.246,"Suricata Heralding",12
 51.81.33.45,"Suricata",5
-159.89.40.191,"Suricata Honeytrap",4
-85.159.237.210,"Suricata Heralding",10
-208.87.3.105,"Suricata Honeytrap",22
-192.42.116.27,"Suricata Heralding",2
 52.249.182.43,"Suricata CitrixHoneypot Tanner",10
 185.191.124.143,"Suricata Heralding",8
+80.249.131.237,"Suricata Honeytrap",60
 117.50.6.160,"Suricata Honeytrap",24
 188.166.172.189,"Suricata",2
 103.232.55.193,"Suricata",3
@@ -716,63 +590,47 @@ ip,honeypot_type,count
 154.8.228.67,"Suricata Cowrie",3
 34.78.120.99,"Suricata Honeytrap",2
 111.230.221.203,"Suricata Cowrie",7
+62.210.13.20,"Suricata",8
 188.49.171.24,"Suricata Honeytrap",5
 128.199.119.219,"Suricata",6
-172.105.208.132,"Suricata Honeytrap",2
-207.154.210.24,"Suricata Honeytrap",4
-175.116.149.5,"Suricata Honeytrap Dionaea",8
-192.35.168.184,"Suricata",1
-74.213.175.110,"Suricata",10
-165.232.133.175,"Suricata Honeytrap",2
-159.203.2.182,"Suricata",2
-177.136.159.1,"Suricata Dionaea",3
 60.205.185.141,"Suricata Honeytrap",3
 178.62.237.221,"Suricata Cowrie",38
 212.64.1.106,"Suricata Cowrie",209
 37.252.187.140,"Suricata Cowrie",734
+74.213.175.110,"Suricata",10
 198.199.78.46,"Suricata Honeytrap",2
 52.87.169.41,"Suricata Honeytrap",5
-221.181.185.198,"Suricata Cowrie",98
-188.166.31.103,"Suricata Honeytrap",4
-74.120.14.17,"Suricata",1
+81.161.63.100,"Suricata Cowrie",112
 192.241.194.61,"Suricata Honeytrap",5
-13.82.108.223,"Suricata Rdpy",5
 64.227.26.221,"Suricata Honeytrap",4
-192.81.218.155,"Suricata Honeytrap",4
-185.220.102.249,"Suricata Heralding",14
-40.114.115.185,"Suricata Honeytrap Ciscoasa",20
-156.146.58.134,"Suricata Heralding",8
+167.248.133.56,"Suricata Honeytrap Honeypy CitrixHoneypot",112
+45.129.136.21,"Suricata",39
 174.138.30.87,"Suricata Honeytrap",2
-91.219.237.21,"Suricata Heralding",12
 125.64.94.138,"Suricata Honeytrap",26
-222.186.42.213,"Suricata Cowrie",48
-45.91.101.18,"Suricata Heralding",2
 51.77.213.174,"Suricata Cowrie",680
 180.215.129.67,"Suricata Cowrie",666
 64.227.105.232,"Suricata Honeytrap",6
 80.52.60.214,"Suricata Cowrie",675
 62.28.69.58,"Suricata Cowrie",616
-89.248.165.101,"Suricata Rdpy Honeytrap",10
+221.181.185.198,"Suricata Cowrie",73
 142.93.63.163,"Suricata Cowrie",227
 93.62.202.195,"Suricata Cowrie",765
-159.65.150.120,"Suricata",2
+185.180.143.143,"Suricata Honeytrap",17
 20.71.48.97,"Suricata Cowrie",728
 31.61.117.8,"Suricata Cowrie",334
 185.91.166.37,"Suricata Cowrie",775
-128.199.216.102,"Suricata Honeytrap",6
 68.183.84.180,"Suricata Honeytrap",6
 62.94.193.216,"Suricata Cowrie",827
-161.97.127.183,"Suricata Tanner",3
 51.91.123.119,"Suricata Cowrie",721
 5.94.160.121,"Suricata Cowrie",672
 219.153.103.46,"Suricata Cowrie",185
 172.105.98.26,"Suricata Honeytrap",46
 192.42.116.28,"Suricata Heralding",2
+171.25.193.25,"Suricata Heralding Honeytrap",21
 62.210.219.118,"Suricata Cowrie",671
 49.51.188.139,"Suricata Cowrie",689
+185.220.100.254,"Suricata Heralding Honeytrap",21
 195.114.8.222,"Suricata Cowrie",688
-192.35.168.160,"Suricata Honeytrap Dionaea",7
-37.221.65.237,"Suricata Honeytrap",3
 106.53.100.192,"Suricata Honeytrap",7
 67.205.160.204,"Suricata Honeytrap",4
 213.196.160.22,"Suricata Cowrie",5
@@ -781,89 +639,67 @@ ip,honeypot_type,count
 134.122.19.119,"Suricata Honeytrap",4
 194.88.143.66,"Suricata Heralding",2
 185.220.103.7,"Suricata Heralding",6
+209.141.52.133,"Suricata Honeytrap",22
 82.64.117.122,"Suricata Cowrie",730
-66.230.230.230,"Suricata Heralding",32
+66.230.230.230,"Suricata Heralding",26
 47.108.205.5,"Suricata Honeytrap",3
 121.196.103.6,"Suricata Honeytrap",8
 213.144.157.180,"Suricata Cowrie",406
+128.31.0.13,"Suricata Heralding",4
 198.199.66.47,"Suricata Honeytrap",6
 34.86.35.26,"Suricata Rdpy",16
-162.142.125.39,"Suricata Honeytrap",107
+162.142.125.39,"Suricata Honeytrap",101
 203.170.129.197,"Suricata Cowrie",368
+212.80.218.35,"Suricata Heralding",13368
 154.127.82.66,"Suricata Cowrie",203
 49.232.201.238,"Suricata Cowrie",11
 94.232.47.180,"Suricata Honeytrap",48
 128.14.209.234,"Suricata",4
 178.62.20.202,"Suricata Honeytrap",2
 210.211.124.15,"Suricata Cowrie",371
-185.100.87.243,"Suricata Heralding",4
+185.100.87.243,"Suricata Heralding",6
+185.4.132.183,"Suricata Heralding",4
 211.47.83.200,"Suricata Honeytrap",5
-194.48.199.78,"Suricata CitrixHoneypot Honeytrap",11
 192.241.211.143,"Suricata Honeytrap",3
-165.227.69.111,"Suricata Honeytrap",2
 3.92.78.9,"Suricata Honeytrap",3
-165.227.211.138,"Suricata Honeytrap",2
 84.189.78.129,"Suricata Cowrie",30
-167.99.187.133,"Suricata Honeytrap",3
-161.35.51.65,"Suricata Honeytrap",10
-45.93.201.129,"Suricata Honeytrap Cowrie",53
 188.166.238.42,"Suricata Honeytrap",4
-5.2.69.50,"Suricata Heralding Cowrie",17
-185.220.102.244,"Suricata Heralding",4
 182.121.152.10,"Suricata Honeytrap",3
 192.241.210.137,"Suricata Tanner",3
-143.110.227.85,"Suricata Honeytrap",4
-77.247.181.163,"Suricata Heralding",4
 192.241.202.97,"Suricata Tanner",5
 71.6.199.23,"Suricata Cowrie",17
-171.25.193.77,"Suricata Heralding",10
-106.15.126.214,"Suricata",1
 91.132.58.37,"Suricata",8
-174.138.14.108,"Suricata Honeytrap",4
-185.220.100.255,"Suricata Heralding Honeytrap",31
-185.153.196.72,"Suricata Honeytrap",319
-123.19.226.81,"Suricata Rdpy",6
-116.105.33.232,"Suricata Honeytrap",5
-185.220.101.130,"Suricata Heralding",10
-201.238.215.131,"Suricata Cowrie",7
-185.220.101.144,"Suricata Heralding",6
+174.138.14.108,"Suricata",2
+185.220.100.255,"Suricata Heralding",28
+193.46.255.133,"Suricata",20
 179.60.150.81,"Suricata Rdpy",7
-121.4.238.42,"Suricata Cowrie",7
 34.203.207.188,"Suricata",1
-139.162.102.46,"Suricata Honeytrap",22
-184.105.139.70,"Suricata Honeytrap Rdpy",7
+184.105.139.70,"Suricata Rdpy",6
 109.226.61.5,"Suricata Rdpy",6
+165.227.79.202,"Suricata",1
 212.129.152.41,"Suricata Honeytrap",12
-138.197.7.46,"Suricata Honeytrap",2
-103.233.58.99,"Suricata Cowrie",90
+103.233.58.99,"Suricata Cowrie",83
 62.117.124.212,"Suricata Tanner",2
-14.1.112.177,"Suricata",8
-166.70.207.2,"Suricata Heralding",4
-45.134.144.106,"Suricata",4
+14.1.112.177,"Suricata",2
 159.89.130.245,"Suricata Cowrie",7
-213.202.218.55,"Suricata Heralding",2
-27.115.124.37,"Suricata Dionaea Honeytrap",7
-98.101.100.92,"Suricata Dionaea",15
-27.115.124.75,"Suricata Honeytrap",3
-178.175.48.150,"Suricata",2
-193.31.24.154,"Suricata Heralding",4
 34.77.162.6,"Suricata Rdpy",15
 189.241.100.9,"Suricata Cowrie Honeytrap",59
-118.179.212.59,"Suricata",1
 142.93.212.216,"Suricata Honeytrap",6
 193.118.55.170,"Suricata Honeytrap",12
+13.82.108.223,"Suricata Rdpy",2
 188.166.88.10,"Suricata",2
-94.26.248.86,"Suricata Rdpy Honeytrap",19
+94.26.248.86,"Suricata Rdpy Honeytrap",25
 143.110.150.88,"Suricata",2
 159.203.69.236,"Suricata Honeytrap",2
 193.118.53.194,"Suricata CitrixHoneypot",5
 205.185.123.19,"Suricata Heralding",2
 68.83.113.99,"Suricata Honeytrap",2
+185.220.102.249,"Suricata Heralding",12
 87.251.67.40,"Suricata Honeytrap",151
 199.230.121.35,"Suricata Honeytrap",2
-104.248.18.219,"Suricata Honeytrap",2
+104.248.18.219,"Suricata Honeytrap",4
 47.185.247.88,"Suricata Honeytrap",2
-89.163.243.88,"Suricata Heralding",10
+89.163.243.88,"Suricata Heralding",12
 45.163.108.222,"Suricata Honeytrap",2
 64.227.14.214,"Suricata Honeytrap",8
 185.180.143.14,"Suricata",3
@@ -873,7 +709,8 @@ ip,honeypot_type,count
 46.101.174.183,"Suricata",2
 99.196.54.209,"Suricata Honeytrap",3
 24.193.181.94,"Suricata Honeytrap Dionaea",5
-45.142.152.240,"Suricata Honeytrap",5
+5.2.69.50,"Suricata Heralding Cowrie",15
+45.142.152.240,"Suricata Honeytrap",7
 54.147.193.79,"Suricata",4
 51.195.105.144,"Suricata",1
 67.58.9.110,"Suricata Honeytrap",2
@@ -882,17 +719,17 @@ ip,honeypot_type,count
 76.254.29.118,"Suricata Honeytrap",2
 195.206.105.217,"Suricata Heralding",4
 34.96.130.16,"Suricata Rdpy Cowrie",18
-138.68.181.217,"Suricata",2
+138.68.181.217,"Suricata Honeytrap",4
 198.251.84.74,"Suricata Heralding",2
-185.220.101.148,"Suricata Heralding",8
-178.165.72.177,"Suricata Heralding Honeytrap",14
-185.220.102.254,"Suricata Heralding",14
+185.220.101.148,"Suricata Heralding",6
+178.165.72.177,"Suricata Heralding",13
+185.220.102.254,"Suricata Heralding",12
 144.91.118.134,"Suricata",9
 45.125.65.112,"Suricata Heralding",2
 188.166.19.74,"Suricata Honeytrap",4
 185.220.102.253,"Suricata Heralding",6
-203.159.80.34,"Suricata Cowrie",16
-80.73.91.130,"Suricata Dionaea Honeytrap",8
+203.159.80.34,"Suricata Cowrie",29
+80.73.91.130,"Suricata Dionaea Honeytrap",5
 78.36.152.186,"Suricata Cowrie",686
 192.160.102.164,"Suricata Heralding",2
 185.220.100.248,"Suricata Heralding",4
@@ -903,7 +740,8 @@ ip,honeypot_type,count
 165.227.225.229,"Suricata Honeytrap",6
 185.220.101.143,"Suricata Heralding",8
 103.86.154.66,"Suricata Dionaea",15
-46.148.20.13,"Suricata Honeytrap",14
+46.148.20.13,"Suricata Honeytrap",17
+185.220.101.130,"Suricata Heralding",8
 139.162.77.133,"Suricata Honeytrap",4
 198.144.120.177,"Suricata Heralding",10
 205.185.113.76,"Suricata Cowrie",55
@@ -912,29 +750,31 @@ ip,honeypot_type,count
 143.198.170.147,"Suricata Honeytrap",4
 37.156.191.149,"Suricata Tanner",2
 209.127.17.242,"Suricata Heralding",8
+185.220.100.246,"Suricata Heralding",10
 1.56.84.146,"Suricata",1
 185.220.103.8,"Suricata Heralding",6
 46.19.141.84,"Suricata Heralding",2
 206.189.143.213,"Suricata Honeytrap",6
 182.148.113.6,"Suricata Cowrie",66
-37.49.229.219,"Suricata",3
+185.220.100.242,"Suricata Heralding",12
+37.49.229.219,"Suricata",5
+185.191.124.152,"Suricata Heralding",6
 159.89.41.239,"Suricata Honeytrap",2
 81.70.178.224,"Suricata Cowrie",471
 197.220.163.230,"Suricata Dionaea Honeytrap",4
-27.115.124.36,"Suricata Dionaea",4
-51.158.78.179,"Suricata Honeytrap",9
 80.81.232.131,"Suricata Cowrie",731
 140.143.230.85,"Suricata Cowrie",735
 45.133.1.92,"Suricata Cowrie",76
+167.99.187.133,"Suricata Honeytrap",2
 84.241.15.182,"Suricata Honeytrap",2
-216.218.206.66,"Suricata Honeytrap Dionaea",10
+216.218.206.66,"Suricata Honeytrap Dionaea",9
 198.98.58.189,"Suricata Cowrie",13
 185.53.90.20,"Suricata Honeytrap",8
 143.244.146.128,"Suricata Honeytrap",2
 31.210.20.48,"Suricata",6
 68.183.87.40,"Suricata",2
 165.227.149.49,"Suricata Honeytrap",3
-103.75.161.30,"Suricata Honeytrap",13
+103.75.161.30,"Suricata Honeytrap",15
 80.82.77.192,"Suricata CitrixHoneypot",4
 207.154.248.206,"Suricata Honeytrap",2
 81.68.253.14,"Suricata Cowrie",336
@@ -944,21 +784,22 @@ ip,honeypot_type,count
 159.89.181.252,"Suricata Honeytrap",6
 157.122.149.18,"Suricata Cowrie",486
 205.185.126.183,"Suricata Honeytrap",6
-74.120.14.40,"Suricata Honeytrap Dionaea",119
+74.120.14.40,"Suricata Honeytrap Dionaea",125
 177.125.60.23,"Suricata Honeytrap",3
 199.19.226.219,"Suricata Cowrie",276
 128.14.209.226,"Suricata",2
 170.187.230.245,"Suricata",4
 186.33.124.251,"Suricata",1
-188.166.81.161,"Suricata Honeytrap",4
+188.166.81.161,"Suricata Honeytrap",6
 129.204.202.109,"Suricata Cowrie",504
 45.134.144.107,"Suricata",16
 74.91.124.144,"Suricata",3
 182.184.61.32,"Suricata Dionaea",15
 184.73.31.126,"Suricata Honeytrap",3
 162.247.74.7,"Suricata Heralding Cowrie",11
-185.191.124.151,"Suricata Heralding",4
+185.191.124.151,"Suricata Heralding",5
 128.199.123.4,"Suricata Honeytrap",2
+46.59.65.88,"Suricata Heralding",14
 192.35.168.96,"Suricata Honeytrap",8
 185.220.101.136,"Suricata Heralding",4
 61.242.58.233,"Suricata",3
@@ -968,9 +809,11 @@ ip,honeypot_type,count
 91.206.15.118,"Suricata Honeytrap Rdpy",15
 206.189.38.237,"Suricata Cowrie",7
 194.61.54.121,"Suricata Rdpy",4
-124.133.230.74,"Suricata",7
+124.133.230.74,"Suricata",8
+156.146.58.134,"Suricata Heralding",6
 120.131.6.185,"Suricata Honeytrap",6
 159.89.185.40,"Suricata Honeytrap",6
+222.186.42.213,"Suricata Cowrie",42
 3.87.109.147,"Suricata",2
 103.43.144.43,"Suricata Tanner",72
 103.43.147.91,"Suricata Tanner",113
@@ -984,7 +827,7 @@ ip,honeypot_type,count
 144.126.220.12,"Suricata",2
 185.255.90.7,"Suricata Cowrie",114
 68.183.133.198,"Suricata Honeytrap",5
-172.105.103.83,"Suricata Rdpy",9
+172.105.103.83,"Suricata Rdpy Honeytrap",23
 222.112.220.12,"Suricata Cowrie",484
 222.218.219.216,"Suricata Honeytrap",28
 139.59.79.101,"Suricata Tanner",5
@@ -992,30 +835,34 @@ ip,honeypot_type,count
 114.141.54.106,"Suricata Mailoney",10
 143.198.237.1,"Suricata Honeytrap",4
 182.242.226.142,"Suricata Honeytrap",6
-45.129.56.200,"Suricata Honeytrap Heralding",37
+45.129.56.200,"Suricata Honeytrap Heralding",34
 198.23.140.70,"Suricata Cowrie",5
 138.197.181.210,"Suricata Honeytrap",4
 74.82.47.5,"Suricata Tanner Honeytrap Dionaea",11
 161.97.117.25,"Suricata",4
 34.207.134.110,"Suricata Dionaea",5
+123.19.226.81,"Suricata Rdpy",3
 162.216.19.69,"Suricata Honeytrap",98
 179.43.160.236,"Suricata Heralding",2
 138.197.129.208,"Suricata Honeytrap",2
-128.1.248.26,"Suricata Honeytrap CitrixHoneypot",4
+185.220.100.253,"Suricata Heralding Honeytrap",10
+128.1.248.26,"Suricata Honeytrap CitrixHoneypot Tanner",6
 85.224.71.160,"Suricata",1
 185.220.101.207,"Suricata Heralding",6
 185.220.101.211,"Suricata Heralding",4
 179.43.160.234,"Suricata Heralding",6
 185.12.45.117,"Suricata Heralding",2
-185.100.87.240,"Suricata Heralding",4
+185.100.87.240,"Suricata Heralding",6
 111.20.201.86,"Suricata Rdpy",4
 91.203.5.165,"Suricata Heralding",2
 144.172.118.4,"Suricata Heralding",2
 162.247.74.213,"Suricata Heralding",6
 185.220.103.111,"Suricata Heralding",4
 5.188.210.227,"Suricata Honeytrap",15
-185.220.102.245,"Suricata Heralding",4
-143.110.230.104,"Suricata Honeytrap",2
+185.220.102.245,"Suricata Heralding",6
+198.144.121.93,"Suricata Heralding",2
+143.110.230.104,"Suricata Honeytrap",4
+91.219.237.21,"Suricata Heralding",10
 159.89.175.32,"Suricata Honeytrap",4
 165.227.185.141,"Suricata Honeytrap",2
 49.7.234.50,"Suricata",1
@@ -1027,18 +874,19 @@ ip,honeypot_type,count
 172.67.223.216,"Suricata",7
 111.229.139.124,"Suricata Cowrie",7
 178.32.197.89,"Suricata Honeytrap Cowrie",6
-45.146.165.72,"Suricata Cowrie",21
+222.186.30.76,"Suricata Cowrie",60
+45.146.165.72,"Suricata Cowrie",33
 188.166.8.30,"Suricata Dionaea",5
-207.154.230.243,"Suricata Honeytrap",3
+207.154.230.243,"Suricata Honeytrap",7
 103.203.57.3,"Suricata Honeytrap",2
 106.15.5.243,"Suricata Honeytrap",3
 206.189.159.175,"Suricata Honeytrap",6
-180.97.219.66,"Suricata Honeytrap",6
+180.97.219.66,"Suricata Honeytrap",8
 43.255.154.24,"Suricata",3
 61.130.66.26,"Suricata",1
 139.59.12.204,"Suricata Honeytrap",2
-183.136.225.12,"Suricata Honeytrap Adbhoney Cowrie",54
-94.102.49.193,"Suricata Honeytrap",3
+183.136.225.12,"Suricata Honeytrap Adbhoney Cowrie",58
+94.102.49.193,"Suricata",2
 128.199.6.108,"Suricata Honeytrap",6
 68.183.80.52,"Suricata Honeytrap",6
 47.103.200.81,"Suricata Honeytrap",5
@@ -1053,24 +901,26 @@ ip,honeypot_type,count
 162.142.125.23,"Suricata",1
 138.68.187.27,"Suricata Honeytrap",4
 129.250.206.86,"Suricata",4
-46.166.139.111,"Suricata Heralding",10
+46.166.139.111,"Suricata Heralding",12
 193.107.216.48,"Suricata",5
 193.189.100.200,"Suricata Heralding",6
 45.144.225.186,"Suricata Honeytrap",10
 185.220.101.209,"Suricata Heralding",4
 27.43.111.81,"Suricata Tanner",3
-167.99.117.164,"Suricata Honeytrap",2
+167.99.117.164,"Suricata Honeytrap",4
 106.53.125.253,"Suricata Cowrie",3
-128.199.202.102,"Suricata",2
+128.199.202.102,"Suricata Honeytrap",4
 141.98.252.163,"Suricata Heralding",4
 167.99.246.135,"Suricata Honeytrap",4
 192.42.116.16,"Suricata Heralding",6
-5.8.10.202,"Suricata Honeytrap",28
+185.220.101.144,"Suricata Heralding",4
+5.8.10.202,"Suricata Honeytrap",34
 209.141.42.128,"Suricata Honeytrap",6
 177.93.209.127,"Suricata Dionaea",3
 37.120.221.106,"Suricata Cowrie",7
+58.72.8.186,"Suricata Cowrie",4
 61.163.148.29,"Suricata Honeytrap",4
-185.220.101.18,"Suricata Honeytrap Heralding",7
+185.220.101.18,"Suricata Heralding",4
 142.44.135.136,"Suricata Tanner",7
 185.220.101.199,"Suricata Heralding",8
 114.55.247.147,"Suricata Honeytrap",3
@@ -1085,37 +935,42 @@ ip,honeypot_type,count
 34.96.130.14,"Suricata Rdpy",15
 194.127.172.237,"Suricata",4
 139.59.78.160,"Suricata Honeytrap",4
-31.210.20.24,"Suricata Dionaea",9
+31.210.20.24,"Suricata Dionaea",12
 125.64.94.144,"Suricata Honeytrap",13
-185.220.100.243,"Suricata Heralding",14
+185.220.100.243,"Suricata Heralding",12
 103.50.215.208,"Suricata Honeytrap",2
-185.220.101.201,"Suricata Heralding",6
+185.220.101.201,"Suricata Heralding",4
 45.144.225.119,"Suricata Heralding",4
 124.248.237.2,"Suricata Honeytrap",3
 178.128.246.132,"Suricata Honeytrap",2
 23.90.160.138,"Suricata",2
-80.82.77.33,"Suricata Honeytrap Mailoney",42
+80.82.77.33,"Suricata Honeytrap Mailoney",49
+162.142.125.54,"Suricata Honeytrap Cowrie Dionaea",92
 143.198.163.75,"Suricata Honeytrap",2
 23.90.160.146,"Suricata",4
-78.128.91.5,"Suricata Rdpy",10
+78.128.91.5,"Suricata Rdpy",13
 123.146.136.99,"Suricata",1
 118.31.77.42,"Suricata Honeytrap",6
-89.163.154.91,"Suricata Heralding",8
+89.163.154.91,"Suricata Heralding",6
 185.220.101.218,"Suricata Heralding",6
 119.23.209.168,"Suricata Honeytrap",3
 74.120.14.24,"Suricata",1
-185.220.101.7,"Suricata Heralding",6
+185.220.101.7,"Suricata Heralding",8
+5.199.143.202,"Suricata Heralding",6
 27.128.114.161,"Suricata Honeytrap",3
 185.180.143.77,"Suricata Honeytrap",8
 149.56.185.154,"Suricata Honeytrap",4
 121.43.96.36,"Suricata Dionaea",7
+185.142.239.16,"Suricata Honeytrap Cowrie",21
 185.180.143.146,"Suricata",2
 167.61.27.14,"Suricata",2
 66.240.219.146,"Suricata Honeytrap",5
 39.104.72.10,"Suricata Honeytrap",5
+171.25.193.78,"Suricata Heralding",22
+171.25.193.77,"Suricata Heralding",14
 142.93.216.211,"Suricata Tanner",4
 185.220.101.205,"Suricata Heralding",10
-217.182.76.127,"Suricata Heralding",4
+217.182.76.127,"Suricata Heralding",2
 159.203.10.117,"Suricata",2
 185.205.224.10,"Suricata",6
 171.15.16.116,"Suricata Dionaea",4
@@ -1131,75 +986,48 @@ ip,honeypot_type,count
 222.132.113.174,"Suricata",2
 77.247.110.246,"Suricata Mailoney",8
 192.160.102.169,"Suricata Heralding",6
-89.163.252.230,"Suricata Heralding",7
-159.203.69.159,"Suricata",6
-193.189.100.194,"Suricata Heralding",2
+185.220.102.250,"Suricata Heralding",4
 46.101.138.39,"Suricata Honeytrap",2
 139.59.154.248,"Suricata Honeytrap",6
-89.163.252.12,"Suricata Heralding",4
 195.154.53.233,"Suricata",4
 192.241.134.17,"Suricata",2
-176.10.104.240,"Suricata Heralding",6
-68.183.80.7,"Suricata Honeytrap",4
 94.26.248.87,"Suricata Rdpy Honeytrap",12
 162.62.26.113,"Suricata Honeytrap",2
-47.100.178.1,"Suricata Honeytrap",3
-1.116.238.123,"Suricata Honeytrap",5
-134.122.32.199,"Suricata Honeytrap",3
-211.252.87.42,"Suricata Cowrie",7
 164.90.147.206,"Suricata Honeytrap",4
-46.101.14.185,"Suricata Honeytrap",4
-62.234.73.230,"Suricata Cowrie",7
-65.49.20.69,"Suricata Rdpy Honeytrap Cowrie",21
-81.161.63.103,"Suricata Cowrie",168
-45.155.205.95,"Suricata Honeytrap",4
-183.238.243.30,"Suricata Cowrie",7
-45.113.70.231,"Suricata Honeytrap",3
+81.161.63.103,"Suricata Cowrie",203
 213.87.132.24,"Suricata",3
-27.115.124.10,"Suricata Dionaea",4
-139.162.80.77,"Suricata",1
 193.32.126.160,"Suricata Heralding",4
-47.111.85.238,"Suricata Honeytrap",6
-185.213.155.169,"Suricata Heralding Cowrie",11
-162.247.74.217,"Suricata Heralding",2
-209.141.34.95,"Suricata Heralding",2
-103.159.224.130,"Suricata Honeytrap Cowrie",30
 131.153.18.79,"Suricata",2
-128.199.198.105,"Suricata Honeytrap",4
-109.74.21.48,"Suricata Tanner",4
 134.209.159.115,"Suricata Honeytrap",4
 135.148.32.170,"Suricata Heralding",10
-185.220.101.6,"Suricata Heralding",7
-128.199.221.125,"Suricata Honeytrap",2
+185.220.101.6,"Suricata Heralding",5
 199.195.251.84,"Suricata Heralding",4
-185.220.101.215,"Suricata Heralding Dionaea Honeytrap",13
+185.220.101.215,"Suricata Heralding Dionaea Honeytrap",11
 31.7.61.189,"Suricata Heralding",2
-139.59.8.10,"Suricata Honeytrap",18
-185.220.102.247,"Suricata Heralding",10
-46.101.19.9,"Suricata Honeytrap",4
-91.250.242.12,"Suricata Heralding",8
-159.65.30.227,"Suricata Honeytrap",2
-185.220.101.200,"Suricata Heralding",6
-185.220.101.14,"Suricata Heralding",10
-185.220.100.252,"Suricata Heralding",15
-134.209.164.184,"Suricata Honeytrap",2
+139.59.8.10,"Suricata Honeytrap",16
+185.220.102.247,"Suricata Heralding",8
+159.65.30.227,"Suricata Honeytrap",4
+40.114.115.185,"Suricata Honeytrap Ciscoasa",18
+134.209.164.184,"Suricata",1
 172.28.0.2,"Suricata",1
-178.128.246.130,"Suricata Honeytrap",4
+178.128.246.130,"Suricata",1
 46.16.225.49,"Suricata Honeytrap",2
 202.134.0.9,"Suricata Honeytrap",6
 84.255.249.179,"Suricata Cowrie",7
+178.62.37.29,"Suricata Honeytrap",4
 178.175.67.133,"Suricata",1
-165.227.65.11,"Suricata Honeytrap",2
+165.227.65.11,"Suricata Honeytrap",4
 101.132.113.119,"Suricata Honeytrap",3
 178.128.228.203,"Suricata",2
 92.81.222.217,"Suricata Cowrie",7
+203.159.80.97,"Suricata Cowrie",80
 193.37.255.114,"Suricata Honeytrap",13
 103.133.57.250,"Suricata Cowrie",7
 34.86.35.24,"Suricata Dionaea Cowrie",5
 51.161.119.88,"Suricata",12
 58.246.251.27,"Suricata Cowrie",7
 187.208.31.57,"Suricata",1
-184.105.247.194,"Suricata Tanner Dionaea Honeytrap",5
+184.105.247.194,"Suricata Tanner Dionaea Honeytrap",12
 113.59.224.77,"Suricata Dionaea",3
 34.86.35.3,"Suricata",2
 91.132.58.49,"Suricata",1
@@ -1238,7 +1066,7 @@ ip,honeypot_type,count
 107.189.10.42,"Suricata Heralding",4
 185.220.101.24,"Suricata Heralding",2
 81.17.16.149,"Suricata Heralding",2
-185.220.101.206,"Suricata Heralding",2
+185.220.101.206,"Suricata Heralding",3
 192.35.168.190,"Suricata",1
 45.79.71.197,"Suricata Honeytrap Rdpy",49
 192.241.202.249,"Suricata Dionaea",3
@@ -1248,9 +1076,10 @@ ip,honeypot_type,count
 209.141.57.70,"Suricata",3
 192.241.212.219,"Suricata Tanner",3
 46.101.33.13,"Suricata Honeytrap",2
+161.35.51.65,"Suricata Honeytrap",8
 193.118.53.196,"Suricata",1
 174.138.8.247,"Suricata Honeytrap",4
-78.108.177.53,"Suricata Honeytrap",6
+78.108.177.53,"Suricata Honeytrap",5
 217.168.231.254,"Suricata Honeytrap",2
 91.132.58.35,"Suricata",2
 157.90.107.223,"Suricata",1
@@ -1259,6 +1088,7 @@ ip,honeypot_type,count
 159.89.105.13,"Suricata Honeytrap",4
 5.104.110.89,"Suricata Heralding",4
 185.220.101.5,"Suricata Heralding Honeytrap",3
+185.100.87.242,"Suricata Heralding",4
 159.89.81.92,"Suricata Honeytrap",6
 36.90.171.114,"Suricata Honeytrap",2
 35.153.102.194,"Suricata",1
@@ -1267,9 +1097,11 @@ ip,honeypot_type,count
 66.240.205.34,"Suricata Honeytrap",4
 167.71.15.122,"Suricata Cowrie",12
 186.38.26.5,"Suricata Cowrie",7
+209.141.41.8,"Suricata Cowrie",7
 159.65.40.142,"Suricata Honeytrap",2
 121.5.220.163,"Suricata Cowrie",5
 142.93.217.159,"Suricata Honeytrap",4
+159.203.9.223,"Suricata Honeytrap",4
 46.227.68.106,"Suricata Heralding",4
 203.159.80.73,"Suricata Heralding Cowrie",11
 117.50.63.120,"Suricata Cowrie",7
@@ -1279,7 +1111,7 @@ ip,honeypot_type,count
 185.220.101.20,"Suricata Heralding",4
 119.23.214.55,"Suricata Honeytrap",3
 204.194.29.4,"Suricata Heralding",2
-159.203.0.110,"Suricata",2
+159.203.0.110,"Suricata Honeytrap",4
 46.19.141.85,"Suricata Heralding",4
 47.118.35.244,"Suricata Honeytrap",3
 185.153.199.107,"Suricata Honeytrap",36
@@ -1291,7 +1123,7 @@ ip,honeypot_type,count
 121.4.211.90,"Suricata Cowrie",5
 116.112.207.170,"Suricata",2
 213.149.5.223,"Suricata Honeytrap",2
-165.227.136.223,"Suricata Honeytrap",2
+165.227.136.223,"Suricata Honeytrap",4
 162.62.117.85,"Suricata Cowrie",7
 117.50.110.5,"Suricata Honeytrap",12
 103.253.146.115,"Suricata Honeytrap",4
@@ -1310,9 +1142,10 @@ ip,honeypot_type,count
 31.156.116.182,"Suricata Cowrie",13
 185.100.87.241,"Suricata Heralding",2
 117.50.99.165,"Suricata",2
+162.247.73.192,"Suricata Heralding",4
 141.239.148.100,"Suricata Heralding",2
 54.39.28.206,"Suricata",5
-71.6.158.166,"Suricata Honeytrap Rdpy",18
+71.6.158.166,"Suricata Honeytrap Rdpy",22
 178.128.250.22,"Suricata",2
 173.31.179.82,"Suricata Cowrie",13
 39.103.237.234,"Suricata Honeytrap",3
@@ -1323,7 +1156,7 @@ ip,honeypot_type,count
 134.209.145.126,"Suricata Honeytrap",2
 65.49.20.68,"Suricata Cowrie Honeytrap Honeypy",9
 45.55.96.77,"Suricata",2
-195.176.3.19,"Suricata Heralding",6
+195.176.3.19,"Suricata Heralding",4
 139.59.74.225,"Suricata",2
 23.106.253.151,"Suricata Tanner",9
 155.138.213.82,"Suricata",1
@@ -1334,7 +1167,9 @@ ip,honeypot_type,count
 176.58.105.46,"Suricata Honeytrap",14
 112.236.213.146,"Suricata",1
 68.183.84.43,"Suricata Honeytrap",2
-139.162.251.58,"Suricata Honeytrap",14
+139.162.251.58,"Suricata Honeytrap",20
+165.227.40.232,"Suricata Honeytrap",2
+85.159.237.210,"Suricata Heralding",10
 97.107.131.79,"Suricata Honeytrap",14
 41.205.83.6,"Suricata Dionaea",7
 188.166.237.47,"Suricata Honeytrap",4
@@ -1355,6 +1190,7 @@ ip,honeypot_type,count
 45.10.24.18,"Suricata",2
 188.166.190.82,"Suricata Honeytrap",2
 159.65.146.52,"Suricata Honeytrap",2
+185.191.124.150,"Suricata Heralding",2
 121.78.116.11,"Suricata Dionaea",3
 193.189.100.203,"Suricata Heralding",4
 185.204.1.186,"Suricata Ciscoasa",3
@@ -1375,33 +1211,29 @@ ip,honeypot_type,count
 185.220.101.138,"Suricata Heralding",4
 159.75.67.113,"Suricata",7
 87.245.138.242,"Suricata Dionaea",3
+109.74.21.48,"Suricata",1
 167.99.250.255,"Suricata Honeytrap",2
+185.220.100.252,"Suricata Heralding",14
 123.58.210.77,"Suricata Honeytrap",3
 49.51.252.116,"Suricata Honeytrap",3
 165.227.236.142,"Suricata Honeytrap",2
+68.183.80.7,"Suricata Honeytrap",2
 186.33.110.200,"Suricata Tanner",2
 172.22.0.2,"Suricata",1
-104.244.77.95,"Suricata Cowrie Heralding",9
-179.43.134.190,"Suricata",3
-178.62.221.54,"Suricata",2
 128.1.248.46,"Suricata",1
 128.1.248.45,"Suricata",1
 174.138.18.196,"Suricata Honeytrap",4
 185.181.102.18,"Suricata Cowrie",3
-193.189.100.206,"Suricata Heralding",2
-173.255.234.116,"Suricata",2
-211.140.118.18,"Suricata",1
+193.189.100.206,"Suricata Heralding",4
 188.166.157.58,"Suricata Honeytrap",4
-138.197.167.142,"Suricata Honeytrap",2
+138.197.167.142,"Suricata Honeytrap",4
 113.120.33.244,"Suricata Cowrie",7
-72.214.121.50,"Suricata",7
 103.203.57.10,"Suricata Tanner",2
 193.118.53.195,"Suricata",1
-128.199.130.153,"Suricata Honeytrap",2
 46.101.83.32,"Suricata",4
 39.129.165.93,"Suricata Rdpy",2
-209.141.61.129,"Suricata Honeytrap CitrixHoneypot",8
 121.5.69.65,"Suricata Cowrie",7
+134.209.150.174,"Suricata Honeytrap",4
 47.102.154.125,"Suricata Honeytrap",5
 185.180.143.12,"Suricata",4
 192.241.207.146,"Suricata",2
@@ -1410,6 +1242,8 @@ ip,honeypot_type,count
 120.224.55.8,"Suricata Dionaea",3
 128.199.76.224,"Suricata Honeytrap",2
 174.138.50.82,"Suricata Honeytrap",2
+185.220.102.244,"Suricata Heralding",4
+166.70.207.2,"Suricata Heralding",2
 140.143.233.29,"Suricata Cowrie",7
 142.93.153.83,"Suricata Honeytrap",2
 152.136.152.45,"Suricata Cowrie",7
@@ -1431,14 +1265,16 @@ ip,honeypot_type,count
 101.32.189.31,"Suricata Cowrie",510
 47.254.239.174,"Suricata Cowrie",538
 159.65.202.234,"Suricata Honeytrap",2
-195.54.161.80,"Suricata",154
+195.54.161.80,"Suricata",187
+60.205.221.184,"Suricata Honeytrap",3
 209.141.49.18,"Suricata Cowrie",32
+208.87.3.105,"Suricata Honeytrap",14
 143.244.158.43,"Suricata",1
-71.6.167.142,"Suricata Honeytrap",4
+71.6.167.142,"Suricata Honeytrap",5
 120.86.144.191,"Suricata Cowrie",34
 149.129.136.55,"Suricata Cowrie",691
 192.241.212.136,"Suricata",1
-93.188.166.30,"Suricata Cowrie",7
+93.188.166.30,"Suricata Cowrie",14
 185.26.168.46,"Suricata Dionaea",15
 178.128.217.58,"Suricata Cowrie",361
 184.105.139.67,"Suricata Dionaea",8
@@ -1455,11 +1291,11 @@ ip,honeypot_type,count
 58.87.76.77,"Suricata Cowrie",667
 103.24.75.7,"Suricata Honeytrap",768
 119.194.242.212,"Suricata Cowrie",365
-92.118.36.7,"Suricata Cowrie",2031
+92.118.36.7,"Suricata Cowrie",2985
 128.199.253.108,"Suricata Cowrie",697
 52.144.89.31,"Suricata Cowrie",260
 182.61.15.158,"Suricata Cowrie",412
-92.118.36.4,"Suricata Cowrie",2821
+92.118.36.4,"Suricata Cowrie",2922
 117.251.80.109,"Suricata Cowrie",480
 114.36.201.195,"Suricata",3
 207.154.234.167,"Suricata",21
@@ -1472,6 +1308,7 @@ ip,honeypot_type,count
 52.130.195.227,"Suricata Cowrie",696
 124.156.153.16,"Suricata Cowrie",7
 143.244.158.21,"Suricata Honeytrap",2
+143.110.227.85,"Suricata Honeytrap",2
 180.151.63.66,"Suricata Cowrie",14
 38.72.132.227,"Suricata Cowrie",680
 167.99.142.19,"Suricata Honeytrap",2
@@ -1480,14 +1317,14 @@ ip,honeypot_type,count
 103.73.182.54,"Suricata",1
 45.55.219.226,"Suricata Cowrie",369
 199.19.226.253,"Suricata Cowrie",13
-78.128.112.14,"Suricata Honeytrap",108
+78.128.112.14,"Suricata Honeytrap",149
 192.168.48.2,"Suricata",1
 39.59.24.133,"Suricata Cowrie Honeytrap",72
 14.191.36.28,"Suricata Dionaea",81
 34.77.162.33,"Suricata",1
 23.95.191.195,"Suricata CitrixHoneypot",3
 167.99.88.37,"Suricata Cowrie",368
-45.148.10.50,"Suricata Honeytrap",20
+45.148.10.50,"Suricata Honeytrap",12
 54.39.209.239,"Suricata",4
 167.71.58.244,"Suricata Cowrie",369
 154.223.167.114,"Suricata Cowrie",34
@@ -1499,6 +1336,7 @@ ip,honeypot_type,count
 23.154.177.69,"Suricata Heralding",2
 188.68.45.180,"Suricata Heralding",2
 163.172.213.212,"Suricata Heralding",4
+173.255.234.116,"Suricata",1
 104.217.248.222,"Suricata",3
 103.88.232.66,"Suricata Dionaea",13
 113.184.89.14,"Suricata Dionaea",9009
@@ -1511,8 +1349,9 @@ ip,honeypot_type,count
 171.225.242.93,"Suricata Cowrie",72
 54.221.22.229,"Suricata CitrixHoneypot",316
 49.234.230.230,"Suricata Cowrie",723
+185.220.100.245,"Suricata Heralding",10
 171.225.254.165,"Suricata Dionaea",9648
-185.220.101.134,"Suricata Heralding",4
+185.220.101.134,"Suricata Heralding",6
 165.232.148.209,"Suricata Honeytrap",4
 159.65.158.40,"Suricata Honeytrap",2
 200.77.147.78,"Suricata Honeytrap",2
@@ -1529,6 +1368,7 @@ ip,honeypot_type,count
 116.98.164.226,"Suricata Cowrie",79
 113.28.243.105,"Suricata Cowrie",369
 192.241.210.22,"Suricata Honeytrap",3
+45.155.205.95,"Suricata Honeytrap",2
 188.166.42.108,"Suricata Honeytrap",2
 140.206.242.34,"Suricata Cowrie",495
 104.244.72.115,"Suricata Heralding",6
@@ -1546,8 +1386,9 @@ ip,honeypot_type,count
 182.52.103.135,"Suricata Cowrie",712
 51.81.185.10,"Suricata",5
 185.165.168.77,"Suricata Heralding",2
-60.191.125.35,"Suricata Honeytrap",10
+60.191.125.35,"Suricata Honeytrap",11
 159.89.157.254,"Suricata",1
+31.210.20.110,"Suricata Heralding",2
 71.6.232.6,"Suricata",4
 192.241.206.16,"Suricata Honeytrap",3
 23.154.177.132,"Suricata Heralding",4
@@ -1567,10 +1408,11 @@ ip,honeypot_type,count
 62.192.153.178,"Suricata",3
 89.163.252.30,"Suricata Heralding",2
 104.244.73.13,"Suricata Heralding Cowrie",9
+185.220.102.242,"Suricata Heralding",8
 172.105.9.34,"Suricata Honeytrap",46
 67.205.150.186,"Suricata",2
 71.6.146.185,"Suricata Honeytrap",5
-31.210.21.172,"Suricata Cowrie",143
+31.210.21.172,"Suricata Cowrie",219
 59.94.181.175,"Suricata",1
 192.187.111.130,"Suricata Heralding",4
 195.176.3.23,"Suricata Heralding",4
@@ -1587,23 +1429,28 @@ ip,honeypot_type,count
 8.136.6.74,"Suricata Honeytrap",3
 178.175.131.194,"Suricata Heralding",2
 62.171.137.169,"Suricata Heralding",2
+176.10.104.240,"Suricata Heralding",4
 46.167.244.6,"Suricata Heralding",2
 142.44.236.4,"Suricata",4
 185.104.120.20,"Suricata Heralding",2
 77.237.68.65,"Suricata",1
 159.65.67.10,"Suricata",6
+65.49.20.69,"Suricata Honeytrap Cowrie Rdpy",21
 45.146.165.81,"Suricata",19
 172.105.117.26,"Suricata Honeytrap",46
 192.241.210.129,"Suricata Honeytrap",3
-185.107.47.171,"Suricata Heralding",6
+159.89.40.191,"Suricata Honeytrap",2
+185.107.47.171,"Suricata Heralding",8
 181.94.203.20,"Suricata",1
 185.220.102.243,"Suricata Heralding",6
 176.58.89.182,"Suricata Heralding",2
+185.220.101.200,"Suricata Heralding",4
 120.78.159.34,"Suricata Honeytrap",5
 150.109.170.124,"Suricata",1
 91.196.148.56,"Suricata",2
 151.252.105.131,"Suricata Cowrie",26
 103.78.13.9,"Suricata Tanner",2
+72.214.121.50,"Suricata",6
 173.231.104.79,"Suricata Dionaea Honeytrap",5
 167.172.36.114,"Suricata",3
 58.249.83.1,"Suricata Cowrie",28
@@ -1619,18 +1466,20 @@ ip,honeypot_type,count
 51.79.250.110,"Suricata",5
 172.105.67.207,"Suricata Honeytrap",46
 93.177.185.159,"Suricata Adbhoney",9
+185.153.196.72,"Suricata Honeytrap",319
 78.0.124.84,"Suricata Cowrie",377
-78.128.112.18,"Suricata Honeytrap",120
+78.128.112.18,"Suricata Honeytrap",173
 202.153.37.194,"Suricata Cowrie",368
 179.225.152.22,"Suricata Cowrie",686
 163.172.159.134,"Suricata Honeytrap",4
 167.172.40.202,"Suricata",1
 210.206.92.137,"Suricata Cowrie",682
-185.220.101.142,"Suricata Heralding Honeytrap",5
+185.220.101.142,"Suricata Heralding Honeytrap",9
 23.236.146.180,"Suricata Heralding",4
-159.89.47.10,"Suricata",2
+159.89.47.10,"Suricata Honeytrap",4
 51.255.106.85,"Suricata Heralding",4
 34.248.56.138,"Suricata Tanner",3
+77.247.181.163,"Suricata Heralding",4
 179.43.160.235,"Suricata Heralding",2
 139.224.238.183,"Suricata Honeytrap",6
 165.227.226.85,"Suricata Honeytrap",6
@@ -1639,11 +1488,13 @@ ip,honeypot_type,count
 79.174.191.1,"Suricata Cowrie",510
 167.71.170.71,"Suricata Cowrie",369
 129.226.113.50,"Suricata Cowrie",362
+89.163.252.12,"Suricata Heralding",2
 138.197.15.40,"Suricata Cowrie",491
 128.199.231.162,"Suricata Honeytrap",4
-61.51.111.187,"Suricata Cowrie",639
+61.51.111.187,"Suricata Cowrie",691
 159.203.7.188,"Suricata Honeytrap",2
 74.120.14.19,"Suricata",1
+207.154.210.24,"Suricata",2
 192.3.26.101,"Suricata Cowrie",5
 49.232.70.232,"Suricata Honeytrap",2
 182.252.132.178,"Suricata Dionaea",7
@@ -1658,6 +1509,7 @@ ip,honeypot_type,count
 41.39.105.69,"Suricata Dionaea",3
 199.19.225.131,"Suricata Cowrie",54
 183.134.73.32,"Suricata Cowrie",7
+188.166.31.103,"Suricata Honeytrap",2
 178.62.79.145,"Suricata",2
 139.59.65.169,"Suricata Honeytrap",2
 191.217.16.249,"Suricata Cowrie",412
@@ -1670,7 +1522,7 @@ ip,honeypot_type,count
 114.38.208.133,"Suricata Honeytrap",2
 180.246.10.113,"Suricata Tanner",2
 64.227.27.154,"Suricata Honeytrap",2
-80.82.77.139,"Suricata Honeytrap Dionaea",14
+80.82.77.139,"Suricata Honeytrap Dionaea",15
 185.51.38.63,"Suricata Dionaea",9464
 45.119.141.46,"Suricata Dionaea",9396
 143.110.156.33,"Suricata Honeytrap",4
@@ -1688,11 +1540,11 @@ ip,honeypot_type,count
 105.112.97.85,"Suricata Dionaea",15
 139.59.113.106,"Suricata Cowrie",478
 203.206.205.179,"Suricata Cowrie",372
-192.42.116.26,"Suricata Heralding",2
+192.42.116.26,"Suricata Heralding",4
 165.22.223.110,"Suricata CitrixHoneypot",3
 173.255.215.198,"Suricata Dionaea Honeytrap",93
 80.249.131.115,"Suricata Honeytrap Adbhoney Rdpy",18
-192.241.209.35,"Suricata CitrixHoneypot",2
+192.241.209.35,"Suricata CitrixHoneypot Honeytrap",3
 86.25.65.156,"Suricata Honeytrap",2
 121.121.78.235,"Suricata Dionaea",2
 116.62.120.196,"Suricata Honeytrap",5
@@ -1700,9 +1552,10 @@ ip,honeypot_type,count
 45.79.75.81,"Suricata Honeytrap",88
 59.146.111.101,"Suricata",3
 103.89.91.156,"Suricata Rdpy",5
-49.248.77.234,"Suricata Cowrie",422
-165.22.61.82,"Suricata Cowrie",502
-209.141.45.189,"Suricata Honeytrap",2
+49.248.77.234,"Suricata Cowrie",691
+165.22.61.82,"Suricata Cowrie",561
+209.141.45.189,"Suricata",1
+51.158.78.179,"Suricata Honeytrap",8
 159.89.122.32,"Suricata Honeytrap",2
 206.189.13.156,"Suricata Honeytrap",4
 188.166.4.67,"Suricata Honeytrap",2
@@ -1750,6 +1603,7 @@ ip,honeypot_type,count
 192.241.210.106,"Suricata Honeytrap",5
 138.197.173.150,"Suricata Honeytrap",46
 157.230.212.167,"Suricata Honeytrap",46
+67.205.171.86,"Suricata Honeytrap",4
 159.89.29.17,"Suricata Cowrie",7
 192.241.195.95,"Suricata Honeytrap",6
 64.150.254.48,"Suricata",36
@@ -1757,42 +1611,45 @@ ip,honeypot_type,count
 24.123.207.246,"Adbhoney",2
 207.248.118.29,"Honeytrap",2811
 221.15.217.205,"Suricata",1
-193.142.59.231,"Mailoney",28
+193.142.59.231,"Mailoney",24
 198.12.81.99,"Cowrie Honeypy",323
 139.162.130.39,"Suricata",6
 93.46.60.53,"Suricata Honeytrap",2
 82.35.28.213,"Suricata Honeytrap Dionaea",3
 81.130.131.90,"Suricata Honeytrap",2
-45.137.104.231,"Suricata Honeytrap",6
+45.137.104.231,"Suricata Honeytrap",9
 173.208.211.202,"Rdpy",6
 185.217.162.198,"Suricata Honeytrap",2
 89.248.168.51,"Honeytrap",5
 5.63.151.111,"Suricata",1
 204.12.234.82,"Rdpy",6
 69.30.225.114,"Rdpy",6
-98.173.202.194,"Rdpy",20
+165.22.232.16,"Suricata",2
+98.173.202.194,"Rdpy",19
 171.44.245.145,"Suricata",1
 194.147.78.217,"Suricata Dionaea",7
 68.183.91.190,"Suricata Honeytrap",4
-136.232.32.38,"Honeytrap",2
+136.232.32.38,"Honeytrap",1
 14.225.3.182,"Suricata Honeytrap",4
-45.144.225.214,"Suricata Mailoney",8
-142.93.152.151,"Suricata Honeytrap",4
+45.144.225.214,"Suricata Mailoney",16
+142.93.152.151,"Suricata Honeytrap",6
+185.213.155.169,"Suricata Heralding Cowrie",9
 192.241.206.224,"Honeytrap",1
 54.198.138.211,"Suricata Honeytrap",2
 142.11.195.239,"Suricata Mailoney",7
 ,"Dionaea",5147
-182.180.128.132,"Suricata Cowrie",468
+182.180.128.132,"Suricata Cowrie",695
 113.254.230.8,"Honeytrap",1
-2.55.79.57,"Rdpy",73
+2.55.79.57,"Rdpy",65
 165.232.152.130,"Suricata Honeypy Honeytrap",6
 195.94.234.83,"Rdpy",402
 87.251.67.120,"Rdpy",166
 113.207.12.66,"Suricata Honeytrap",6
 81.167.244.222,"Suricata Dionaea",3
+205.185.122.211,"Suricata Cowrie",6
 178.79.169.92,"Suricata Dionaea",46
 84.33.109.107,"Suricata Cowrie",30
-159.65.133.150,"Suricata Cowrie",496
+159.65.133.150,"Suricata Cowrie",560
 46.148.133.211,"Suricata Honeytrap",2
 139.196.92.99,"Suricata",5
 161.35.229.251,"Suricata Cowrie",7
@@ -1805,7 +1662,10 @@ ip,honeypot_type,count
 212.184.191.100,"Suricata Dionaea",6
 45.79.182.113,"Suricata Honeytrap",2
 192.35.168.80,"Suricata CitrixHoneypot",2
-148.63.215.173,"Suricata Cowrie",432
+46.101.48.234,"Suricata Honeytrap",2
+171.254.11.237,"Rdpy",80
+148.63.215.173,"Suricata Cowrie",686
+185.220.102.252,"Suricata Heralding",2
 162.247.72.199,"Suricata Heralding",4
 176.254.225.221,"Honeypy",1
 173.208.164.250,"Rdpy",6
@@ -1813,24 +1673,24 @@ ip,honeypot_type,count
 178.17.171.102,"Suricata Heralding",2
 192.241.207.214,"Honeytrap",2
 220.132.224.232,"Rdpy",20
-157.245.255.226,"Honeytrap",3
+157.245.255.226,"Honeytrap",2
 122.117.150.72,"Suricata",1
 119.204.21.125,"Suricata",1
 69.197.161.210,"Rdpy",6
 14.169.241.214,"Suricata Honeytrap Cowrie",667
-192.35.168.32,"Suricata Honeytrap Dionaea",11
-46.101.160.136,"Suricata Honeytrap",7
-118.69.196.114,"Rdpy",87
+192.35.168.32,"Suricata Honeytrap Dionaea",14
+46.101.160.136,"Suricata Honeytrap",10
+118.69.196.114,"Rdpy",86
 141.212.123.205,"Suricata",1
 14.185.230.220,"Suricata Cowrie Honeytrap",30
 116.24.64.104,"Dionaea",12
 212.47.244.68,"Suricata Honeytrap",13
-183.98.103.96,"Rdpy",158
+183.98.103.96,"Rdpy",156
 74.207.242.56,"Suricata Honeytrap",90
 5.189.142.27,"Suricata Dionaea",3
 192.241.199.91,"Honeytrap",2
 165.227.149.227,"Suricata Honeytrap",4
-27.115.124.74,"Dionaea Honeytrap",7
+27.115.124.74,"Dionaea",6
 104.244.72.168,"Heralding Suricata",4
 45.83.65.134,"Suricata",1
 45.55.53.202,"Suricata Honeytrap",2
@@ -1842,29 +1702,30 @@ ip,honeypot_type,count
 103.68.3.178,"Suricata Dionaea",1884
 125.64.94.136,"Suricata Honeytrap Ciscoasa",72
 162.142.125.121,"Suricata Honeytrap",9
-91.144.20.198,"Suricata Cowrie",484
+91.144.20.198,"Suricata Cowrie",496
 90.84.181.6,"Rdpy",1
-134.122.126.108,"Suricata Cowrie",379
+134.122.126.108,"Suricata Cowrie",500
 178.62.223.175,"Suricata Honeytrap",2
-122.226.223.195,"Rdpy",61
+122.226.223.195,"Rdpy",52
 3.85.78.163,"Suricata Honeytrap",2
-185.40.194.197,"Suricata",66
+159.203.69.159,"Suricata",4
+185.40.194.197,"Suricata",95
 110.13.192.31,"Adbhoney",2
 93.174.93.133,"Suricata Heralding",2
 185.220.101.213,"Suricata",5
 143.110.208.55,"Suricata Honeytrap",4
 51.159.94.134,"Suricata Heralding",4
-93.148.244.185,"Rdpy",32
+93.148.244.185,"Rdpy",30
 161.35.217.130,"Honeytrap",1
 43.128.58.246,"Suricata Tanner",8
 195.64.183.250,"Suricata Dionaea",15
 185.233.252.147,"Suricata Heralding",2
-116.255.227.205,"Rdpy",102
+116.255.227.205,"Rdpy",114
 185.117.215.9,"Suricata Heralding",4
 212.71.234.238,"Suricata Honeytrap",46
 103.225.189.24,"Suricata",3
 192.241.200.117,"Suricata Honeytrap",3
-194.61.54.112,"Rdpy",168
+194.61.54.112,"Rdpy",162
 192.241.203.119,"Suricata Honeytrap",5
 185.65.205.10,"Suricata Heralding",4
 104.149.148.174,"Rdpy",2
@@ -1875,6 +1736,7 @@ ip,honeypot_type,count
 159.203.28.167,"Honeytrap",1
 143.110.146.148,"Suricata",2
 143.198.167.43,"Suricata",2
+159.203.103.21,"Suricata",2
 42.234.158.117,"Cowrie",30
 195.144.21.56,"Suricata",2
 182.117.25.160,"Cowrie",28
@@ -1900,13 +1762,14 @@ ip,honeypot_type,count
 192.241.212.156,"Suricata CitrixHoneypot",2
 45.33.52.84,"Suricata",6
 46.101.254.171,"Suricata Honeytrap",2
+192.81.218.155,"Suricata Honeytrap",2
 209.141.32.149,"Suricata",2
 167.99.211.160,"Suricata Honeytrap",46
 172.105.13.75,"Suricata Honeytrap",14
 120.79.65.100,"Suricata Honeytrap",6
 192.95.9.29,"Suricata",10
 185.220.100.249,"Suricata Heralding",2
-13.70.27.231,"Suricata Cowrie",268
+13.70.27.231,"Suricata Cowrie",509
 165.232.150.253,"Suricata Dionaea",2
 139.59.180.92,"Suricata Honeytrap",4
 201.217.143.51,"Suricata Cowrie",256
@@ -1926,38 +1789,40 @@ ip,honeypot_type,count
 178.32.197.91,"Suricata",1
 159.89.187.108,"Suricata Honeytrap",4
 161.117.236.224,"Suricata",1
-106.75.141.160,"Suricata Cowrie",398
+106.75.141.160,"Suricata Cowrie",499
 139.0.28.58,"Suricata Dionaea Honeytrap",10
 165.22.234.248,"Suricata Cowrie",368
 192.42.116.20,"Suricata Heralding",2
 39.129.25.250,"Suricata Honeytrap",6
 36.26.94.54,"Honeytrap",2
-23.97.240.235,"Suricata Cowrie",381
+23.97.240.235,"Suricata Cowrie",685
 104.244.77.122,"Suricata Heralding",4
 111.68.101.236,"Suricata Dionaea",11
+104.244.77.95,"Suricata Heralding",2
 47.94.142.41,"Suricata Honeytrap",3
 51.79.72.176,"Suricata Heralding",2
-116.228.53.227,"Suricata Cowrie",510
+116.228.53.227,"Suricata Cowrie",703
 45.79.106.170,"Suricata",5
 184.105.247.196,"Suricata CitrixHoneypot Honeytrap",3
 162.247.74.27,"Suricata Heralding",2
 62.102.148.69,"Suricata Heralding",4
 122.51.207.5,"Suricata Honeytrap",3
+185.220.101.14,"Suricata Heralding",8
 157.230.111.18,"Suricata Honeytrap",30
-194.26.29.28,"Honeytrap Suricata",10
-91.241.19.114,"Suricata Honeytrap",11
+194.26.29.28,"Honeytrap Suricata",8
+91.241.19.114,"Suricata Honeytrap",13
 144.86.19.184,"Suricata",8
-192.210.214.209,"Suricata Rdpy",12
+192.210.214.209,"Suricata Rdpy",16
 218.65.30.61,"Suricata Cowrie",25
-41.67.48.71,"Suricata Cowrie",366
+41.67.48.71,"Suricata Cowrie",681
 167.172.137.148,"Suricata Honeytrap",4
 87.251.70.17,"Suricata",8
-107.161.182.82,"Suricata Cowrie",313
+107.161.182.82,"Suricata Cowrie",501
 150.109.182.55,"Suricata",1
 85.105.52.152,"Suricata Honeytrap",5
 45.79.151.240,"Suricata Honeytrap",46
-189.89.221.119,"Suricata Cowrie",249
-67.205.138.210,"Suricata Honeytrap",2
+189.89.221.119,"Suricata Cowrie",446
+67.205.138.210,"Suricata Honeytrap",4
 138.68.77.134,"Suricata Honeytrap",2
 128.199.7.44,"Suricata Honeytrap",11
 178.62.228.199,"Suricata Honeytrap",2
@@ -1966,7 +1831,7 @@ ip,honeypot_type,count
 143.110.237.28,"Suricata Honeytrap",4
 194.34.133.24,"Honeytrap",3
 75.127.6.19,"Cowrie",2
-206.189.85.240,"Suricata",2
+206.189.85.240,"Suricata",3
 159.65.17.190,"Suricata Honeytrap",2
 185.220.101.203,"Suricata Heralding",2
 52.159.173.168,"Suricata",1
@@ -1974,26 +1839,28 @@ ip,honeypot_type,count
 211.103.237.82,"Honeytrap Dionaea",3
 104.244.79.172,"Heralding Suricata",4
 85.169.208.117,"Suricata Cowrie",30
+46.101.19.9,"Suricata",2
 71.6.165.200,"Suricata Honeytrap",2
 71.6.146.186,"Suricata Honeytrap",10
 172.104.145.182,"Suricata",6
 83.250.84.29,"Adbhoney",2
-103.147.184.193,"Mailoney",12
+103.147.184.193,"Mailoney",8
 165.22.14.245,"Suricata",1
 167.99.236.115,"Honeytrap",5
 125.227.220.138,"Suricata",1
 144.126.213.182,"Suricata Honeytrap",2
 104.244.74.211,"Heralding Suricata",2
 179.109.200.226,"Rdpy",44
-89.248.174.193,"Honeytrap",7
+89.248.174.193,"Honeytrap",6
 184.105.139.98,"Suricata Dionaea",2
 173.255.248.253,"Suricata Honeytrap",47
 107.172.205.122,"Cowrie",2
-205.185.127.25,"Adbhoney Honeytrap",54
+205.185.127.25,"Adbhoney Honeytrap",55
+143.198.114.3,"Suricata Honeytrap",2
 192.241.205.247,"Suricata Honeytrap",3
 47.119.142.72,"Suricata Honeytrap",4
 185.220.101.2,"Suricata Honeytrap Heralding",6
-128.199.17.218,"Suricata Cowrie",290
+128.199.17.218,"Suricata Cowrie",381
 192.241.210.46,"Suricata Honeytrap",5
 129.227.129.172,"Suricata Honeytrap",4
 61.242.58.17,"Suricata Honeytrap",2
@@ -2001,6 +1868,7 @@ ip,honeypot_type,count
 176.111.173.88,"Suricata Rdpy",320
 185.153.199.94,"Suricata Rdpy Honeytrap",17
 223.68.169.180,"Suricata Cowrie",15
+195.133.40.139,"Suricata Cowrie",13
 91.144.21.146,"Suricata Dionaea",101
 61.153.110.33,"Honeytrap",6
 205.185.125.92,"Suricata Dionaea",3
@@ -2020,19 +1888,20 @@ ip,honeypot_type,count
 172.20.0.2,"Suricata",6
 139.59.242.17,"Suricata Honeytrap",2
 120.202.163.163,"Suricata",1
-64.225.17.156,"Honeytrap",1
+64.225.17.156,"Honeytrap",2
 94.30.131.167,"Adbhoney",2
 51.15.146.184,"Suricata",1
 184.72.185.226,"Suricata Honeytrap",4
 87.110.36.33,"Adbhoney",2
 178.62.206.204,"Suricata Honeytrap",2
+179.43.134.190,"Suricata",3
 178.128.230.113,"Suricata",2
 193.189.100.197,"Suricata Heralding",4
 176.106.243.230,"Suricata Rdpy",6
 153.92.24.107,"Suricata",1
 91.123.75.107,"Adbhoney",2
 200.237.128.225,"Suricata Cowrie",7
-143.244.149.109,"Suricata Honeytrap",4
+143.244.149.109,"Suricata Honeytrap",6
 167.99.213.15,"Suricata Honeytrap",2
 139.224.209.168,"Suricata",2
 179.43.167.228,"Honeytrap",2
@@ -2041,19 +1910,21 @@ ip,honeypot_type,count
 64.227.107.70,"Suricata",2
 220.134.244.90,"Cowrie",2
 170.106.76.219,"Suricata Honeytrap",8
-46.101.216.189,"Suricata",2
+46.101.216.189,"Suricata Honeytrap",4
 39.105.213.229,"Suricata",1
 188.166.174.162,"Suricata Honeytrap",2
 205.185.126.254,"Suricata",2
 186.225.10.51,"Suricata",1
+45.93.201.129,"Honeytrap",50
 185.220.101.4,"Suricata Heralding",6
-172.104.242.173,"Honeytrap",1
+172.104.242.173,"Honeytrap Suricata",4
 174.138.19.36,"Suricata",2
 89.248.165.6,"Honeytrap Dionaea",17
 188.166.253.105,"Suricata Honeytrap",4
+91.250.242.12,"Suricata Heralding",6
 13.87.221.220,"Suricata",4
-190.242.103.60,"Rdpy",163
-89.163.150.213,"Suricata Heralding",4
+190.242.103.60,"Rdpy",191
+89.163.150.213,"Suricata Heralding",6
 165.22.228.198,"Suricata Honeytrap",2
 195.154.56.235,"Suricata Heralding",4
 119.167.151.98,"Dionaea",4
@@ -2061,7 +1932,7 @@ ip,honeypot_type,count
 174.138.19.249,"Suricata",2
 206.189.134.143,"Suricata Honeytrap",2
 178.32.197.81,"Suricata",1
-50.227.175.124,"Rdpy",21
+50.227.175.124,"Rdpy",19
 171.244.139.236,"Suricata Cowrie",7
 188.166.189.178,"Suricata Honeytrap",4
 142.93.131.119,"Suricata Honeytrap",4
@@ -2073,8 +1944,9 @@ ip,honeypot_type,count
 68.183.12.7,"Suricata Honeytrap",2
 64.62.197.212,"Suricata Honeytrap",6
 139.59.121.21,"Honeytrap",1
+89.163.252.230,"Suricata Heralding",3
 105.203.195.68,"Suricata Cowrie",12
-161.97.92.10,"Rdpy",8
+161.97.92.10,"Rdpy",12
 68.183.5.39,"Suricata Honeytrap",4
 161.35.103.105,"Suricata Honeytrap",2
 27.43.112.101,"Suricata",1
@@ -2090,18 +1962,21 @@ ip,honeypot_type,count
 186.30.107.66,"Adbhoney",2
 203.159.80.184,"Suricata",1
 49.51.159.98,"Suricata Honeytrap",3
-89.248.168.157,"Honeytrap",7
+89.248.168.157,"Honeytrap",8
 103.113.196.25,"Suricata",1
 74.122.245.104,"Suricata",4
 85.99.50.198,"Suricata Honeytrap",2
-200.133.38.233,"Suricata Cowrie",198
+200.133.38.233,"Suricata Cowrie",372
 210.71.232.236,"Suricata Cowrie",358
 223.223.176.61,"Suricata Honeytrap",3
 87.251.70.21,"Suricata Rdpy",4
-176.215.246.247,"Suricata Cowrie",236
-185.202.2.149,"Suricata Honeytrap",8
+209.141.46.141,"Suricata",1
+46.101.14.185,"Suricata",2
+176.215.246.247,"Suricata Cowrie",573
+194.48.199.78,"Suricata Honeytrap",9
+185.202.2.149,"Suricata Honeytrap Rdpy",35
 192.241.199.131,"Suricata Honeytrap",3
-186.122.150.31,"Suricata Cowrie",166
+186.122.150.31,"Suricata Cowrie",414
 188.166.50.56,"Suricata Honeytrap",4
 172.104.77.187,"Suricata Honeytrap",2
 142.93.139.226,"Suricata Honeytrap",4
@@ -2109,7 +1984,8 @@ ip,honeypot_type,count
 27.115.124.99,"Suricata Dionaea",4
 64.62.197.62,"Suricata Honeytrap",3
 159.65.22.33,"Suricata Cowrie",4
-39.103.181.207,"Suricata",2
+27.115.124.37,"Suricata Dionaea",3
+39.103.181.207,"Suricata Honeytrap",5
 36.85.57.115,"Suricata Tanner",2
 157.51.143.150,"Suricata Dionaea",14
 192.241.210.178,"Suricata Honeytrap",3
@@ -2124,19 +2000,19 @@ ip,honeypot_type,count
 181.126.83.37,"Suricata Cowrie",7
 174.138.54.14,"Suricata Honeytrap",4
 150.138.153.83,"Suricata",3
-111.21.99.227,"Suricata Cowrie",292
-46.97.40.206,"Suricata Cowrie",106
-189.186.14.32,"Suricata Dionaea",429
-187.149.58.127,"Suricata Dionaea",410
-187.149.57.17,"Suricata Dionaea",439
-185.202.2.147,"Suricata Honeytrap Rdpy",28
+111.21.99.227,"Suricata Cowrie",491
+46.97.40.206,"Suricata Cowrie",370
+189.186.14.32,"Suricata Dionaea",508
+187.149.58.127,"Suricata Dionaea",493
+187.149.57.17,"Suricata Dionaea",522
+185.202.2.147,"Suricata Honeytrap Rdpy",60
 1.116.28.37,"Suricata Honeytrap",3
 54.89.115.96,"Suricata Honeytrap",2
 89.248.169.12,"Honeytrap",6
-190.64.213.156,"Suricata Cowrie",102
-78.26.204.179,"Suricata Cowrie",112
+190.64.213.156,"Suricata Cowrie",430
+78.26.204.179,"Suricata Cowrie",361
 138.68.69.185,"Suricata Honeytrap",4
-91.241.19.122,"Suricata Honeytrap",9
+91.241.19.122,"Suricata Honeytrap",11
 167.99.190.197,"Suricata",6
 142.93.112.42,"Honeytrap",1
 68.183.205.35,"Suricata Honeytrap",46
@@ -2147,23 +2023,24 @@ ip,honeypot_type,count
 165.227.208.182,"Suricata Honeytrap",2
 125.166.192.237,"Cowrie",2
 206.189.96.140,"Suricata Honeytrap",4
-148.223.143.69,"Suricata Cowrie",96
-103.118.47.163,"Suricata Cowrie",96
-222.239.248.170,"Suricata Cowrie",138
+148.223.143.69,"Suricata Cowrie",411
+103.118.47.163,"Suricata Cowrie",400
+222.239.248.170,"Suricata Cowrie",362
 91.90.37.114,"Suricata Dionaea",14
-74.82.47.2,"Suricata Honeytrap",3
+74.82.47.2,"Suricata Honeytrap Cowrie",5
 81.70.197.147,"Suricata Cowrie",7
 186.4.171.93,"Suricata",1
+209.141.33.206,"Suricata Cowrie",212
 47.104.254.190,"Honeytrap",1
 84.16.248.170,"Honeytrap",1
 114.215.201.107,"Suricata",1
-103.207.38.181,"Rdpy",26
+103.207.38.181,"Rdpy",24
 178.62.59.19,"Suricata Honeytrap",6
 23.241.67.195,"Cowrie",2
 84.95.86.211,"Suricata Dionaea",2
 121.4.163.148,"Suricata Honeytrap",4
 149.56.99.85,"Suricata Heralding Honeytrap",3
-195.154.42.43,"Suricata Cowrie",89
+195.154.42.43,"Suricata Cowrie",458
 209.141.56.154,"Suricata",1
 68.183.87.245,"Suricata Honeytrap",2
 219.154.117.23,"Suricata Tanner",3
@@ -2182,6 +2059,7 @@ ip,honeypot_type,count
 115.79.170.113,"Suricata Cowrie Honeytrap",30
 71.187.14.187,"Adbhoney",34
 8.141.64.248,"Honeytrap",1
+94.142.241.194,"Suricata Heralding",2
 121.42.253.189,"Suricata",1
 64.227.107.232,"Suricata Honeytrap",2
 178.175.3.55,"Suricata Honeytrap",2
@@ -2193,13 +2071,13 @@ ip,honeypot_type,count
 104.244.78.231,"Suricata Heralding",2
 142.93.153.78,"Suricata",2
 89.106.108.187,"Cowrie",2
-64.62.197.32,"Suricata Honeytrap Honeypy Dionaea",5
+64.62.197.32,"Suricata Honeytrap Honeypy Dionaea",4
 169.38.69.98,"Suricata",1
 159.89.179.151,"Suricata Honeytrap",2
 91.203.5.146,"Suricata Heralding",2
 159.65.204.22,"Suricata Honeytrap",2
 158.69.63.54,"Suricata Heralding",2
-45.55.36.141,"Suricata Honeytrap",3
+45.55.36.141,"Suricata Honeytrap",4
 113.128.105.251,"Suricata Honeytrap",2
 63.142.214.208,"Dionaea Suricata",2
 71.6.232.5,"Suricata Honeytrap",5
@@ -2220,6 +2098,7 @@ ip,honeypot_type,count
 178.175.3.24,"Suricata Honeytrap",5
 31.7.61.188,"Suricata Heralding",2
 159.89.24.27,"Suricata Honeytrap",2
+209.141.61.129,"Suricata CitrixHoneypot",2
 134.209.152.31,"Suricata Honeytrap",2
 113.141.67.127,"Dionaea",2
 64.68.236.225,"Suricata",1
@@ -2229,89 +2108,140 @@ ip,honeypot_type,count
 46.101.9.166,"Suricata Honeytrap",2
 179.43.146.230,"Suricata Heralding",2
 89.163.249.192,"Suricata Cowrie",7
-50.227.175.122,"Rdpy",19
-106.75.64.59,"Suricata Honeytrap",7
+199.19.224.147,"Suricata",1
+185.219.52.168,"Suricata Honeytrap Adbhoney Rdpy",240
+68.183.56.198,"Suricata Cowrie",369
+157.245.134.132,"Suricata Honeytrap",4
+50.227.175.122,"Rdpy",21
+45.146.165.113,"Suricata Honeytrap",36
+46.148.21.32,"Suricata Honeytrap",19
+58.215.191.231,"Suricata",5
+201.131.187.23,"Suricata Honeytrap",2
+64.62.197.152,"Suricata Cowrie Rdpy",9
+163.47.157.106,"Suricata Cowrie Honeytrap",30
 121.5.76.23,"Honeytrap",1
 68.183.25.33,"Honeytrap",4
 34.212.185.41,"Rdpy",3
+180.167.102.117,"Suricata",1
+113.142.72.2,"Suricata Dionaea",7
+117.50.10.244,"Suricata Cowrie",313
+41.82.213.42,"Suricata Dionaea",7
+91.220.163.141,"Suricata Honeytrap",119
+188.234.247.110,"Suricata Cowrie",256
+91.220.163.139,"Suricata Honeytrap",116
+91.220.163.137,"Suricata Honeytrap",103
+194.165.16.105,"Suricata Cowrie",13
+171.7.47.214,"Suricata Dionaea",14
+91.220.163.136,"Suricata Honeytrap",88
+91.220.163.142,"Suricata Honeytrap",105
+194.165.16.106,"Suricata Cowrie",13
+194.165.16.107,"Suricata Cowrie",7
 192.241.137.198,"Suricata Honeytrap",2
+194.165.16.109,"Suricata Cowrie",7
+194.165.16.89,"Suricata Cowrie",7
+106.75.142.30,"Suricata Cowrie",660
+91.220.163.90,"Suricata Honeytrap",93
 138.128.247.74,"Rdpy",2
+106.55.13.222,"Suricata Cowrie",160
+45.55.32.34,"Suricata Honeytrap",3
 180.145.137.185,"Honeytrap",1
+165.227.76.114,"Suricata",11
 165.22.223.30,"Suricata Honeytrap",2
+91.220.163.60,"Suricata Honeytrap Cowrie Dionaea",69
+103.212.156.37,"Suricata Cowrie Honeytrap",50
+171.251.233.125,"Suricata Honeytrap Cowrie",48
+39.98.254.155,"Suricata Honeytrap",7
+41.67.48.101,"Suricata Cowrie",361
 182.61.34.93,"Honeytrap",1
+117.6.128.183,"Suricata Dionaea",101
+177.154.26.230,"Suricata Honeytrap",2
+159.89.169.125,"Suricata Honeytrap",4
 177.86.206.226,"Suricata",1
-198.211.99.128,"Suricata Tanner",2
 115.79.31.56,"Suricata Dionaea",3
+162.247.74.204,"Suricata Heralding",2
 178.128.207.186,"Suricata Honeytrap",2
-46.148.21.60,"Suricata Honeytrap",9
+104.236.21.175,"Suricata Cowrie",260
+103.136.42.230,"Suricata Cowrie",165
+45.240.88.97,"Suricata Cowrie",217
+46.148.21.60,"Suricata Honeytrap",10
 210.183.133.198,"Dionaea",2
+123.119.184.83,"Suricata Tanner",3
+51.81.43.56,"Suricata Cowrie",7
+134.122.22.118,"Suricata",3
 80.246.94.190,"Cowrie",50
-138.197.144.32,"Suricata",2
 138.68.168.197,"Suricata Honeytrap",2
+119.92.229.114,"Suricata Dionaea",15
+190.124.29.11,"Suricata Cowrie",215
+42.192.184.76,"Suricata Honeytrap",12
+222.191.234.30,"Suricata Cowrie",7
+138.197.107.154,"Suricata Honeytrap",2
 178.128.62.201,"Suricata CitrixHoneypot",2
 178.176.194.62,"Cowrie",2
 159.89.228.161,"Honeytrap",1
-213.81.178.88,"Suricata Honeytrap",2
+104.248.138.189,"Suricata Honeytrap",9
+157.230.86.8,"Suricata Rdpy",3
+198.211.96.156,"Suricata Honeytrap",2
+45.33.65.38,"Suricata Honeytrap",46
 202.51.111.130,"Suricata Dionaea",2
-82.221.131.71,"Suricata Heralding",2
 182.121.52.223,"Cowrie",30
-185.101.35.79,"Suricata Heralding",2
 190.2.132.147,"Suricata",1
+117.222.171.79,"Suricata Honeytrap",4
+139.59.37.96,"Suricata Honeytrap",2
 51.83.96.194,"Suricata",2
+117.50.60.193,"Suricata",2
 157.245.137.147,"Suricata Honeytrap",2
 176.120.110.200,"Suricata Honeytrap",2
 51.81.85.213,"Suricata",1
+139.177.182.221,"Suricata Honeytrap",46
+128.199.198.105,"Suricata",2
+128.14.141.34,"Suricata Honeytrap",2
+185.170.114.25,"Suricata Heralding",2
+192.241.206.198,"Suricata Honeytrap",3
 165.227.232.209,"Suricata Honeytrap",2
 131.150.185.33,"Suricata Cowrie",5
 159.89.40.87,"Suricata Honeytrap",2
 177.92.94.214,"Suricata Cowrie",13
 206.189.12.95,"Suricata Honeytrap",2
-205.185.119.153,"Suricata",1
-183.162.230.27,"Adbhoney",2
-47.115.13.209,"Honeytrap",1
-103.20.33.244,"Suricata Honeytrap",6
-210.245.53.95,"Honeytrap",12
+106.54.68.233,"Suricata Cowrie",7
+124.156.54.249,"Suricata Honeytrap",3
+121.17.72.42,"Suricata Tanner",2
+46.101.199.42,"Suricata",2
 119.23.221.210,"Suricata Honeytrap",3
-195.158.12.140,"Rdpy",3
 47.34.17.133,"Suricata",1
-49.51.161.141,"Honeytrap",1
 196.188.243.255,"Cowrie",2
-82.102.118.243,"Adbhoney",2
-219.139.128.60,"Dionaea",2
 86.201.91.158,"Adbhoney",2
-49.51.52.89,"Honeytrap",1
-31.171.72.162,"Rdpy",2
+112.248.61.206,"Suricata",2
+1.15.229.173,"Suricata Cowrie",171
 95.134.126.111,"Suricata",1
-42.225.253.65,"Cowrie",10
-81.70.240.25,"Suricata Honeytrap",2
+45.83.64.1,"Suricata",2
+139.186.132.77,"Suricata Cowrie",161
 150.136.127.48,"Honeytrap",8
 192.241.204.142,"Suricata Honeytrap",3
-192.241.206.164,"Honeytrap",1
-178.234.228.158,"Honeytrap",5
-104.244.79.196,"Suricata Heralding",2
+81.136.146.213,"Suricata Dionaea",2
+47.103.27.94,"Suricata",1
 178.128.20.198,"Honeytrap",2
-202.143.111.231,"Rdpy",3
 46.131.38.252,"Dionaea",8
+45.83.67.165,"Suricata",1
+139.162.231.247,"Suricata CitrixHoneypot",2
+47.119.150.241,"Suricata Honeytrap",3
 89.208.122.221,"Cowrie",28
-122.53.147.70,"Rdpy",15
+122.53.147.70,"Rdpy",9
+192.87.173.56,"Suricata",3
+106.15.234.232,"Suricata Honeytrap",14
+34.227.100.13,"Suricata Honeytrap",7
 124.67.206.150,"Dionaea",2
+139.162.191.76,"Suricata Honeytrap",47
 89.248.172.16,"Suricata Honeytrap",5
 175.206.98.33,"Adbhoney",2
-104.248.196.152,"Suricata",2
-119.23.155.31,"Suricata",1
+157.230.226.7,"Suricata Honeytrap",3
+106.75.64.59,"Suricata Honeytrap",13
 192.250.233.240,"Honeypy",2
-217.29.126.136,"Suricata Cowrie",7
-35.208.251.78,"Honeytrap",4
 134.209.159.191,"Suricata",2
 71.6.232.4,"Cowrie",6
-119.120.78.107,"Cowrie",16
-192.241.198.61,"Honeytrap",2
-112.120.164.158,"Adbhoney",2
 192.241.212.226,"Suricata Dionaea",3
+198.211.99.128,"Suricata Tanner",2
 197.254.12.202,"Dionaea",1
-118.71.193.32,"Cowrie",2
 142.134.88.49,"Suricata Honeytrap",3
-36.67.133.130,"Honeytrap",2
 67.58.30.87,"Suricata Honeytrap",3
 69.178.214.192,"Suricata Honeytrap",2
 104.131.3.104,"Honeytrap",2
@@ -2322,134 +2252,130 @@ ip,honeypot_type,count
 139.129.22.210,"Suricata",1
 125.47.127.24,"Suricata Dionaea",5
 195.206.107.147,"Honeytrap",6
-80.66.88.19,"Honeytrap",26
 118.190.161.201,"Suricata",1
-138.197.1.180,"Honeytrap",2
 36.110.105.52,"Dionaea",2
 119.23.221.27,"Honeytrap",1
-185.216.140.31,"Honeytrap",7
+185.216.140.31,"Honeytrap",6
+138.197.144.32,"Suricata",2
 47.94.166.81,"Honeytrap",1
 139.59.70.64,"Suricata Honeytrap",2
 139.59.3.179,"Suricata Honeytrap",2
+142.93.110.197,"Suricata Honeytrap",4
 185.180.143.73,"Suricata",2
+213.81.178.88,"Suricata Honeytrap",2
 167.99.73.223,"Suricata Honeytrap",2
+82.221.131.71,"Suricata Heralding",2
 186.5.217.8,"Rdpy",12
-113.252.42.10,"Adbhoney",2
-211.140.118.19,"Dionaea",2
+185.101.35.79,"Suricata Heralding",2
 159.203.17.118,"Suricata Honeytrap",2
+205.185.119.153,"Suricata",1
 74.82.47.54,"Suricata",1
-161.35.7.5,"Honeytrap",3
-104.248.67.35,"Honeytrap",1
 162.221.192.29,"Suricata",1
 162.221.192.27,"Suricata",1
 111.243.55.190,"Adbhoney",2
-192.241.207.138,"Suricata Honeytrap",4
+103.20.33.244,"Suricata Honeytrap",6
 118.68.65.221,"Cowrie",2
-128.199.204.10,"Honeytrap",6
 111.201.128.24,"Honeytrap",1
+81.70.240.25,"Suricata Honeytrap",2
 134.209.102.131,"Honeytrap",2
+104.244.79.196,"Suricata Heralding",2
 47.100.70.97,"Honeytrap",1
-179.156.156.56,"Suricata",1
-45.83.64.134,"Suricata",1
-138.68.249.116,"Suricata",1
-185.142.236.35,"Suricata",2
 31.156.70.42,"Cowrie",2
-142.93.106.231,"Honeytrap",2
-102.186.248.153,"Adbhoney",2
+104.248.196.152,"Suricata",2
+119.23.155.31,"Suricata",1
+217.92.32.8,"Suricata Honeytrap",2
 112.248.188.81,"Cowrie",28
+194.165.16.108,"Suricata Cowrie",7
 121.5.213.68,"Honeytrap",1
-216.218.206.68,"Suricata Cowrie Honeytrap Dionaea",8
-165.22.218.156,"Suricata Honeytrap",3
 116.193.152.165,"Dionaea",2
-203.159.80.75,"Honeytrap",2
-121.22.124.85,"Dionaea",12
+101.37.119.152,"Suricata",1
+203.159.80.75,"Honeytrap Adbhoney",5
 64.180.110.169,"Adbhoney",2
 49.51.8.104,"Suricata Honeytrap",2
-118.70.151.156,"Rdpy",3
-167.71.65.57,"Suricata Cowrie",5
-27.115.124.9,"Honeytrap Suricata Dionaea",6
-89.248.168.220,"Honeytrap",7
+217.29.126.136,"Suricata Cowrie",7
+170.106.81.129,"Suricata",1
+89.248.168.220,"Honeytrap",8
 165.227.88.215,"Honeytrap",2
 121.5.160.181,"Honeytrap",1
 221.181.210.130,"Honeytrap Dionaea",26
-192.241.193.214,"Honeytrap",2
-192.87.173.56,"Suricata",1
+50.255.64.233,"Suricata Cowrie",7
+164.52.24.167,"Suricata Cowrie",11
+185.216.32.130,"Suricata Heralding",2
 159.65.54.246,"Suricata",1
 178.62.108.111,"Suricata Honeytrap",3
-128.199.143.37,"Suricata",2
 92.233.111.233,"Cowrie",2
-49.143.32.6,"Suricata Honeytrap",2
 178.45.196.157,"Adbhoney",2
 143.110.235.119,"Suricata Honeytrap",4
 187.67.1.164,"Adbhoney",2
 110.36.228.98,"Dionaea Honeytrap",2
-49.51.161.145,"Suricata",1
-47.102.139.58,"Suricata",1
+184.105.139.69,"Suricata Cowrie",3
+106.13.106.30,"Suricata Honeytrap",3
 112.165.182.121,"Adbhoney",2
-112.230.251.85,"Honeytrap",21
-206.189.8.141,"Suricata Honeytrap",2
-103.29.249.70,"Dionaea",11
 87.2.76.11,"Cowrie",2
-192.241.208.248,"Honeytrap",1
-188.130.138.84,"Suricata",1
-139.59.168.82,"Suricata",2
 1.164.245.126,"Suricata",1
 109.202.17.173,"Dionaea",12
-120.85.149.126,"Suricata",1
-192.241.210.225,"Honeytrap",1
+54.81.230.255,"Suricata",5
+193.118.53.210,"Suricata Honeytrap",2
 117.146.55.216,"Adbhoney",2
-170.80.49.2,"Suricata Honeytrap",2
 206.81.27.61,"Honeytrap",1
-75.27.152.26,"Suricata",1
 5.253.84.180,"Suricata",1
-45.231.121.201,"Suricata Honeytrap",23
-91.144.188.89,"Dionaea",11
-112.120.199.226,"Adbhoney",2
-192.241.202.87,"Honeytrap",1
-202.158.246.40,"Rdpy",3
-89.212.232.220,"Adbhoney",2
 202.180.25.98,"Dionaea",12
+193.31.24.154,"Suricata Heralding",2
 157.245.240.172,"Honeytrap",2
-170.106.81.129,"Suricata",1
+159.203.93.82,"Suricata Honeytrap",4
+139.59.168.82,"Suricata",2
+120.85.149.126,"Suricata",1
+216.218.206.68,"Suricata Cowrie Honeytrap Dionaea",8
 118.190.61.139,"Honeytrap",1
 157.230.115.25,"Suricata Honeytrap",2
-50.255.64.233,"Suricata Cowrie",7
-164.52.24.167,"Suricata Cowrie",11
+170.80.49.2,"Suricata Honeytrap",2
 209.142.145.125,"Adbhoney",2
-185.216.32.130,"Suricata Heralding",2
+75.27.152.26,"Suricata",1
 113.31.102.20,"Honeytrap",1
-106.13.106.30,"Suricata Honeytrap",3
+45.231.121.201,"Suricata Honeytrap",23
+192.241.207.138,"Suricata Honeytrap",4
 138.197.128.90,"Suricata",2
-184.105.139.69,"Suricata Cowrie",3
+142.93.132.223,"Suricata Honeytrap",2
 104.248.204.82,"Suricata Honeytrap",2
-157.245.134.132,"Suricata Honeytrap",3
+196.44.66.117,"Suricata",1
+64.62.197.182,"Suricata Dionaea Rdpy",6
 122.163.178.219,"Honeytrap",3
 123.212.133.207,"Adbhoney",2
 146.59.254.227,"Rdpy",9
 121.196.40.101,"Honeytrap",1
 218.27.205.180,"Suricata",1
-74.82.47.3,"Suricata Honeytrap",2
-201.201.87.226,"Suricata Tanner",2
-71.6.147.254,"Suricata",2
+165.22.218.156,"Suricata Honeytrap",3
+179.156.156.56,"Suricata",1
+45.83.64.134,"Suricata",1
 134.209.157.70,"Suricata Honeytrap",2
-104.155.101.3,"Suricata Honeytrap",2
+138.68.249.116,"Suricata",1
+185.142.236.35,"Suricata",2
+139.162.102.46,"Honeytrap Suricata",13
+198.144.120.234,"Suricata Heralding",2
 183.111.6.152,"Dionaea",2
 115.61.139.43,"Cowrie",28
-159.65.134.224,"Suricata Rdpy",3
-157.230.81.99,"Suricata Rdpy",3
+165.227.231.64,"Suricata Honeytrap",6
+128.199.143.37,"Suricata",2
 45.11.57.20,"Honeytrap",7
 120.39.243.84,"Dionaea",2
 106.14.1.73,"Honeytrap",1
-175.100.34.128,"Suricata Tanner",2
-188.166.25.220,"Suricata Honeytrap",2
-192.241.210.30,"Honeytrap",2
-209.141.49.232,"Suricata Heralding",2
-87.118.110.27,"Suricata Heralding",2
+165.22.218.38,"Suricata Honeytrap",2
+165.22.237.168,"Suricata Honeytrap",2
+46.101.16.35,"Suricata Honeytrap",2
+49.51.161.145,"Suricata",1
+47.102.139.58,"Suricata",1
+192.241.210.30,"Honeytrap",3
+209.141.46.38,"Suricata Heralding",2
+27.115.124.10,"Dionaea",1
+94.230.208.147,"Suricata Heralding",2
 64.225.117.69,"Honeytrap",1
-167.172.30.29,"Suricata",1
+206.189.8.141,"Suricata Honeytrap",2
 122.15.192.154,"Dionaea",11
+46.19.141.83,"Suricata Heralding",2
 62.33.159.100,"Cowrie",4
 124.25.207.83,"Honeytrap",1
+188.130.138.84,"Suricata",1
+87.251.75.145,"Suricata Rdpy Honeytrap",6
 198.23.242.210,"Dionaea",1
 77.21.28.230,"Dionaea",12
 157.230.38.8,"Honeytrap",3
@@ -2457,78 +2383,157 @@ ip,honeypot_type,count
 178.141.222.82,"Honeytrap",15
 192.241.210.167,"Honeytrap",1
 138.68.165.26,"Suricata Honeytrap",2
-72.214.103.68,"Cowrie",95
+72.214.103.68,"Cowrie",126
+27.115.124.9,"Dionaea Suricata",4
 23.25.211.210,"Honeypy",1
+167.71.65.57,"Suricata Cowrie",5
 188.235.141.107,"Suricata Dionaea",3
-157.230.49.9,"Suricata Rdpy",3
-36.250.68.230,"Heralding Mailoney",5
+49.143.32.6,"Suricata Honeytrap Adbhoney",8
+36.250.68.230,"Heralding",2
 138.197.161.18,"Honeytrap",3
 143.110.247.136,"Suricata",1
-143.198.69.144,"Suricata Honeytrap",2
+119.23.128.122,"Suricata",1
 71.6.232.2,"Honeytrap",2
 123.181.124.241,"Adbhoney",2
 14.199.226.110,"Adbhoney",2
-68.183.56.198,"Suricata Cowrie",7
 167.172.100.28,"Honeytrap",1
-46.148.21.32,"Suricata Honeytrap",2
 103.116.85.129,"Suricata Tanner",2
 153.34.164.122,"Dionaea",2
 192.241.206.58,"Honeytrap",1
 39.107.85.33,"Honeytrap",1
+74.82.47.3,"Suricata Honeytrap",2
 211.22.254.93,"Cowrie",2
+162.142.125.27,"Suricata",1
+71.6.147.254,"Suricata",2
 68.183.159.173,"Honeytrap",1
+80.66.88.19,"Honeytrap",18
 192.241.209.207,"Honeytrap",1
+114.55.133.228,"Suricata",1
+201.201.87.226,"Suricata Tanner",2
+104.155.101.3,"Suricata Honeytrap",2
 12.159.253.133,"Rdpy",1
 159.65.78.178,"Honeytrap",3
 135.125.98.6,"Honeytrap",1
 1.85.219.136,"Honeytrap",1
+159.65.134.224,"Suricata Rdpy",3
+88.9.119.217,"Suricata Honeytrap",8
+185.219.52.91,"Suricata Honeytrap",18
 49.233.14.134,"Honeytrap",1
 221.13.12.124,"Honeytrap",1
+157.230.81.99,"Suricata Rdpy",3
 50.31.21.6,"Dionaea",3
+138.59.136.28,"Suricata Dionaea",7
 89.212.93.38,"Adbhoney",2
+209.141.49.232,"Suricata Heralding",2
 107.173.91.166,"Cowrie",3
+175.100.34.128,"Suricata Tanner",2
+27.115.124.36,"Suricata Dionaea",2
+27.115.124.75,"Suricata",1
+87.118.110.27,"Suricata Heralding",2
+128.199.185.42,"Suricata Cowrie",129
+142.93.99.63,"Suricata",2
+124.90.48.203,"Suricata Cowrie",131
+114.113.151.146,"Suricata",1
+167.172.30.29,"Suricata",1
+194.6.233.138,"Suricata Cowrie",23
+178.128.147.146,"Suricata Cowrie",100
+188.166.25.220,"Suricata Honeytrap",2
+165.22.186.178,"Suricata Cowrie",100
+83.41.123.192,"Suricata Tanner",3
+183.82.115.221,"Suricata Cowrie",152
 144.126.208.216,"Honeytrap",1
 178.72.70.147,"Cowrie",20
 42.232.228.103,"Cowrie",22
+68.183.93.126,"Suricata Honeytrap",2
 81.198.44.251,"Adbhoney",2
 89.248.168.176,"Honeytrap",3
 46.101.18.103,"Honeytrap",1
 181.214.206.94,"Rdpy",2
 47.115.14.109,"Honeytrap",1
 218.173.16.3,"Adbhoney",2
+158.255.7.61,"Suricata Heralding",2
 47.114.94.134,"Honeytrap",1
 144.126.210.238,"Honeytrap",1
+192.241.193.214,"Honeytrap",1
 120.197.17.118,"Cowrie",2
 206.189.129.59,"Honeytrap",1
 47.98.172.39,"Honeytrap",1
 93.125.121.73,"Dionaea",1
 47.105.222.149,"Honeytrap",1
-157.245.220.171,"Honeytrap",2
+157.245.220.171,"Honeytrap",3
 85.111.56.4,"Dionaea",2
+60.246.164.141,"Suricata",6
+201.111.46.117,"Suricata Cowrie",109
+161.35.7.5,"Honeytrap",2
+104.131.13.68,"Suricata Honeytrap",8
 34.77.162.22,"Honeytrap",1
+180.180.123.227,"Suricata Cowrie",95
 189.147.15.214,"Cowrie",22
+47.119.163.103,"Suricata Honeytrap",3
+157.230.49.9,"Suricata Rdpy",3
+107.173.137.253,"Suricata Cowrie",83
+20.195.44.10,"Suricata",1
+58.215.56.190,"Suricata Dionaea",3
+49.51.12.230,"Suricata Honeytrap",2
+120.133.52.105,"Suricata Cowrie",119
+191.207.26.2,"Suricata Honeytrap",2
+179.157.4.188,"Suricata Cowrie",7
+143.198.69.144,"Suricata Honeytrap",2
+109.248.203.117,"Suricata",3
+80.128.150.51,"Suricata Honeytrap",2
 2.179.41.204,"Cowrie",2
 218.146.112.9,"Adbhoney",2
 110.152.142.57,"Adbhoney",38
+178.128.234.84,"Suricata",1
 119.60.2.249,"Dionaea Honeytrap",3
+138.197.107.156,"Suricata Honeytrap",2
+165.22.237.196,"Suricata",2
+14.207.50.19,"Suricata Honeytrap",2
 123.30.237.51,"Dionaea",2
 125.42.122.27,"Cowrie",22
+129.226.150.37,"Suricata",1
+54.85.18.32,"Suricata",1
+1.11.201.18,"Suricata Cowrie",22
 187.13.171.83,"Cowrie",2
+121.40.236.152,"Suricata Honeytrap",4
 139.59.215.6,"Honeytrap",2
-157.230.230.103,"Honeytrap",2
+212.192.241.15,"Suricata Mailoney",11
+157.230.230.103,"Honeytrap",1
+112.27.215.201,"Suricata Honeytrap",3
+159.65.103.250,"Suricata Cowrie",80
 167.99.5.132,"Honeytrap",5
 115.58.101.7,"Cowrie",30
 185.43.6.218,"Honeytrap",47
+185.220.102.240,"Suricata Heralding",2
+176.123.3.222,"Suricata Heralding",2
+193.118.53.202,"Suricata Honeytrap",2
 39.107.70.161,"Honeytrap",1
 86.179.36.128,"Cowrie",2
+186.233.180.142,"Suricata Honeytrap",2
+91.126.207.196,"Suricata Cowrie",30
 221.15.9.245,"Honeypy",100
+194.163.134.189,"Suricata",3
 173.70.41.187,"Cowrie",4
+83.221.210.233,"Suricata Cowrie",7
+164.52.24.176,"Suricata",1
 139.224.208.239,"Honeytrap",1
-206.189.139.223,"Honeytrap",2
+206.189.139.223,"Honeytrap",4
+128.199.130.153,"Suricata",2
 159.75.22.181,"Honeytrap",3
+188.166.94.199,"Suricata Honeytrap",2
+159.65.139.2,"Suricata Honeytrap",2
 34.77.162.14,"Honeytrap",1
+143.244.154.64,"Suricata Honeytrap",2
+111.68.46.68,"Suricata Cowrie",7
+104.244.73.126,"Suricata Heralding",2
+49.51.51.127,"Suricata Honeytrap",2
 27.6.200.94,"Cowrie",30
 121.164.64.245,"Adbhoney",2
+124.156.198.92,"Suricata Honeytrap",2
+47.105.86.122,"Suricata Honeytrap",3
+178.34.177.78,"Suricata Tanner",2
+185.193.52.180,"Suricata Heralding",2
+157.245.103.203,"Suricata Cowrie",7
 120.27.147.79,"Honeytrap",1
 116.68.96.234,"Honeytrap",1
 152.170.57.10,"Cowrie",2
@@ -2551,15 +2556,17 @@ ip,honeypot_type,count
 128.199.132.6,"Honeytrap",4
 60.191.19.36,"Honeytrap",1
 90.187.68.53,"Honeytrap",3
+178.234.228.158,"Honeytrap",4
 64.227.127.93,"Honeytrap",1
 182.126.126.177,"Cowrie",20
 188.148.178.49,"Adbhoney",2
 94.232.41.147,"Dionaea Honeytrap",2
+210.245.53.95,"Honeytrap",8
 120.77.44.110,"Honeytrap",1
 125.47.159.172,"Cowrie",26
 121.41.230.124,"Honeytrap",1
 45.172.126.152,"Dionaea",1
-58.18.215.26,"Dionaea Honeytrap",2
+58.18.215.26,"Dionaea",1
 128.199.94.113,"Honeytrap",4
 174.80.31.208,"Adbhoney",2
 103.70.191.93,"Honeytrap Dionaea",2
@@ -2569,12 +2576,13 @@ ip,honeypot_type,count
 103.238.214.25,"Rdpy",6
 95.86.63.176,"Adbhoney",2
 185.243.242.31,"Dionaea",1
-134.209.43.94,"Honeytrap",4
-125.45.107.44,"Dionaea Honeytrap",3
+134.209.43.94,"Honeytrap",3
+125.45.107.44,"Dionaea",2
+128.199.204.10,"Honeytrap",5
 80.246.81.249,"Cowrie",30
 39.101.163.179,"Honeytrap",1
 157.230.120.99,"Honeytrap",1
-49.12.45.220,"Honeytrap",2
+49.12.45.220,"Honeytrap",3
 115.55.109.112,"Cowrie",12
 34.96.130.3,"Dionaea",1
 218.89.222.16,"Dionaea",2
@@ -2599,8 +2607,8 @@ ip,honeypot_type,count
 220.83.201.145,"Cowrie",2
 47.103.67.94,"Honeytrap",1
 78.188.220.40,"Dionaea",1
-195.201.95.90,"Honeytrap",2
-59.111.58.32,"Honeytrap",1
+195.201.95.90,"Honeytrap",1
+69.3.233.226,"Cowrie",2
 115.58.54.89,"Cowrie",30
 114.26.46.95,"Adbhoney",2
 58.248.193.247,"Honeypy",24
@@ -2627,8 +2635,7 @@ ip,honeypot_type,count
 159.65.127.252,"Honeytrap",1
 116.4.96.127,"Honeytrap",1
 64.225.13.192,"Honeytrap",1
-182.254.244.67,"Honeytrap",1
-185.167.97.31,"Honeytrap",4
+192.241.198.61,"Honeytrap",1
 107.131.128.240,"Cowrie",2
 192.241.200.116,"Honeytrap",1
 192.241.206.51,"Honeytrap",1
@@ -2643,15 +2650,12 @@ ip,honeypot_type,count
 18.215.165.172,"Rdpy",3
 134.209.41.196,"Honeytrap",2
 143.198.48.62,"Cowrie",2
-47.100.201.52,"Honeytrap",1
 162.243.4.175,"Honeytrap",1
 116.62.122.47,"Honeytrap",1
 200.241.200.11,"Dionaea",11
 50.31.21.10,"Dionaea",3
 139.196.121.149,"Honeytrap",1
 34.96.130.9,"Dionaea",1
-47.119.200.22,"Honeytrap",1
-165.22.216.156,"Honeytrap",1
 211.168.184.180,"Dionaea",1
 64.62.197.2,"Honeytrap",1
 118.123.240.162,"Dionaea",2
@@ -2659,8 +2663,6 @@ ip,honeypot_type,count
 58.234.248.108,"Adbhoney",2
 118.33.157.115,"Adbhoney",2
 192.241.212.215,"Honeytrap",1
-209.141.38.113,"Honeytrap",3
-185.220.101.208,"Honeytrap",1
 125.44.31.150,"Honeytrap",2
 192.241.204.186,"Honeytrap",1
 192.241.203.24,"Honeytrap",1
@@ -2669,6 +2671,7 @@ ip,honeypot_type,count
 101.201.254.133,"Honeytrap",1
 201.32.158.112,"Dionaea",1
 106.12.93.155,"Honeytrap",1
+138.197.1.180,"Honeytrap",1
 137.226.113.56,"Honeytrap",9
 121.149.86.138,"Adbhoney",2
 128.199.188.2,"Honeytrap",3
@@ -2681,22 +2684,10 @@ ip,honeypot_type,count
 106.55.168.60,"Honeytrap",1
 139.196.81.81,"Honeytrap",1
 134.209.247.16,"Honeytrap",1
-181.226.8.123,"Adbhoney",2
 221.163.252.20,"Honeytrap",1
-104.131.47.97,"Honeytrap",1
-185.202.1.123,"Rdpy",2
-164.90.232.236,"Honeytrap",1
-192.241.206.176,"Honeytrap",1
-217.181.165.146,"Honeytrap",2
-61.239.215.9,"Adbhoney",2
-87.229.251.14,"Rdpy",1
-125.130.176.239,"Adbhoney",2
-47.97.221.230,"Honeytrap",1
 216.189.167.23,"Cowrie",2
-192.241.212.162,"Honeytrap",1
-192.241.202.118,"Honeytrap",1
 82.151.125.181,"Honeytrap",4
-171.244.50.243,"Rdpy",3
+209.141.38.113,"Honeytrap",2
 101.37.14.170,"Honeytrap",1
 157.230.120.194,"Honeytrap",1
 157.230.4.37,"Honeytrap",4
@@ -2710,19 +2701,19 @@ ip,honeypot_type,count
 222.175.50.154,"Honeytrap",2
 192.241.211.125,"Honeytrap",1
 117.149.186.24,"Dionaea",1
-68.183.24.170,"Honeytrap",2
+68.183.24.170,"Honeytrap",3
 117.50.3.37,"Honeytrap",1
 135.181.149.138,"Honeytrap",5
-192.241.208.99,"Honeytrap",1
 114.112.96.223,"Dionaea",1
 192.241.213.20,"Honeytrap",1
 49.232.132.124,"Honeytrap",1
-113.201.15.2,"Honeytrap",1
 35.234.15.44,"Honeytrap",2
-68.183.187.79,"Honeytrap",2
+68.183.187.79,"Honeytrap",3
 165.22.247.117,"Honeytrap",1
 184.105.139.68,"Honeytrap",1
+143.198.103.161,"Honeytrap",2
 101.37.32.250,"Honeytrap",1
+185.167.97.31,"Honeytrap",3
 179.49.15.246,"Honeytrap",1
 117.146.55.165,"Adbhoney",2
 73.150.76.175,"Cowrie",2
@@ -2736,7 +2727,6 @@ ip,honeypot_type,count
 47.103.199.2,"Honeytrap",1
 109.87.18.16,"Adbhoney",2
 138.68.152.140,"Honeytrap",1
-45.55.32.34,"Honeytrap",1
 120.53.125.69,"Honeytrap",1
 219.77.234.83,"Adbhoney",2
 220.179.90.8,"Honeytrap",1
@@ -2768,6 +2758,7 @@ ip,honeypot_type,count
 81.70.5.172,"Honeytrap",1
 192.241.211.81,"Rdpy",2
 120.25.223.0,"Dionaea",4
+35.208.251.78,"Honeytrap",1
 47.61.96.88,"Adbhoney",2
 192.241.201.165,"Rdpy",1
 172.245.6.149,"Cowrie",2
@@ -2813,27 +2804,25 @@ ip,honeypot_type,count
 159.65.253.28,"Honeytrap",1
 192.241.212.246,"Honeytrap",1
 39.99.233.188,"Honeytrap",1
-165.227.197.160,"Honeytrap",2
+165.227.197.160,"Honeytrap",3
 121.199.166.71,"Honeytrap",2
 122.176.99.253,"Honeytrap",2
 101.204.228.50,"Rdpy",3
+192.35.168.160,"Honeytrap Dionaea",5
 47.113.203.220,"Honeytrap",1
 114.36.190.176,"Adbhoney",2
 191.240.149.146,"Dionaea",12
 91.90.123.13,"Rdpy",1
 212.175.46.254,"Dionaea",4
 91.218.113.83,"Rdpy",3
-169.53.55.110,"Rdpy",14
+169.53.55.110,"Rdpy",23
 191.113.55.219,"Dionaea",2
-159.65.82.170,"Honeytrap",1
-185.81.129.232,"Rdpy Honeytrap",3
 82.156.13.205,"Honeytrap",1
-64.63.100.55,"Honeytrap",1
 39.98.156.73,"Honeytrap",1
 27.213.104.201,"Cowrie",46
 185.202.2.132,"Rdpy",3
 119.45.185.186,"Honeytrap",1
-184.182.221.94,"Rdpy",6
+184.182.221.94,"Rdpy",9
 157.230.116.84,"Honeytrap",1
 192.241.207.185,"Honeytrap",2
 91.233.229.44,"Cowrie",21
@@ -2843,16 +2832,16 @@ ip,honeypot_type,count
 185.220.101.198,"Honeytrap",1
 81.16.12.164,"Dionaea",1
 213.57.155.60,"Adbhoney",2
-192.35.168.112,"Honeytrap",1
+192.35.168.112,"Honeytrap",2
 183.80.89.49,"Cowrie",2
+142.93.106.231,"Honeytrap",1
 221.15.228.157,"Cowrie",2
 143.198.40.241,"Rdpy",1
 157.230.120.157,"Honeytrap",1
-113.174.246.211,"Honeytrap Dionaea",4
+113.174.246.211,"Honeytrap Dionaea",6
 23.175.144.189,"Honeytrap",4
 192.241.209.69,"Honeytrap",1
 106.51.78.17,"Rdpy",1
-64.62.197.182,"Dionaea",1
 134.209.227.224,"Honeytrap",1
 222.73.129.15,"Honeytrap",1
 121.43.160.91,"Honeytrap",1
@@ -2863,8 +2852,10 @@ ip,honeypot_type,count
 60.213.237.76,"Cowrie",2
 157.245.95.202,"Honeytrap",1
 64.227.123.55,"Honeytrap",1
-50.196.25.97,"Rdpy",5
+50.196.25.97,"Rdpy",7
+45.55.179.132,"Honeytrap",1
 88.206.87.67,"Adbhoney",2
+217.181.165.146,"Honeytrap",1
 185.112.82.52,"Honeytrap",1
 183.2.204.107,"Honeytrap",1
 184.105.247.252,"Honeytrap",1
@@ -2907,7 +2898,6 @@ ip,honeypot_type,count
 192.241.203.240,"Honeytrap",1
 82.156.75.214,"Honeytrap",1
 52.191.188.128,"Honeytrap",1
-121.40.236.152,"Honeytrap",1
 218.46.59.75,"Honeytrap",1
 27.72.158.112,"Honeytrap",1
 178.72.78.181,"Cowrie",2
@@ -2918,64 +2908,115 @@ ip,honeypot_type,count
 167.71.102.95,"Honeytrap",1
 138.68.153.183,"Honeytrap",1
 139.59.80.133,"Honeytrap",1
-128.199.155.114,"Cowrie",2
-117.90.63.130,"Cowrie",33
+68.183.127.109,"Honeytrap",3
+121.40.67.117,"Honeytrap",1
 47.96.112.10,"Honeytrap",1
-47.100.91.61,"Honeytrap",1
-192.42.116.25,"Honeytrap",1
+197.51.25.228,"Cowrie",2
 58.105.201.57,"Cowrie",2
-185.233.100.23,"Honeytrap",1
-78.68.220.18,"Honeytrap",5
-68.183.127.109,"Honeytrap",2
-61.53.122.134,"Cowrie",30
-120.85.117.229,"Cowrie",33
-192.241.196.229,"Honeytrap",1
 167.71.102.181,"Honeytrap",1
-106.15.185.77,"Honeytrap",1
+128.199.155.114,"Cowrie",2
 8.140.191.2,"Honeytrap",1
 134.122.74.34,"Honeytrap",1
-36.233.60.4,"Cowrie",2
+47.100.91.61,"Honeytrap",1
 47.244.12.20,"Honeytrap",1
-118.165.240.81,"Cowrie",2
-193.46.255.139,"Honeytrap",1
-116.62.203.162,"Honeytrap",1
+192.42.116.25,"Honeytrap",1
+185.233.100.23,"Honeytrap",1
+134.122.32.199,"Honeytrap",1
+78.68.220.18,"Honeytrap",5
 39.153.246.234,"Honeytrap",1
 116.213.171.246,"Dionaea",2
 157.230.103.238,"Honeytrap",1
 99.248.214.209,"Adbhoney",2
-121.40.67.117,"Honeytrap",1
 200.46.45.114,"Cowrie",2
-220.134.128.110,"Cowrie",2
+192.241.196.229,"Honeytrap",1
 170.83.76.34,"Honeytrap",1
-197.51.25.228,"Cowrie",2
+106.15.185.77,"Honeytrap",1
 134.122.86.11,"Honeytrap",1
 201.9.2.53,"Honeytrap",1
+36.233.60.4,"Cowrie",2
 78.128.112.10,"Honeytrap",1
+118.165.240.81,"Cowrie",2
+193.46.255.139,"Honeytrap",1
 108.5.73.17,"Cowrie",2
+116.62.203.162,"Honeytrap",1
 103.45.189.22,"Dionaea",1
 88.85.174.190,"Cowrie",2
-191.36.207.70,"Adbhoney",2
-143.198.40.228,"Rdpy",1
-104.248.154.48,"Honeytrap",1
+46.146.230.127,"Cowrie",2
+185.255.130.211,"Rdpy",2
+171.221.236.226,"Dionaea",2
 187.64.51.246,"Cowrie",2
-122.224.72.42,"Honeytrap",1
-143.110.215.84,"Rdpy",1
-95.179.104.139,"Honeytrap",1
 197.159.210.171,"Dionaea",1
 46.101.160.222,"Honeytrap",1
+49.51.34.227,"Honeytrap",1
+87.26.140.122,"Cowrie",2
+159.0.62.150,"Dionaea",11
+180.177.57.136,"Cowrie",2
+179.190.119.2,"Adbhoney",2
+112.25.201.244,"Rdpy",2
+91.241.19.60,"Honeytrap",63
+125.124.137.188,"Cowrie",2
+81.198.99.76,"Adbhoney",2
+45.229.55.112,"Cowrie",16
+84.53.198.73,"Cowrie",30
+116.62.235.21,"Honeytrap",1
+210.220.188.25,"Dionaea Honeytrap",3
+115.197.37.8,"Dionaea",2
+162.243.166.183,"Honeytrap",12
+218.250.99.148,"Adbhoney",2
+104.180.13.91,"Cowrie",2
+52.171.211.211,"Rdpy",3
+191.36.207.70,"Adbhoney",2
+143.198.40.228,"Rdpy",1
+42.180.206.145,"Cowrie",2
+119.254.65.12,"Dionaea",1
+185.220.101.197,"Honeytrap",1
+104.248.154.48,"Honeytrap",1
+70.28.2.110,"Cowrie",2
+122.224.72.42,"Honeytrap",1
+192.241.209.158,"Honeytrap",1
+143.110.215.84,"Rdpy",1
+178.72.68.234,"Honeypy",36
+59.71.242.69,"Honeytrap",3
+192.241.210.202,"Honeytrap",1
+95.179.104.139,"Honeytrap",1
+183.89.96.142,"Cowrie",2
+61.3.159.244,"Cowrie",4
+122.117.236.176,"Honeypy",1
+111.246.241.245,"Dionaea",2
+192.241.203.209,"Honeytrap Dionaea",2
+69.75.57.12,"Honeypy",1
 143.198.40.242,"Rdpy",1
 139.177.199.198,"Rdpy",1
-45.146.165.113,"Honeytrap",1
-104.180.13.91,"Cowrie",2
-52.171.211.211,"Rdpy",2
-116.62.235.21,"Honeytrap",1
+185.202.2.122,"Rdpy",3
+87.251.75.179,"Honeytrap",1
 86.98.25.78,"Dionaea",1
-45.229.55.112,"Cowrie",16
-210.220.188.25,"Dionaea",2
+1.65.128.221,"Adbhoney",2
+143.110.223.99,"Rdpy",1
+45.169.175.103,"Honeytrap",11
+59.110.229.83,"Honeytrap",1
+177.94.164.179,"Honeytrap",1
 111.242.78.195,"Adbhoney",2
-104.248.138.189,"Honeytrap",3
-125.124.137.188,"Cowrie",2
-185.219.52.168,"Honeytrap",1
-185.220.101.197,"Honeytrap",1
-192.241.210.202,"Honeytrap",1
-183.89.96.142,"Cowrie",1
+192.241.202.27,"Honeytrap",1
+187.110.238.251,"Dionaea",1
+119.47.92.20,"Honeytrap",1
+84.20.89.19,"Cowrie",21
+27.222.196.16,"Cowrie",6
+200.233.195.51,"Dionaea",2
+195.34.91.127,"Cowrie",2
+120.24.43.139,"Rdpy",1
+185.216.140.6,"Honeytrap",2
+121.196.49.112,"Cowrie",2
+61.49.49.22,"Cowrie",8
+87.16.177.138,"Honeypy",1
+39.101.181.28,"Honeytrap",1
+47.110.130.175,"Honeytrap",1
+192.241.205.177,"Dionaea",1
+104.131.51.37,"Honeytrap",1
+42.2.205.176,"Adbhoney",2
+52.81.15.142,"Honeytrap",1
+165.227.47.105,"Honeytrap",1
+192.241.212.223,"Honeytrap",1
+42.200.151.1,"Honeytrap",1
+143.198.65.86,"Honeytrap",1
+192.241.211.57,"Honeytrap",1
+178.128.66.56,"Dionaea",1
