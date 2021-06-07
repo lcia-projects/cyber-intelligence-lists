@@ -5,6 +5,7 @@
 !
 !root
 )(*&^%
+*
 -a
 0000
 0101
@@ -26,7 +27,9 @@
 12345678
 123456789
 1234567890
+12345678910
 1234567@
+123456qwerty
 12345qwert
 123Root
 123qaz
@@ -77,6 +80,7 @@ ADMN
 ADVMAIL
 Aa123
 Aa123456
+Abc123
 Accept-Encoding: gzip
 Admin
 Admin888
@@ -210,6 +214,7 @@ abhishek
 abo
 abraham
 acc
+access
 account
 account10
 accumulo
@@ -255,9 +260,11 @@ adminmin
 adminuser
 adminvps
 adrian
+adrien
 agatha
 agathe
 agenda
+agent
 agotoz
 ahadji
 ahmad
@@ -285,6 +292,7 @@ alex
 alexander
 alexie
 alexis
+alexstroy
 ali
 alias
 alina
@@ -305,6 +313,7 @@ alumni
 alumni1
 alx
 alyson
+amadeus
 aman
 amanda
 amanda1
@@ -347,6 +356,7 @@ ankur
 anna
 anne
 annick
+annie
 anonymous
 anshit
 ansible
@@ -396,6 +406,7 @@ arkisland
 arko
 arkoadm
 arkserver
+arlyn
 arma3
 arma3server
 arma_server
@@ -443,6 +454,7 @@ avaya
 avigdor
 avinash
 avis
+avrille
 awade
 awaiNR&D
 aws
@@ -463,6 +475,7 @@ backups
 baerg
 baikal
 baiyaxuan
+bakani
 bakpessi
 bakrimemnaa
 banamale
@@ -563,14 +576,17 @@ brqc
 bruce
 bsimzer
 bsjungblue
+bsoft
 bubba
 budkhuu
+built
 bungeecord
 bunny
 buster
 butter
 bwadmin
 byczko
+byte
 c
 cabbeen
 cache
@@ -628,6 +644,7 @@ ceolium
 cephadmin
 certisvideo
 cesar
+cgb
 cgi
 cguo
 cgutusa
@@ -712,6 +729,7 @@ cise
 city
 ck_data
 clamav
+clamav1
 clark
 clayton
 clc
@@ -739,6 +757,7 @@ cmudehwe
 cmynr001
 cmynr002
 cod
+cod2
 cod4server
 codif
 codis
@@ -1178,7 +1197,9 @@ elsearch
 elsearch123
 elton
 email
+emcali
 emdl
+emerson
 emill
 emily
 empleado
@@ -1434,6 +1455,7 @@ greg
 gregory
 grid
 group
+group1
 gsl
 gsmith
 guanwei
@@ -1585,6 +1607,7 @@ hsqldb
 htliu
 html
 hts
+http
 httpd
 httpd2
 httpdocs
@@ -1605,6 +1628,7 @@ huginn
 hui
 hujie
 hungle
+hunt
 hutt
 huwenbo
 huwenp
@@ -1639,6 +1663,7 @@ ignite
 igor
 ii
 ilog
+image
 imaizumi
 imp
 impala
@@ -1656,8 +1681,10 @@ instagram
 install
 intel
 internet
+internet1
 iraf
 irc
+ircirc
 iris
 irnam
 ironman
@@ -1766,6 +1793,7 @@ jiyu
 jiyuan
 jiyuan123
 jj
+jkamande
 jkarimi
 jkwashiwa
 jl
@@ -1812,6 +1840,7 @@ julian
 julianne
 julie
 julien
+jumam
 jun
 jung
 jungung
@@ -1873,6 +1902,7 @@ kelly
 ken
 kennedy
 kenpachi
+kerala
 kernel
 kernoops
 keshu
@@ -1880,6 +1910,8 @@ kethari
 keval
 kevin
 kevlar
+key
+khamphanh
 khj
 khlee
 khoivtn
@@ -1888,6 +1920,7 @@ kibana
 kicyvn
 kid
 kietnt17
+kill
 kilner
 kimyg
 kingbase
@@ -1921,6 +1954,7 @@ kubeflow
 kudu
 kulin
 kunal
+kuninobu
 kunshi
 kurauone
 kurt
@@ -1928,6 +1962,7 @@ kvrao
 kwangwari
 kwashiwa
 kyeongmin
+kyle
 kzhan
 kzhou
 kzr
@@ -1949,6 +1984,7 @@ lambert
 lambin
 laouwayi
 laravel
+larry
 laserjet
 laura
 lauren
@@ -2139,11 +2175,13 @@ logstash
 longd233
 looker
 lost+found
+lou.howitt
 louis
 louise
 loujie
 loveness
 loyd
+lrios
 lsfadmin
 lsvftp
 lu
@@ -2221,6 +2259,7 @@ majordomo3
 malisa
 mall
 malvern
+mambo
 mambondiani
 man
 man1
@@ -2316,6 +2355,7 @@ meteor
 meza
 mfrestrs
 mg3500
+mgithinji
 mgts
 mhallman
 mhchu
@@ -2327,6 +2367,7 @@ michael
 michaelu
 mickey
 midwest
+mihai
 mikaituo
 mike
 mildred
@@ -2391,6 +2432,7 @@ mpalin
 mpas
 mrbluesky
 mrt
+ms
 msg
 mskochar
 msos
@@ -2458,11 +2500,13 @@ namarte
 named
 named1
 namenode
+nameserver
 nancy
 nano
 narduzzi
 natasha
 nathan
+naty
 nax
 nazne
 nbpmon
@@ -2532,6 +2576,7 @@ ningzhenyi
 nipa
 niprieto
 nishimura
+nishiyama
 nishon
 nissen
 nitrodocker
@@ -2661,6 +2706,7 @@ os2
 osa
 osadmin
 oscar
+osdbook
 osm
 osm2
 osmc
@@ -2732,6 +2778,7 @@ pbsdata
 pbsoft
 pbsworksuser
 pc
+pcap
 pci
 pcpqa
 pcwu
@@ -2763,6 +2810,7 @@ php
 phpdoc
 phpmyadmin
 pi
+pico
 pierrick
 pig
 pilar
@@ -2806,6 +2854,7 @@ postgres_admin
 postgres_user
 postgresadm
 postgresql
+postgresql1
 postmaster
 powerzines
 pp
@@ -2840,6 +2889,7 @@ project
 projects
 prometheus
 promoavto
+prosper
 protobuf
 prova
 proxy
@@ -2906,6 +2956,7 @@ quxia
 qwang
 qwe123
 qwe123qwe
+qweasd
 qwert%$#@!
 qwerty
 qwerty123
@@ -2991,6 +3042,7 @@ richards
 ridam
 riedel
 rig
+riley
 rinas
 riorjuel
 rip
@@ -2998,6 +3050,7 @@ rje
 rkumar34
 rlyeh
 rlzhu
+rmkim
 rmsasi
 rmzx
 rob
@@ -3074,11 +3127,13 @@ sagui
 sahand
 sahuja
 sakib
+sal
 salah
 sales
 sales1
 sales2
 salesg
+sam
 samantha
 samba
 samba1
@@ -3105,6 +3160,7 @@ sapaccount
 sara
 sarah
 saravanan
+sasano
 satender
 savelle
 sbear
@@ -3123,6 +3179,7 @@ scott
 scphost
 screen
 scripts
+scrr
 sdbadmin
 sdg0049
 sdhe
@@ -3131,6 +3188,7 @@ sean
 search
 seb
 secretariat
+secure
 sedat
 seekcy
 semi
@@ -3221,6 +3279,7 @@ simon
 sinobase01
 sinus
 sinusbot
+sir
 sistema
 sistemd-network
 site
@@ -3260,6 +3319,7 @@ smbadm
 smbguest
 smboracle
 smbtest
+smbtester
 smbuser
 smc
 smfufu
@@ -3268,6 +3328,7 @@ smmsp
 smos
 smtuser
 smuthuv
+sniffer
 snsconfig
 snsotell
 so
@@ -3303,6 +3364,7 @@ soyle_app
 soyle_kz
 spam
 spam!@#
+spam1
 spamtrap
 spanner
 spark
@@ -3316,6 +3378,7 @@ spencer
 sphinxsearch
 spiceworks
 spider
+splash
 splunk
 sportsdesk
 spreitzer
@@ -3362,6 +3425,7 @@ stats
 stats1
 stats2
 statsstats
+status
 steam
 stefan
 stefani
@@ -3424,6 +3488,7 @@ superuser
 supervis
 supervisor
 supervisores
+suport
 suporte
 support
 support1
@@ -3440,6 +3505,7 @@ sviluppo
 svn
 svnuser
 svrlistg
+svukovic
 sweetpotato
 swetank
 switch
@@ -3576,6 +3642,7 @@ testman1
 testng
 testovh
 tests
+tests1
 testssh
 testtest
 testupload
@@ -3597,6 +3664,7 @@ thirdsrc
 thomas
 thomas1
 thomas3
+thostr
 thuannd9
 thunder
 thunderduck
@@ -3713,6 +3781,7 @@ tuocheng
 tuserver
 tushar
 tuxedo
+tv
 tvrec
 tw
 tweetbot
@@ -4007,6 +4076,7 @@ wanruosi
 wansheng
 wansong
 wanxiaona
+waps
 waqqas
 warcraft
 ward
@@ -4023,6 +4093,7 @@ wbzhao
 wduser
 weaver
 web
+web0
 web1
 web12
 web2
@@ -4034,6 +4105,7 @@ web3
 web4
 web6p1
 web7
+web78p3
 web80p2
 web87
 web94p6
@@ -4125,6 +4197,7 @@ wls81opr
 wlxt
 wm
 wme
+wnn
 wokani
 wolf
 won
@@ -4353,6 +4426,7 @@ xyqu
 xyun
 xyx
 y
+ya
 yagishita
 yajun
 yamada
@@ -4419,6 +4493,7 @@ yeah
 year
 years
 yechen
+yechout
 yefangshu
 yefangxiong
 yehai
@@ -4559,6 +4634,7 @@ zabbix
 zack
 zakenbaas
 zakupi
+zaleski
 zane
 zao
 zar
