@@ -3,20 +3,31 @@
 # Proactive cyber intelligenceinvestigatory work has lead to a growing username.keyword list.
 
 
+!qwe12345
 !root
 0101
+1029384756
 111111
 1111111
+11223344
+121121
 123
 123123
+123123qweqwe
 123321
 1234
+123412345
+12345012345
 123456
 123456
 12345678
+123456@
+123@Qweasd
+123qwe123!
 123root
 12xerfox12
 1984723
+1q2w3e
 22
 2Wire
 2tag^;&9u"Bl(b20
@@ -30,16 +41,22 @@
 Admin
 Administrator
 BOBEAR
+Ctctr@1z!N5
 FIELD
 JSDX
 Jakub
 Marrufo
 MikroTik
+P@$$WORD@2020
 P@$$word
 P@ssw0rd
+Pass1234567_
+Passw0rd888
 PlcmSpIp
+Qwerty123g
 R00tUs3r1
 Robert
+Wang
 ZJlt
 ZheJiangdx
 [buj
@@ -50,6 +67,7 @@ abc!1234
 abc1
 abc@123
 abcd
+abcde!@#%
 abuse
 abused
 account
@@ -57,6 +75,8 @@ accounting
 acplugs
 adam
 adam1
+adela
+adfexc
 adm
 adm1
 admin
@@ -65,8 +85,10 @@ admin1
 admin123
 admin2
 admin2007
+admin6
 administrateur
 administrator
+admins
 admoncat
 adrian
 afrid
@@ -78,6 +100,7 @@ alberto
 alessio
 alex
 alexander
+alfred
 alfresco
 ali
 allan
@@ -94,6 +117,7 @@ amavis1
 amber
 amerino
 ams
+amsftp
 amssys
 ana
 anarchy
@@ -103,6 +127,7 @@ andrew
 angel
 angel2
 angie
+anita
 anitra
 anna
 anne
@@ -112,6 +137,7 @@ antai
 antonio
 aombeva
 apache
+apache1
 apache2
 apagar
 app
@@ -120,6 +146,7 @@ apps
 appserver
 april
 aptproxy
+araya
 arena
 arieta
 art
@@ -128,6 +155,7 @@ artifactory
 artur
 arun
 asano
+asdfgh123456
 ashley
 assh
 asterisk
@@ -150,6 +178,8 @@ barbara
 bash
 bauer
 bbbbbbbbbb
+bednarski
+beeler
 beilman
 ben
 benny
@@ -166,6 +196,7 @@ books
 bot
 bouche
 brad
+brainhenk
 brd
 brett
 brian
@@ -185,6 +216,7 @@ cafe24
 camera
 canada
 cara
+caraibe
 carlos
 carol
 carolina
@@ -217,10 +249,13 @@ clamav1
 client
 clip
 cloud-user
+co
 cod
 code
 cody
 colleen
+colord
+com
 comercial
 conan
 configure
@@ -233,6 +268,7 @@ cpanel1
 craig
 cricket
 crista
+cristina
 crm
 cron
 cronovideo
@@ -250,6 +286,7 @@ cupel
 customer
 customer1
 cvs
+cvs1
 cvs2
 cvsadmin
 cvsroot
@@ -265,6 +302,7 @@ dana
 daniel
 danny
 darwin
+datatrain
 dave
 david
 dax
@@ -273,6 +311,7 @@ db2inst1
 db2server
 db4web
 dbmaker
+dbus
 death
 deb
 debian
@@ -282,6 +321,7 @@ debug
 dedicated
 default
 delta
+deluge
 deluxe
 demo
 denah
@@ -293,6 +333,7 @@ derick
 desadm
 design
 design1
+designdesign
 desktop
 dev
 developer
@@ -311,14 +352,17 @@ doris
 dovecot
 download
 download1
+dragon
 draytek
 drew
 drweb
+e
 ec2
 ec2-user
 echo
 eclasi
 ed
+eddie
 edu
 eduard
 edward
@@ -337,6 +381,7 @@ email
 emerson
 emily
 emma
+english
 epaper
 eric
 ernest
@@ -355,13 +400,18 @@ ferre
 file
 filter
 finance
+fink
 fish
+fisopn
 fixsen
 flowers
+fluffy
 fly
 fmaster
 fnn
+folder
 foobar
+force
 ford
 fran
 francis
@@ -389,6 +439,7 @@ games
 games1
 garduque
 garry
+gas
 gasse
 gast
 gateway
@@ -407,6 +458,7 @@ gitlab_ci
 gitrun
 glauco
 glenn
+glossary
 gnats
 goldmine
 goober
@@ -436,6 +488,7 @@ hera
 hexin
 hhh
 history
+hlds
 hlds1
 hoandy
 hoermandinger
@@ -443,6 +496,7 @@ holland
 holtsmark
 home
 hooton
+host
 howard
 hrubik
 hsqldb
@@ -456,13 +510,17 @@ ian1
 ianian
 ident
 idynamic
+iesuser
 igor
 iiilinux
 index
 info
 info1
+info2
+info5
 informix
 informix1
+inma
 install
 internet
 internet1
@@ -472,6 +530,7 @@ jacob
 jakarta
 james
 jan
+jasmine
 jason
 java
 jaxson
@@ -510,6 +569,7 @@ joseph
 josh
 joshua
 juan
+judy
 julia
 julian
 kaatjeuh
@@ -534,16 +594,19 @@ km
 kneissl
 knoppix
 koko
+kor
 kosuge
 kskim
 kym
 kyrin
 lahiru
 landscape
+lars
 laurie
 laverne
 lecunff
 lee
+lene
 lenovo
 leon
 lepine
@@ -555,6 +618,7 @@ libsys
 libuuid
 liferay
 limin
+linda
 linux
 linux1
 linux1234
@@ -566,6 +630,7 @@ list1
 listlist
 liut
 live
+liverpool1
 ll
 local
 localhost
@@ -618,6 +683,7 @@ marian
 mario
 marius
 mark
+markb
 marketing
 marketing1
 marry
@@ -633,6 +699,8 @@ max
 mayenburg
 mc
 mcc
+md
+media
 melyna
 member
 mi
@@ -655,6 +723,7 @@ mirror02
 mirror03
 mirror04
 mirror05
+mitchell
 mjackson
 mkdir
 mko
@@ -669,6 +738,7 @@ moritz
 morrissey
 mother
 motoka
+motsinger
 mouse
 mp3
 mqm
@@ -695,6 +765,7 @@ naomi
 nap
 naq
 nasa
+nat
 natsu
 nbvcxz
 ncim
@@ -702,8 +773,10 @@ nelu
 netdump
 netdump1
 netlink
+netservice
 new
 newharmony
+newrelic
 news
 newsletter
 newsletter1
@@ -716,6 +789,7 @@ nine
 nishimura
 nkinyanjui
 nn
+no
 nobody
 nobody1
 nobody321
@@ -729,6 +803,7 @@ office
 office1
 olga
 olimex
+oliver
 olivier
 omni
 omni03
@@ -750,6 +825,7 @@ pammie
 papachriston
 pascal
 password
+patrick
 patsy
 paul
 pause
@@ -772,7 +848,9 @@ physics
 pi
 pierre
 ping
+pjm
 plani
+plaza
 polo
 polycom
 porteus
@@ -788,6 +866,7 @@ postmaster
 ppp
 press
 prewitt
+primana
 proba
 production2
 produkcja
@@ -804,10 +883,16 @@ pub
 public
 pussy
 pvrm
+q987654321
 qalyanapp
+qazwsx123#
+qazwsxedc123g
 qeee
 qhsupport
 qq
+quake
+qweasdpoilkj
+qwedfgbnm
 r00t
 rOot123
 rad
@@ -943,6 +1028,7 @@ srvadmin
 ss
 sshd
 sshd1
+ssss
 stats
 stats2
 stella
@@ -963,6 +1049,7 @@ supervisor
 support
 support1
 supportsupport
+surgery
 sushma
 svn
 swsoft
@@ -1045,6 +1132,7 @@ tomtom
 toor
 torrealba
 tose
+toto
 town
 trading
 training
@@ -1062,6 +1150,7 @@ ts6
 tsserver
 tsukui
 tuerk
+tyler
 ubnt
 ubuntu
 ubuntu1
@@ -1098,12 +1187,14 @@ video
 vijaya
 vintweb
 virendar
+virginio
 virusalert
 vishnu
 vision
 visitor
 vitaly
 vittorio
+vivek
 vivian
 vmadmin
 vmuser
@@ -1112,8 +1203,10 @@ vnc
 vpopmail
 vpopmail1
 vpsadmin
+vsftpd
 vukovic
 vyatta
+wallace
 wally
 walter
 ward
@@ -1122,6 +1215,9 @@ wdh
 web
 web0
 web1
+web2
+web2005
+web23
 web27p1
 web6
 web7
@@ -1132,6 +1228,7 @@ web76f2
 web77
 web78p1
 web81
+web84
 web90
 web94p5
 web96p2
@@ -1158,10 +1255,13 @@ wwwdata
 wwwdata1
 wwwrun
 wwwrun1
+wwwrunwwwrun
 wwwtest
 wwwuser
+xX@123456
 xfs
 xguest
+xxx
 yuliang
 yumi
 z
@@ -1175,4 +1275,10 @@ zope
 zope1
 zt
 zxvf
+zz
 {luser}
+|
+~
+~!@`12
+~#$%^&*().;
+~~~.....~~~
